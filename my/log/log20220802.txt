@@ -1,0 +1,80 @@
+﻿2022/8/2 aishu 0:01:28程序异常=>独孤悠然[2502978141]:2日00:01:28(Task22-5)=>【URI】{!nc}cgi_ios_mine
+【POST】{wncs}&act=work&id=2&fuin=2378809169&index=2&safe=0
+【Request】{"code":-1,"direction":"操作频繁,请在1分钟后重试。为保证账号安全,请不要使用辅助软件。","ecode":-1,"poptype":3,"ret":-1}
+
+给定关键字不在字典中。
+   在 System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   在 HappyFarmAssist.HH.SWebReact(UserInfo us, WebInfo sDs)
+   在 HappyFarmAssist.HH.WebSend(OprInfo oo)
+TValue get_Item(TKey)
+
+2022/8/2 aishu 0:01:28程序异常=>独孤悠然[2502978141]:2日00:01:28(Task22-5)=>【URI】{!nc}cgi_ios_mine
+【POST】{wncs}&act=work&id=2&fuin=2377976445&index=2&safe=0
+【Request】{"code":-1,"direction":"操作频繁,请在1分钟后重试。为保证账号安全,请不要使用辅助软件。","ecode":-1,"poptype":3,"ret":-1}
+
+给定关键字不在字典中。
+   在 System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   在 HappyFarmAssist.HH.SWebReact(UserInfo us, WebInfo sDs)
+   在 HappyFarmAssist.HH.WebSend(OprInfo oo)
+TValue get_Item(TKey)
+
+2022/8/2 aishu 0:01:27程序异常=>独孤悠然[2502978141]:2日00:01:27(Task22-5)=>【URI】{!nc}cgi_ios_mine
+【POST】{wncs}&act=work&id=2&fuin=2377095480&index=2&safe=0
+【Request】{"code":-1,"direction":"操作频繁,请在1分钟后重试。为保证账号安全,请不要使用辅助软件。","ecode":-1,"poptype":3,"ret":-1}
+
+给定关键字不在字典中。
+   在 System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   在 HappyFarmAssist.HH.SWebReact(UserInfo us, WebInfo sDs)
+   在 HappyFarmAssist.HH.WebSend(OprInfo oo)
+TValue get_Item(TKey)
+
+2022/8/2 aishu 0:01:27程序异常=>独孤悠然[2502978141]:2日00:01:27(Task22-5)=>【URI】{!nc}cgi_ios_mine
+【POST】{wncs}&act=work&id=2&fuin=2377291320&index=2&safe=0
+【Request】{"code":-1,"direction":"操作频繁,请在1分钟后重试。为保证账号安全,请不要使用辅助软件。","ecode":-1,"poptype":3,"ret":-1}
+
+给定关键字不在字典中。
+   在 System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   在 HappyFarmAssist.HH.SWebReact(UserInfo us, WebInfo sDs)
+   在 HappyFarmAssist.HH.WebSend(OprInfo oo)
+TValue get_Item(TKey)
+
+2022/8/2 aishu 0:01:27程序异常=>独孤悠然[2502978141]:2日00:01:27(Task22-5)=>【URI】{!nc}cgi_ios_mine
+【POST】{wncs}&act=work&id=2&fuin=2376574770&index=2&safe=0
+【Request】{"code":-1,"direction":"操作频繁,请在1分钟后重试。为保证账号安全,请不要使用辅助软件。","ecode":-1,"poptype":3,"ret":-1}
+
+给定关键字不在字典中。
+   在 System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   在 HappyFarmAssist.HH.SWebReact(UserInfo us, WebInfo sDs)
+   在 HappyFarmAssist.HH.WebSend(OprInfo oo)
+TValue get_Item(TKey)
+
+2022/8/2 aishu 0:01:27程序异常=>独孤悠然[2502978141]:2日00:01:27(Task22-5)=>【URI】{!nc}cgi_ios_mine
+【POST】{wncs}&act=work&id=2&fuin=2376574770&index=2&safe=0
+【Request】{"code":-1,"direction":"操作频繁,请在1分钟后重试。为保证账号安全,请不要使用辅助软件。","ecode":-1,"poptype":3,"ret":-1}
+
+给定关键字不在字典中。
+   在 System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   在 HappyFarmAssist.HH.SWebReact(UserInfo us, WebInfo sDs)
+   在 HappyFarmAssist.HH.WebSend(OprInfo oo)
+TValue get_Item(TKey)
+
+2022/8/2 aishu 0:01:27程序异常=>独孤悠然[2502978141]:2日00:01:27(Task22-5)=>【URI】{!nc}cgi_ios_mine
+【POST】{wncs}&act=work&id=2&fuin=2376224548&index=2&safe=0
+【Request】{"code":-1,"direction":"操作频繁,请在1分钟后重试。为保证账号安全,请不要使用辅助软件。","ecode":-1,"poptype":3,"ret":-1}
+
+给定关键字不在字典中。
+   在 System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   在 HappyFarmAssist.HH.SWebReact(UserInfo us, WebInfo sDs)
+   在 HappyFarmAssist.HH.WebSend(OprInfo oo)
+TValue get_Item(TKey)
+
+2022/8/2 aishu 0:01:26程序异常=>独孤悠然[2502978141]:2日00:01:26(Task22-5)=>【URI】{!nc}cgi_ios_mine
+【POST】{wncs}&act=work&id=2&fuin=2376287158&index=2&safe=0
+【Request】{"code":-1,"direction":"操作频繁,请在1分钟后重试。为保证账号安全,请不要使用辅助软件。","ecode":-1,"poptype":3,"ret":-1}
+
+给定关键字不在字典中。
+   在 System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   在 HappyFarmAssist.HH.SWebReact(UserInfo us, WebInfo sDs)
+   在 HappyFarmAssist.HH.WebSend(OprInfo oo)
+TValue get_Item(TKey)
+

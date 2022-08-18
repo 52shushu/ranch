@@ -1,0 +1,6 @@
+﻿在[1/2/3]中将[]转换为=>System.Int64失败: 输入字符串的格式不正确。   在 System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   在 System.Number.ParseInt64(String value, NumberStyles options, NumberFormatInfo numfmt)
+   在 System.String.System.IConvertible.ToInt64(IFormatProvider provider)
+   在 System.Convert.ChangeType(Object value, Type conversionType, IFormatProvider provider)
+   在 System.Convert.ChangeType(Object value, Type conversionType)
+   在 HappyFarmAssist.JsonDeserialize.GetObject(JsonReader reader, Type t)Void StringToNumber(System.String, System.Globalization.NumberStyles, NumberBuffer ByRef, System.Globalization.NumberFormatInfo, Boolean)

@@ -1,0 +1,618 @@
+11:10:29: GetMyFarm:359-381 11:10:29
+11:03:34: GetHelp:313-363 
+11:03:34: 农场小手
+10:59:29: GetMyFarm:375-361 10:59:29
+10:48:58: NCJZShopList:328-376 
+10:48:57: NCJZTaskList:375-424 
+10:48:56: NCJZHome:375-473 
+10:48:54: NCNewLandHome:734-572 
+10:48:52: NCXTHome:359-411 
+10:48:51: NCWorkHome:328-463 
+10:48:50: {"direction":"该英雄不存在","ecode":-10} farmTime=1660790929,farmKey=0de57990f3ee4c5a71f7aeaae3d70986,farmKey2=f8d4c95523a7b6f306fe8cd73900c859,uIdx=786727825,uinY=786887896,index=0,cmd=down
+10:48:50: NCMPTowerUD:734-598 
+10:48:49: NCHiveHome:328-463 
+10:48:48: {"direction":"该英雄不存在","ecode":-10} farmTime=1660790928,farmKey=c2aeab6765555165f9b154c6a2667e8b,farmKey2=2c22d9701248651242ef031fa3b902ba,uIdx=786727825,uinY=786887896,index=0,cmd=down
+10:48:48: NCMPTowerUD:687-598 
+10:48:48: NCGetWish:360-510 
+10:48:46: {"direction":"该英雄不存在","ecode":-10} farmTime=1660790926,farmKey=c2c24edf301224935444c3283cf3802d,farmKey2=dcaffea36879ff0cd42997e974f63c4e,uIdx=786727825,uinY=786887896,index=0,cmd=down
+10:48:46: NCMPTowerUD:765-660 
+10:48:46: NCFuseHome:344-555 
+10:48:45: NCMPTowerHome:797-766 
+10:48:44: NCMPHistory:765-736 
+10:48:43: NCMPPKExchangeHome:734-707 
+10:48:41: NCMPPKHome:797-680 
+10:48:39: NCMPCrop:641-563 
+10:48:37: NCMPHero:640-486 
+10:48:36: NCMPHome:719-333 
+10:48:34: NCQTShopHome:688-333 
+10:48:34: NCMussleHome:328-333 
+10:48:32: NCQTOrderHome:766-338 
+10:48:32: NCFishPiece:703-338 
+10:48:32: GetHelp:328-338 
+10:48:32: 农场小手
+10:48:31: NCQTHome:734-348 
+10:48:30: {"code":0,"direction":"升级材料不足","poptype":3,"ret":-102} farmTime=1660790910,farmKey=08b1f0ef900fa4bf08efb239969058fe,farmKey2=b7339f05dec3f351af8f3288e16cd984,uIdx=786727825,uinY=786887896
+10:48:30: NCLevelUpPool:344-348 
+10:48:29: NCOrderHome:328-352 
+10:48:29: MyFish:312-377 
+10:48:28: GetMyFarm:375-443 10:48:28
+10:44:29: NCQTOrderHome:594-511 
+10:44:29: 潜艇订单触发刷新:index:0-2022/8/18 10:44:29-2022/8/18 10:44:29
+10:40:29: GetMyFarm:360-539 10:40:29
+10:36:30: NCQTOrderHome:688-719 
+10:36:29: [深海探险] 1 号订单提交成功 金币+237 经验+149 自然硫-5 蓝铜矿-3 赤铁矿-4 黄铁矿-3 
+10:36:28: NCQTOrderCommit:766-751 
+10:36:27: NCQTShopHome:750-736 
+10:36:25: NCQTOrderHome:812-722 
+10:36:23: NCQTHome:703-633 
+10:36:22: [深海探险] 1号潜艇从 2 区域返航完毕 收获：自然硫×2 黄铁矿×4 赤铁矿×2 蓝铜矿×3 
+10:36:21: NCQTHarvest:656-564 
+10:33:31: GetHelp:328-446 
+10:33:31: 农场小手
+10:31:26: NCQTShopHome:562-565 
+10:31:24: NCQTOrderHome:578-569 
+10:31:23: NCQTHome:640-560 
+10:31:22: [深海探险] 1号潜艇正在从 2 区域返航
+10:31:21: NCQTCallBack:562-480 
+10:31:03: 喂养珍珠蚌
+10:31:02: NCMussleFeed:313-329 
+10:31:02: 购买 珍珠蚌普通食物×1 点券-300
+10:31:01: NCMussleBuy:329-346 
+10:31:00: NCMussleTool:344-363 
+10:30:59: 在 珍珠蚌 收获珍珠+1
+10:30:58: NCMussleHarvest:328-382 
+10:30:57: NCMussleHome:344-436 
+10:29:29: GetMyFarm:375-528 10:29:29
+10:23:42: {"direction":"该英雄不存在","ecode":-10} farmTime=1660789422,farmKey=33664055f1eef37df8ce9e0e378c5d4b,farmKey2=ab2c2471e9606d1a40bea4f2e9743521,uIdx=786727825,uinY=786887896,index=0,cmd=down
+10:23:42: NCMPTowerUD:735-682 
+10:23:41: {"direction":"该英雄不存在","ecode":-10} farmTime=1660789421,farmKey=fcb28055c2d010096a4919e8791d794a,farmKey2=843b90c4bf2efdb91158dcc2b202cb8e,uIdx=786727825,uinY=786887896,index=0,cmd=down
+10:23:41: NCMPTowerUD:578-629 
+10:23:39: {"direction":"该英雄不存在","ecode":-10} farmTime=1660789419,farmKey=668df9db1aa31b33515f87b07083a7c9,farmKey2=a838cef7a53ccf4491de69616ab109ce,uIdx=786727825,uinY=786887896,index=0,cmd=down
+10:23:39: NCMPTowerUD:688-681 
+10:23:37: NCMPTowerHome:688-674 
+10:23:37: NCMPHistory:672-661 
+10:23:36: NCMPPKExchangeHome:735-651 
+10:23:34: NCMPPKHome:578-568 
+10:23:32: NCMPCrop:516-558 
+10:23:31: NCMPHero:532-601 
+10:23:29: NCMPHome:688-671 
+10:23:29: {"direction":"该英雄不存在","ecode":-10} farmTime=1660789409,farmKey=8023fee85e7b37878e8e15bbd427b9bb,farmKey2=fe52db9ab913a107f6bf0750aa62a0f4,uIdx=786727825,uinY=786887896,index=0,cmd=down
+10:23:29: NCMPTowerUD:656-655 
+10:23:29: 在魔法池[7]号地播种普通经验种子
+10:23:28: {"direction":"该英雄不存在","ecode":-10} farmTime=1660789407,farmKey=07e0c173a9f1b7f7ba829a81b94c97e7,farmKey2=b5397d4a38d0a85f1c1955a1cc9bd98a,uIdx=786727825,uinY=786887896,index=0,cmd=down
+10:23:28: NCMPTowerUD:640-654 
+10:23:28: NCMPPlant:672-668 
+10:23:27: 魔法池购买普通经验种子×1 点券-500
+10:23:26: NCMPBuySeed:656-664 
+10:23:26: {"direction":"该英雄不存在","ecode":-10} farmTime=1660789406,farmKey=914af45bf85db15de00605bb25d2f9c4,farmKey2=3f1ff9b915a97f593a9cc0d02d76fd4d,uIdx=786727825,uinY=786887896,index=0,cmd=down
+10:23:26: NCMPTowerUD:625-673 
+10:23:24: NCMPHistory:750-722 
+10:23:24: NCMPTowerHome:735-694 
+10:23:22: NCMPPKExchangeHome:688-653 
+10:23:21: NCMPPKHome:657-618 
+10:23:19: NCMPCrop:563-580 
+10:23:17: {"direction":"该英雄不存在","ecode":-10} farmTime=1660789397,farmKey=da973c53f03d12d253a422032700aee6,farmKey2=3a1a041264e5a3ba0ffa81eb58be68ff,uIdx=786727825,uinY=786887896,index=0,cmd=down
+10:23:17: NCMPTowerUD:594-597 
+10:23:17: NCMPHero:610-601 
+10:23:16: NCMPHome:610-592 
+10:23:16: {"direction":"该英雄不存在","ecode":-10} farmTime=1660789396,farmKey=40bc4190216c59ca5d9cfcbd11a87da7,farmKey2=8c46809f7cc24dc4a50365cfbdecf004,uIdx=786727825,uinY=786887896,index=0,cmd=down
+10:23:16: NCMPTowerUD:593-575 
+10:23:15: 魔法池收获 高级经验果实×5 
+10:23:14: {"direction":"该英雄不存在","ecode":-10} farmTime=1660789394,farmKey=2610b08c1f05b83948c61ac9c895a647,farmKey2=8044f09739128dfdce6f7596a94f2850,uIdx=786727825,uinY=786887896,index=0,cmd=down
+10:23:14: NCMPTowerUD:531-558 
+10:23:14: NCMPHarvest:562-585 
+10:23:12: NCMPHistory:609-609 
+10:23:12: NCMPTowerHome:578-610 
+10:23:11: NCMPPKExchangeHome:578-642 
+10:23:09: NCMPPKHome:750-706 
+10:23:08: NCMPCrop:688-663 
+10:23:06: NCMPHero:640-639 
+10:23:04: NCMPHome:609-638 
+10:21:08: {"direction":"该英雄不存在","ecode":-10} farmTime=1660789268,farmKey=53a8de8364ec98f2e59eb87683b85e62,farmKey2=9bf241a8c683a565ce97e43f77ab2e99,uIdx=786727825,uinY=786887896,index=0,cmd=down
+10:21:08: NCMPTowerUD:547-667 
+10:21:06: {"direction":"该英雄不存在","ecode":-10} farmTime=1660789266,farmKey=285946cf7f721cdc2e0748584614c975,farmKey2=20c81904779de2326025429a4325ee55,uIdx=786727825,uinY=786887896,index=0,cmd=down
+10:21:06: NCMPTowerUD:609-787 
+10:21:05: {"direction":"该英雄不存在","ecode":-10} farmTime=1660789264,farmKey=2db8e791dc10b6b5e14ad43b47b8e57b,farmKey2=1915ae73d4ab04cbbfd7f95cb0484ba4,uIdx=786727825,uinY=786887896,index=0,cmd=down
+10:21:05: NCMPTowerUD:719-727 
+10:21:03: NCMPTowerHome:750-735 
+10:21:03: NCMPHistory:735-721 
+10:21:01: NCMPPKExchangeHome:891-708 
+10:20:59: NCMPPKHome:782-708 
+10:20:57: NCMPCrop:640-634 
+10:20:56: NCMPHero:750-628 
+10:20:54: NCMPHome:657-622 
+10:20:53: 在魔法池[5]号地播种普通洗练种子
+10:20:52: NCMPPlant:656-587 
+10:20:52: 魔法池购买普通洗练种子×1 点券-800
+10:20:50: NCMPBuySeed:531-519 
+10:20:50: 在魔法池[4]号地播种普通洗练种子
+10:20:49: NCMPPlant:594-658 
+10:20:48: 魔法池购买普通洗练种子×1 点券-800
+10:20:47: NCMPBuySeed:703-723 
+10:20:46: 在魔法池[3]号地播种普通洗练种子
+10:20:45: NCMPPlant:844-744 
+10:20:45: 魔法池购买普通洗练种子×1 点券-800
+10:20:43: {"direction":"该英雄不存在","ecode":-10} farmTime=1660789242,farmKey=2c9612895fed8d02313a046b9f634e64,farmKey2=368a01c62aff85af24f1cbfbf7851a0b,uIdx=786727825,uinY=786887896,index=0,cmd=down
+10:20:43: NCMPTowerUD:2016-645 
+10:20:43: NCMPBuySeed:1687-649 
+10:20:42: 在魔法池[2]号地播种普通洗练种子
+10:20:40: NCMPPlant:625-649 
+10:20:40: {"direction":"该英雄不存在","ecode":-10} farmTime=1660789240,farmKey=7235063dc2233f295066c5b8c9b2c294,farmKey2=050776b3751901f097268e4910739896,uIdx=786727825,uinY=786887896,index=0,cmd=down
+10:20:40: NCMPTowerUD:671-674 
+10:20:39: 魔法池购买普通洗练种子×1 点券-800
+10:20:38: NCMPBuySeed:735-677 
+10:20:38: {"direction":"该英雄不存在","ecode":-10} farmTime=1660789238,farmKey=c8babbc73a5335f660554f0b9ea73cb6,farmKey2=6801b0c1a9fcc905e10beabe171ae417,uIdx=786727825,uinY=786887896,index=0,cmd=down
+10:20:38: NCMPTowerUD:688-620 
+10:20:37: NCMPTowerHome:1437-560 
+10:20:36: NCMPHistory:1312-560 
+10:20:31: NCMPPKExchangeHome:687-560 
+10:20:28: NCMPPKHome:797-718 
+10:20:26: NCMPCrop:672-639 
+10:20:24: NCMPHero:625-606 
+10:20:24: {"direction":"该英雄不存在","ecode":-10} farmTime=1660789224,farmKey=de35633d908583be82732125ebb192b6,farmKey2=e67a596a6d4afe97af9990b879356bf1,uIdx=786727825,uinY=786887896,index=0,cmd=down
+10:20:24: NCMPTowerUD:641-588 
+10:20:22: NCMPHome:765-728 
+10:20:22: {"direction":"该英雄不存在","ecode":-10} farmTime=1660789222,farmKey=212df970f3a1811cdf8bac2ea41c299d,farmKey2=757369eec838e4747523bb1eb9509436,uIdx=786727825,uinY=786887896,index=0,cmd=down
+10:20:22: NCMPTowerUD:734-691 
+10:20:22: 魔法池收获 高级洗练果实×75 高级洗练果实×75 普通洗练果实×35 普通洗练果实×35 
+10:20:21: NCMPHarvest:656-649 
+10:20:21: {"direction":"该英雄不存在","ecode":-10} farmTime=1660789220,farmKey=15007948eab4e4b5f9b6fecdff75cf20,farmKey2=be7c61c2856af554fbdb848fbffd5240,uIdx=786727825,uinY=786887896,index=0,cmd=down
+10:20:21: NCMPTowerUD:609-642 
+10:20:19: NCMPHistory:766-676 
+10:20:19: NCMPTowerHome:750-587 
+10:20:17: NCMPPKExchangeHome:750-696 
+10:20:15: NCMPPKHome:703-643 
+10:20:14: NCMPCrop:578-583 
+10:20:12: NCMPHero:703-694 
+10:20:12: {"direction":"该英雄不存在","ecode":-10} farmTime=1660789212,farmKey=c6f333a05e8319052435d2de9de3abc6,farmKey2=1b156355be0dc5d37ad080c0541a2af0,uIdx=786727825,uinY=786887896,index=0,cmd=down
+10:20:12: NCMPTowerUD:703-685 
+10:20:10: NCMPHome:656-668 
+10:20:10: {"direction":"该英雄不存在","ecode":-10} farmTime=1660789210,farmKey=f9f0ed119a72208cd1a0405551a2156f,farmKey2=b6a77ea9e368119089897088a91d129e,uIdx=786727825,uinY=786887896,index=0,cmd=down
+10:20:10: NCMPTowerUD:625-681 
+10:20:08: {"direction":"没什么可以收的","ecode":-10} farmTime=1660789208,farmKey=7afbd5ccc08cc37d24b7dd5c646d5ac3,farmKey2=f20e244fecae6720c5b9ac7955a8c6db,uIdx=786727825,uinY=786887896
+10:20:08: NCMPHarvest:750-737 
+10:20:08: {"direction":"该英雄不存在","ecode":-10} farmTime=1660789208,farmKey=7afbd5ccc08cc37d24b7dd5c646d5ac3,farmKey2=f20e244fecae6720c5b9ac7955a8c6db,uIdx=786727825,uinY=786887896,index=0,cmd=down
+10:20:08: NCMPTowerUD:734-725 
+10:20:06: NCMPTowerHome:719-717 
+10:20:06: NCMPHistory:734-716 
+10:20:03: NCMPPKExchangeHome:657-699 
+10:20:02: NCMPPKHome:719-741 
+10:20:00: NCMPCrop:719-764 
+10:19:58: NCMPHero:828-809 
+10:19:58: {"direction":"该英雄不存在","ecode":-10} farmTime=1660789198,farmKey=579fdb430fa30941d689570cf357ed7e,farmKey2=ee7cd3f02a7bdff39d0844bae8b6dfb8,uIdx=786727825,uinY=786887896,index=0,cmd=down
+10:19:58: NCMPTowerUD:844-791 
+10:19:56: NCMPHome:750-738 
+10:19:56: {"direction":"该英雄不存在","ecode":-10} farmTime=1660789196,farmKey=62268e8aa952bbae7faa0b3945a8d30a,farmKey2=fbbb3856b40e927126639b9e24fc346b,uIdx=786727825,uinY=786887896,index=0,cmd=down
+10:19:56: NCMPTowerUD:797-726 
+10:19:55: 在魔法池[1]号地播种高级体力种子
+10:19:54: NCMPPlant:672-655 
+10:19:54: {"direction":"该英雄不存在","ecode":-10} farmTime=1660789194,farmKey=a5ed80104a7f1cf03d302b7974cb8b2d,farmKey2=443d18fd40cfe26dbff2ca73be6808e7,uIdx=786727825,uinY=786887896,index=0,cmd=down
+10:19:54: NCMPTowerUD:641-639 
+10:19:53: NCMPTowerHome:625-638 
+10:19:53: NCMPHistory:610-651 
+10:19:51: NCMPPKExchangeHome:719-692 
+10:19:49: NCMPPKHome:687-665 
+10:19:47: NCMPCrop:594-643 
+10:19:46: NCMPHero:719-692 
+10:19:46: {"direction":"该英雄不存在","ecode":-10} farmTime=1660789185,farmKey=3a846454b484ac8993f9a315228c64ae,farmKey2=cf68b7a9d93aed28b2eb10847e75f082,uIdx=786727825,uinY=786887896,index=0,cmd=down
+10:19:46: NCMPTowerUD:672-666 
+10:19:44: {"direction":"该英雄不存在","ecode":-10} farmTime=1660789184,farmKey=7061b5ff03000c46651efbed168e76f6,farmKey2=ad12d1d9ecb510944dbad55973f85727,uIdx=786727825,uinY=786887896,index=0,cmd=down
+10:19:44: NCMPTowerUD:609-661 
+10:19:44: NCMPHome:703-713 
+10:19:43: 魔法池收获 高级体力果实×5 
+10:19:42: {"direction":"该英雄不存在","ecode":-10} farmTime=1660789182,farmKey=7892c109c7eed57c01188e9816340499,farmKey2=d034beac38c2222deaeaa5dadd607d9c,uIdx=786727825,uinY=786887896,index=0,cmd=down
+10:19:42: NCMPTowerUD:812-723 
+10:19:42: NCMPHarvest:672-634 
+10:19:40: NCMPTowerHome:610-597 
+10:19:40: NCMPHistory:578-584 
+10:19:39: NCMPPKExchangeHome:594-590 
+10:19:37: NCMPPKHome:672-587 
+10:19:35: NCMPCrop:562-502 
+10:19:34: NCMPHero:453-443 
+10:19:32: NCMPHome:5594-434 
+10:19:03: NCJZShopList:390-434 
+10:19:02: NCJZTaskList:375-479 
+10:19:00: NCJZHome:547-584 
+10:18:58: NCNewLandHome:718-621 
+10:18:57: NCXTHome:422-524 
+10:18:55: NCWorkHome:407-627 
+10:18:54: {"direction":"该英雄不存在","ecode":-10} farmTime=1660789133,farmKey=3f1d9450dcb4fa76d183c3f9b029ad5c,farmKey2=046bd347ec679b7e1e10d4cded31bb5c,uIdx=786727825,uinY=786887896,index=0,cmd=down
+10:18:54: NCMPTowerUD:1109-848 
+10:18:53: NCHiveHome:516-588 
+10:18:52: {"direction":"该英雄不存在","ecode":-10} farmTime=1660789131,farmKey=de37fc63a9ac37398383fc73c6de84c3,farmKey2=99dbad7d779d50c442a39aed2db041bb,uIdx=786727825,uinY=786887896,index=0,cmd=down
+10:18:52: NCMPTowerUD:829-661 
+10:18:51: NCGetWish:312-494 
+10:18:50: {"direction":"该英雄不存在","ecode":-10} farmTime=1660789129,farmKey=40301eb9c62ae09adcab91b7271ef7a2,farmKey2=88aa19712ebed8c347efea58b9ea3262,uIdx=786727825,uinY=786887896,index=0,cmd=down
+10:18:50: NCMPTowerUD:797-676 
+10:18:49: NCFuseHome:328-555 
+10:18:48: NCMPHistory:797-782 
+10:18:48: NCMPTowerHome:766-768 
+10:18:46: NCMPPKExchangeHome:782-770 
+10:18:44: NCMPPKHome:718-759 
+10:18:42: NCMPCrop:797-801 
+10:18:40: NCMPHero:656-805 
+10:18:39: NCMPHome:1031-955 
+10:18:36: NCQTShopHome:1078-879 
+10:18:35: NCMussleHome:515-681 
+10:18:33: NCFishPiece:907-847 
+10:18:33: NCQTOrderHome:891-787 
+10:18:31: {"code":0,"direction":"升级材料不足","poptype":3,"ret":-102} farmTime=1660789111,farmKey=5f39555687bd3693daab5c0a459b681f,farmKey2=8b9d13cf5d4313c2909d97fa61cc7ccb,uIdx=786727825,uinY=786887896
+10:18:31: NCLevelUpPool:719-683 
+10:18:31: NCQTHome:844-648 
+10:18:29: GetHelp:484-453 
+10:18:29: NCOrderHome:468-422 
+10:18:29: MyFish:390-376 
+10:18:29: 农场小手
+10:18:28: GetMyFarm:375-362 10:18:28
+10:13:52: GetMyFarm:359-349 10:13:52
+10:13:51: GetBag:328-339 
+10:13:49: NCBag:328-351 
+10:13:49: 在[25]号地种植 [牧草] 经验+0
+10:13:48: Planting:890-375 
+10:13:47: 在[25]号地翻地 经验+3
+10:13:46: Scarify:812-375 
+10:13:44: NCCheckBooksList:328-376 
+10:13:43: NCMyHistory:422-424 
+10:13:41: GetStorage:438-427 
+10:13:40: GetStorage:359-458 
+10:13:39: 在[25]号地收获 [牧草] ×24 经验+10 金币+144
+10:13:38: Harvest:734-558 
+10:13:37: GetMyFarm:422-382 10:13:37
+10:13:37: 触发自家刷新:Growing-2022/8/18 10:13:37
+10:11:10: NCGetWish:独孤悠然:328-342 
+10:11:09: ClearWeed:独孤悠然:359-357 
+10:11:08: GetMyFarm:独孤悠然:359-355 10:11:08
+10:11:05: NCGetWish:独孤悠然:344-352 
+10:11:03: ClearWeed:独孤悠然:343-360 
+10:11:03: 在 【独孤悠然】 的农场[5]号地摘取 [牧草] ×2 金币+12
+10:11:02: Scrounge:独孤悠然:375-377 
+10:11:00: GetMyFarm:独孤悠然:390-380 10:11:00
+10:10:57: NCGetWish:独孤悠然:328-371 
+10:10:56: ClearWeed:独孤悠然:328-415 
+10:10:54: SetOutPut:独孤悠然:625-503 
+10:10:54: 1660765853:1660788653
+10:10:53: GetMyFarm:独孤悠然:360-381 10:10:53
+10:10:47: NCMussleHome:328-402 
+10:10:45: NCFishPiece:625-476 
+10:10:45: MyFish:独孤悠然:328-328 
+10:10:45: 正在重新读取 [独孤悠然] 的渔场
+10:10:44: {"code":0,"direction":"升级材料不足","poptype":3,"ret":-102} farmTime=1660788644,farmKey=a3387b2a518db9a6906f46f5898baad7,farmKey2=ce8e3cba6e3c524ced412c456b6e2bfa,uIdx=786727825,uinY=786887896
+10:10:44: NCLevelUpPool:313-328 
+10:10:43: 正在偷前对时 [独孤悠然] 的农场2022/8/18 10:10:53
+10:10:43: MyFish:329-344 
+10:10:41: NCMussleHome:328-359 
+10:10:40: GetBag:343-391 
+10:10:38: NCBag:359-440 
+10:10:38: parseFish:
+10:10:37: NCFishPiece:641-521 
+10:10:36: 购买鱼苗 [彩粉鱼]×8  金币-48000
+10:10:35: BuyFish:469-402 
+10:10:35: 您选择的 [彩粉鱼] 背包已经没有了，从商店购买
+10:10:34: {"code":0,"direction":"升级材料不足","poptype":3,"ret":-102} farmTime=1660788634,farmKey=17731afec44c21c1d2a5af7739427757,farmKey2=90d82801042b9585fc5f6ebb29fa2c09,uIdx=786727825,uinY=786887896
+10:10:34: NCLevelUpPool:328-335 
+10:10:33: MyFish:328-342 
+10:10:31: NCMussleHome:407-357 
+10:10:31: parseFish:1,2,3,4,5,6,7,8
+10:10:30: NCFishPiece:719-308 
+10:10:28: FishStore:296-308 
+10:10:27: FishStore:313-320 
+10:10:26: 在渔场收获 [彩粉鱼]×30  金币+19500  经验+48
+10:10:26: 在渔场收获 [彩粉鱼]×30  金币+19500  经验+48
+10:10:26: 在渔场收获 [彩粉鱼]×30  金币+19500  经验+48
+10:10:26: 在渔场收获 [彩粉鱼]×30  金币+19500  经验+48
+10:10:26: 在渔场收获 [彩粉鱼]×30  金币+19500  经验+48
+10:10:26: 在渔场收获 [彩粉鱼]×30  金币+19500  经验+48
+10:10:26: 在渔场收获 [彩粉鱼]×30  金币+19500  经验+48
+10:10:26: 在渔场收获 [彩粉鱼]×30  金币+19500  经验+48
+10:10:25: FishHarvest:328-328 
+10:10:24: {"code":0,"direction":"升级材料不足","poptype":3,"ret":-102} farmTime=1660788624,farmKey=532cd8ae09cd31cac57c3dfa5ad79797,farmKey2=4a945cb70b893d96af938650ffa51d84,uIdx=786727825,uinY=786887896
+10:10:24: NCLevelUpPool:328-328 
+10:10:23: MyFish:328-329 
+10:10:21: NCMussleHome:328-331 
+10:10:21: parseFish:
+10:10:20: NCFishPiece:750-334 
+10:10:19: 在渔场放养鱼苗 [草莓鱼] (优先使用背包)
+10:10:18: FishRaise:344-334 
+10:10:18: 您选择了[背包优先饲养]。自动为您饲养背包鱼苗 [草莓鱼]
+10:10:17: {"code":0,"direction":"升级材料不足","poptype":3,"ret":-102} farmTime=1660788617,farmKey=d41f57340a0f9e12302d88f4ccb2fafd,farmKey2=f443c3a96d515aaefee330a230c23a6d,uIdx=786727825,uinY=786887896
+10:10:17: NCLevelUpPool:328-324 
+10:10:16: MyFish:312-321 
+10:10:14: NCMussleHome:328-330 
+10:10:14: parseFish:0
+10:10:13: NCFishPiece:765-332 
+10:10:11: FishStore:328-332 
+10:10:10: FishStore:313-336 
+10:10:09: 在渔场收获 [火口鱼]×38  金币+12388  经验+72
+10:10:08: FishHarvest:360-359 
+10:10:07: {"code":0,"direction":"升级材料不足","poptype":3,"ret":-102} farmTime=1660788607,farmKey=24ba935710e874be1ebf7db34c074bd7,farmKey2=785940793d298a494d0c0bd42e65f0cb,uIdx=786727825,uinY=786887896
+10:10:07: NCLevelUpPool:344-358 
+10:10:06: MyFish:328-373 
+10:10:05: 触发自家Fish刷新:idx-0 10:10:00
+10:10:04: NCMussleHome:344-419 
+10:10:03: NCFishPiece:641-494 
+10:10:01: {"code":0,"direction":"升级材料不足","poptype":3,"ret":-102} farmTime=1660788601,farmKey=16a9c60c3e7284d1e01b1cc91221961c,farmKey2=2a0348e36dfa9014e0940160e407bc82,uIdx=786727825,uinY=786887896
+10:10:01: NCLevelUpPool:344-347 
+10:10:00: MyFish:344-350 
+10:10:00: 触发自家Fish刷新:idx-0 10:10:00
+10:09:36: NCGetWish:独孤悠然:344-357 
+10:09:35: ClearWeed:独孤悠然:359-370 
+10:09:34: GetMyFarm:独孤悠然:344-381 10:09:34
+10:09:30: NCGetWish:独孤悠然:313-418 
+10:09:29: ClearWeed:独孤悠然:344-524 
+10:09:28: SetOutPut:独孤悠然:688-704 
+10:09:27: 1660765752:1660788552
+10:09:26: SetOutPut:独孤悠然:719-721 
+10:09:25: 1660765752:1660788552
+10:09:24: SetOutPut:独孤悠然:765-723 
+10:09:23: 1660765752:1660788552
+10:09:22: SetOutPut:独孤悠然:704-681 
+10:09:22: 1660765752:1660788552
+10:09:21: SetOutPut:独孤悠然:703-659 
+10:09:20: 1660765752:1660788552
+10:09:19: SetOutPut:独孤悠然:610-615 
+10:09:18: 1660765752:1660788552
+10:09:17: SetOutPut:独孤悠然:703-621 
+10:09:17: 1660765752:1660788552
+10:09:15: SetOutPut:独孤悠然:719-540 
+10:09:15: 1660765752:1660788552
+10:09:14: {"code":0,"direction":"获取农场数据失败！","poptype":3} farmTime=1660788553,farmKey=6b7b0884d3560fa40c773eeda652a3d2,farmKey2=acd23074da6c9c8934d2405c251ee731,uIdx=786727825,uinY=786887896,ownerId=2502702211,uinX=2502978141,place=3
+10:09:14: SetOutPut:独孤悠然:844-362 
+10:09:13: 1660765752:1660788552
+10:09:12: GetMyFarm:独孤悠然:375-362 10:09:12
+10:09:02: 正在偷前对时 [独孤悠然] 的农场2022/8/18 10:09:12
+10:03:28: GetHelp:312-373 
+10:03:27: 农场小手
+10:00:32: NCGetWish:独孤悠然:406-395 
+10:00:31: ClearWeed:独孤悠然:359-385 
+10:00:30: GetMyFarm:独孤悠然:453-412 10:00:30
+10:00:27: NCGetWish:独孤悠然:344-371 
+10:00:25: ClearWeed:独孤悠然:391-398 
+10:00:25: 在 【独孤悠然】 的农场[23]号地摘取 [牧草] ×1 金币+6
+10:00:25: 在 【独孤悠然】 的农场[22]号地摘取 [牧草] ×1 金币+6
+10:00:24: Scrounge:独孤悠然:421-405 
+10:00:22: GetMyFarm:独孤悠然:359-390 10:00:22
+10:00:12: 正在偷前对时 [独孤悠然] 的农场2022/8/18 10:00:22
+09:59:39: GetMyFarm:391-408 9:59:39
+09:59:37: GetBag:391-430 
+09:59:35: NCBag:344-469 
+09:59:35: 在[24]号地种植 [牧草] 经验+0
+09:59:35: 在[23]号地种植 [牧草] 经验+0
+09:59:35: 在[22]号地种植 [牧草] 经验+0
+09:59:35: 在[21]号地种植 [牧草] 经验+0
+09:59:35: 在[20]号地种植 [牧草] 经验+0
+09:59:35: 在[19]号地种植 [牧草] 经验+0
+09:59:35: 在[18]号地种植 [牧草] 经验+0
+09:59:34: Planting:781-594 
+09:59:33: 在[24]号地翻地 经验+3
+09:59:33: 在[23]号地翻地 经验+3
+09:59:33: 在[22]号地翻地 经验+3
+09:59:33: 在[21]号地翻地 经验+3
+09:59:33: 在[20]号地翻地 经验+3
+09:59:33: 在[19]号地翻地 经验+3
+09:59:33: 在[18]号地翻地 经验+3
+09:59:32: Scarify:781-364 
+09:59:32: NCGetWish:独孤悠然6:360-364 
+09:59:30: {"code":0,"direction":"证据是不能毁灭的！","ecode":null,"farmlandIndex":2,"poptype":1,"weed":1} farmTime=1660787970,farmKey=eed2646b65d4f987f26384a65dcb7010,farmKey2=52110575c6a9912753f44f4a1e7059cc,uIdx=786727825,uinY=786887896,ownerId=646527948,uinX=646977607,place=2,fName=独孤悠然7,tName=独孤悠然6
+09:59:30: ClearWeed:独孤悠然6:375-368 
+09:59:30: NCCheckBooksList:343-362 
+09:59:29: NCMyHistory:390-381 
+09:59:29: GetMyFarm:独孤悠然6:391-372 9:59:29
+09:59:27: GetStorage:343-353 
+09:59:26: NCGetWish:独孤悠然6:344-364 
+09:59:26: GetStorage:360-385 
+09:59:26: 在[24]号地收获 [牧草] ×24 经验+10 金币+144
+09:59:26: 在[23]号地收获 [牧草] ×27 经验+10 金币+162
+09:59:26: 在[22]号地收获 [牧草] ×25 经验+10 金币+150
+09:59:26: 在[21]号地收获 [牧草] ×27 经验+10 金币+162
+09:59:26: 在[20]号地收获 [牧草] ×26 经验+10 金币+156
+09:59:26: 在[19]号地收获 [牧草] ×28 经验+10 金币+168
+09:59:26: 在[18]号地收获 [牧草] ×27 经验+10 金币+162
+09:59:25: Harvest:860-410 
+09:59:24: {"code":0,"direction":"证据是不能毁灭的！","ecode":null,"farmlandIndex":2,"poptype":1,"weed":1} farmTime=1660787964,farmKey=49fcb0b06da9b070c82863bb2c90ddae,farmKey2=38435993c52178335fa1ba3f70a8bcfc,uIdx=786727825,uinY=786887896,ownerId=646527948,uinX=646977607,place=2,fName=独孤悠然7,tName=独孤悠然6
+09:59:24: ClearWeed:独孤悠然6:422-410 
+09:59:23: GetMyFarm:407-398 9:59:23
+09:59:22: [{"code":0,"direction":"这块地没东西可摘的！","ecode":-30172,"farmlandIndex":16,"harvest":0,"poptype":1,"status":{"action":[],"bitmap":0,"cId":0,"cropStatus":0,"fertilize":0,"harvestTimes":0,"health":100,"humidity":0,"leavings":0,"min":0,"oldhumidity":1,"oldpest":0,"oldweed":0,"output":0,"pId":0,"pest":0,"plantTime":0,"thief":{"786727825":1},"weed":0}},{"code":0,"direction":"这块地没东西可摘的！","ecode":-30172,"farmlandIndex":17,"harvest":0,"poptype":1,"status":{"action":[],"bitmap":0,"cId":0,"cropStatus":0,"fertilize":0,"harvestTimes":0,"health":100,"humidity":0,"leavings":0,"min":0,"oldhumidity":1,"oldpest":0,"oldweed":0,"output":0,"pId":0,"pest":0,"plantTime":0,"thief":{"786727825":1},"weed":0}},{"code":0,"direction":"这块地没东西可摘的！","ecode":-30172,"farmlandIndex":18,"harvest":0,"poptype":1,"status":{"action":[],"bitmap":0,"cId":0,"cropStatus":0,"fertilize":0,"harvestTimes":0,"health":100,"humidity":0,"leavings":0,"min":0,"oldhumidity":1,"oldpest":0,"oldweed":0,"output":0,"pId":0,"pest":0,"plantTime":0,"thief":{"786727825":1},"weed":0}},{"code":0,"direction":"这块地没东西可摘的！","ecode":-30172,"farmlandIndex":19,"harvest":0,"poptype":1,"status":{"action":[],"bitmap":0,"cId":0,"cropStatus":0,"fertilize":0,"harvestTimes":0,"health":100,"humidity":0,"leavings":0,"min":0,"oldhumidity":1,"oldpest":0,"oldweed":0,"output":0,"pId":0,"pest":0,"plantTime":0,"thief":{"786727825":1},"weed":0}},{"code":0,"direction":"这块地没东西可摘的！","ecode":-30172,"farmlandIndex":20,"harvest":0,"poptype":1,"status":{"action":[],"bitmap":0,"cId":0,"cropStatus":0,"fertilize":0,"harvestTimes":0,"health":100,"humidity":0,"leavings":0,"min":0,"oldhumidity":1,"oldpest":0,"oldweed":0,"output":0,"pId":0,"pest":0,"plantTime":0,"thief":{"786727825":1},"weed":0}},{"code":0,"direction":"这块地没东西可摘的！","ecode":-30172,"farmlandIndex":21,"harvest":0,"poptype":1,"status":{"action":[],"bitmap":0,"cId":0,"cropStatus":0,"fertilize":0,"harvestTimes":0,"health":100,"humidity":0,"leavings":0,"min":0,"oldhumidity":1,"oldpest":0,"oldweed":0,"output":0,"pId":0,"pest":0,"plantTime":0,"thief":{"786727825":1},"weed":0}},{"code":0,"direction":"这块地没东西可摘的！","ecode":-30172,"farmlandIndex":22,"harvest":0,"poptype":1,"status":{"action":[],"bitmap":0,"cId":0,"cropStatus":0,"fertilize":0,"harvestTimes":0,"health":100,"humidity":0,"leavings":0,"min":0,"oldhumidity":1,"oldpest":0,"oldweed":0,"output":0,"pId":0,"pest":0,"plantTime":0,"thief":{"786727825":1},"weed":0}},{"code":0,"direction":"这块地没东西可摘的！","ecode":-30172,"farmlandIndex":23,"harvest":0,"poptype":1,"status":{"action":[],"bitmap":0,"cId":0,"cropStatus":0,"fertilize":0,"harvestTimes":0,"health":100,"humidity":0,"leavings":0,"min":0,"oldhumidity":1,"oldpest":0,"oldweed":0,"output":0,"pId":0,"pest":0,"plantTime":0,"thief":{"786727825":1},"weed":0}},{"code":0,"direction":"这块地没东西可摘的！","ecode":-30172,"farmlandIndex":24,"harvest":0,"poptype":1,"status":{"action":[],"bitmap":0,"cId":0,"cropStatus":0,"fertilize":0,"harvestTimes":0,"health":100,"humidity":0,"leavings":0,"min":0,"oldhumidity":1,"oldpest":0,"oldweed":0,"output":0,"pId":0,"pest":0,"plantTime":0,"thief":{"786727825":1},"weed":0}}] farmTime=1660787962,farmKey=7e15fe9542a2d6bf49af1571766b375d,farmKey2=ef74724c7e3f956ada1e086529d625a2,uIdx=786727825,uinY=786887896,ownerId=646527948,uinX=646977607,"place=16,17,18,19,20,21,22,23,24",fName=独孤悠然7,tName=独孤悠然6
+09:59:22: Scrounge:独孤悠然6:391-390 
+09:59:22: 触发自家刷新:Growing-2022/8/18 9:59:22
+09:59:20: GetMyFarm:独孤悠然6:391-390 9:59:20
+09:59:10: 正在偷前对时 [独孤悠然6] 的农场2022/8/18 9:59:20
+09:56:16: GetBag:360-371 
+09:56:15: NCBag:360-383 
+09:56:14: GetMyFarm:453-406 9:56:14
+09:56:11: GetBag:360-359 
+09:56:10: NCBag:344-358 
+09:56:09: 在[2]号地种植 [牧草] 经验+0
+09:56:08: Planting:968-373 
+09:56:07: 在[2]号地翻地 经验+3
+09:56:06: Scarify:891-373 
+09:56:04: NCCheckBooksList:344-373 
+09:56:03: NCMyHistory:359-403 
+09:56:01: GetStorage:344-448 
+09:56:00: GetStorage:359-553 
+09:56:00: 在[2]号地收获 [牧草] ×31 经验+10 金币+186
+09:55:59: Harvest:922-747 
+09:55:57: GetMyFarm:406-573 9:55:57
+09:55:57: 对自己农场第 [2] 块地施肥 [飞速化肥]
+09:55:55: NCUseTool:875-740 
+09:55:55: 对自己农场第 [1] 块地施肥 [极速化肥]
+09:55:54: NCUseTool:797-606 
+09:55:52: GetMyFarm:406-416 9:55:52
+09:55:50: GetBag:375-427 
+09:55:49: NCBag:343-480 
+09:55:48: 在[8]号地种植 [牧草] 经验+0
+09:55:47: Planting:734-617 
+09:55:47: 在[8]号地翻地 经验+3
+09:55:46: Scarify:656-500 
+09:55:44: NCCheckBooksList:328-345 
+09:55:43: NCMyHistory:375-363 
+09:55:41: GetStorage:343-351 
+09:55:40: GetStorage:344-360 
+09:55:40: 在[8]号地收获 [牧草] ×32 经验+10 金币+192
+09:55:39: Harvest:953-377 
+09:55:37: GetMyFarm:360-377 9:55:37
+09:55:36: 触发自家刷新:Growing-2022/8/18 9:55:33
+09:55:34: SetOutPut:797-394 
+09:55:34: 1660764933:1660787733
+09:55:33: GetMyFarm:375-394 9:55:33
+09:55:33: 触发自家刷新:Growing-2022/8/18 9:55:33
+09:53:04: NCGetWish:独孤悠然:359-372 
+09:53:03: ClearWeed:独孤悠然:375-382 
+09:53:02: GetMyFarm:独孤悠然:390-390 9:53:02
+09:52:59: NCGetWish:独孤悠然:328-391 
+09:52:58: ClearWeed:独孤悠然:406-396 
+09:52:56: {"code":0,"direction":"这块地没东西可摘的！","ecode":-30172,"farmlandIndex":24,"harvest":0,"poptype":1,"status":{"action":[],"bitmap":0,"cId":0,"cropStatus":0,"fertilize":0,"harvestTimes":0,"health":100,"humidity":0,"leavings":0,"min":0,"oldhumidity":1,"oldpest":0,"oldweed":0,"output":0,"pId":0,"pest":0,"plantTime":0,"thief":{"786727825":1},"weed":0}} farmTime=1660787576,farmKey=1dce6b436d4381451d78d66161cb846a,farmKey2=a8e8c937c161be763f5cb29cefbd7dfd,uIdx=786727825,uinY=786887896,ownerId=2502702211,uinX=2502978141,place=24,fName=独孤悠然7,tName=独孤悠然
+09:52:56: Scrounge:独孤悠然:391-387 
+09:52:54: GetMyFarm:独孤悠然:390-384 9:52:54
+09:52:41: NCGetWish:独孤悠然:359-379 
+09:52:40: ClearWeed:独孤悠然:391-400 
+09:52:39: GetMyFarm:独孤悠然:438-409 9:52:39
+09:52:36: NCGetWish:独孤悠然:375-386 
+09:52:35: ClearWeed:独孤悠然:375-397 
+09:52:33: {"code":0,"direction":"这块地没东西可摘的！","ecode":-30172,"farmlandIndex":23,"harvest":0,"poptype":1,"status":{"action":[],"bitmap":0,"cId":0,"cropStatus":0,"fertilize":0,"harvestTimes":0,"health":100,"humidity":0,"leavings":0,"min":0,"oldhumidity":1,"oldpest":0,"oldweed":0,"output":0,"pId":0,"pest":0,"plantTime":0,"thief":{"786727825":1},"weed":0}} farmTime=1660787553,farmKey=1ab8e9432707be8c5c30729121086993,farmKey2=6b4c405117003ccbaa78dc89a4cddd10,uIdx=786727825,uinY=786887896,ownerId=2502702211,uinX=2502978141,place=23,fName=独孤悠然7,tName=独孤悠然
+09:52:33: Scrounge:独孤悠然:391-420 
+09:52:31: GetMyFarm:独孤悠然:484-462 9:52:31
+09:52:20: 正在偷前对时 [独孤悠然] 的农场2022/8/18 9:52:30
+09:50:58: NCGetWish:独孤悠然6:375-368 
+09:50:57: {"code":0,"direction":"证据是不能毁灭的！","ecode":null,"farmlandIndex":2,"poptype":1,"weed":1} farmTime=1660787457,farmKey=228af0add84abeef97cde05bee60c0e7,farmKey2=6449c3b5d977563ee9b1e48144bd553f,uIdx=786727825,uinY=786887896,ownerId=646527948,uinX=646977607,place=2,fName=独孤悠然7,tName=独孤悠然6
+09:50:57: ClearWeed:独孤悠然6:375-362 
+09:50:56: GetMyFarm:独孤悠然6:359-350 9:50:56
+09:50:53: NCGetWish:独孤悠然6:328-341 
+09:50:52: ClearWeed:独孤悠然6:344-355 
+09:50:50: SetOutPut:独孤悠然6:844-366 
+09:50:50: 1660764649:1660787449
+09:50:49: GetMyFarm:独孤悠然6:375-366 9:50:49
+09:50:39: 正在偷前对时 [独孤悠然6] 的农场2022/8/18 9:50:49
+09:48:32: {"cd":86400,"direction":"对不起，您不满足升级资格。","ecode":-30344,"level":58,"money":4000000,"place":0,"qd":80,"yqd":64} farmTime=1660787312,farmKey=aca4749572f00b84c82f0fc90974867b,farmKey2=f4096843b762500ab27fd600e91c7bb0,uIdx=786727825,uinY=786887896,op=0
+09:48:32: OpenGoldLand:344-347 
+09:48:31: {"cd":0,"direction":"对不起，您不满足升级资格。","ecode":-30344,"level":57,"money":5000000,"place":17,"qd":150,"yqd":120} farmTime=1660787311,farmKey=ff44cc8eeedd08d86a17355c37d12269,farmKey2=b2ce52777e6a0908f3704a21f052ba5d,uIdx=786727825,uinY=786887896,op=0
+09:48:31: OpenBlackLand:328-351 
+09:48:30: 总计好友：3个
+09:48:30: 读取校友好友：0个（校友已关停，无法读取）
+09:48:30: 读取空间好友：3个
+09:48:29: GetFriend:375-375 
+09:48:29: 刷新好友列表信息
+09:48:28: NCInvitList:328-344 
+09:48:28: 扫描完毕，进入监控状态
+09:48:28: 开启每工作 120 分钟，休息 30 分钟功能
+09:48:28: 开启自动检测可偷、可除草虫列表（小手），间隔15分钟
+09:48:28: 开启定时刷新自己农场，间隔30分钟
+09:48:27: NCGetWish:独孤悠然6:344-361 
+09:48:25: ClearWeed:独孤悠然6:391-378 
+09:48:24: GetMyFarm:独孤悠然6:391-365 9:48:24
+09:48:21: MyFish:独:375-366 
+09:48:19: NCGetWish:独:359-358 
+09:48:18: ClearWeed:独:344-358 
+09:48:17: GetMyFarm:独:375-372 9:48:17
+09:48:15: 在 【独孤悠然】 的农场[1]号地放杂草 剩余放杂草次数：47
+09:48:14: NCDoBad:独孤悠然:375-370 
+09:48:14: 在 【独孤悠然6】 的农场[1]号地放杂草 剩余放杂草次数：48
+09:48:13: NCDoBad:独孤悠然6:375-366 
+09:48:12: 触发自家Fish刷新:idx-3 5:02:06
+09:48:12: 在 【独】 的农场[1]号地放杂草 剩余放杂草次数：49
+09:48:11: NCDoBad:独:375-358 
+09:48:11: 开始分析所有好友
+09:48:10: GetHelp:360-354 
+09:48:09: 开始分析可偷、可除草虫列表（小手）
+09:48:08: NCMussleHome:344-349 
+09:48:07: NCFishPiece:781-354 
+09:48:05: {"code":0,"direction":"升级材料不足","poptype":3,"ret":-102} farmTime=1660787285,farmKey=e28892308c6a2dcbd6a0646d90f8e9e6,farmKey2=dc5518842776e8e566763807b253c85d,uIdx=786727825,uinY=786887896
+09:48:05: NCLevelUpPool:343-354 
+09:48:04: MyFish:329-341 
+09:48:03: GetMyFarm:375-354 9:48:03
+09:48:01: {"code":0,"direction":"这棵许愿树没有许愿哦，请晚一些再来吧~","ecode":-600,"poptype":3} farmTime=1660787281,farmKey=336e18e975e71780caed43d574a1974f,farmKey2=e28b510e10161edf4adb59a09864ddaa,uIdx=786727825,uinY=786887896,ownerId=2502702211,uinX=2502978141
+09:48:01: NCHelpWish:独孤悠然:344-334 
+09:48:01: DoGiveAWish
+09:48:01: PreGiveAWish
+09:48:00: {"code":0,"direction":"这棵许愿树没有许愿哦，请晚一些再来吧~","ecode":-600,"poptype":3} farmTime=1660787280,farmKey=57c4e89c09b41189aaa750eb8ae493fa,farmKey2=470ee42065313b17ac2a56e4065bb427,uIdx=786727825,uinY=786887896,ownerId=646527948,uinX=646977607
+09:48:00: NCHelpWish:独孤悠然6:313-324 
+09:47:59: DoGiveAWish
+09:47:59: PreGiveAWish
+09:47:58: {"code":0,"direction":"这棵许愿树没有许愿哦，请晚一些再来吧~","ecode":-600,"poptype":3} farmTime=1660787278,farmKey=d29577a1466f898ed0f662be8d5a1910,farmKey2=ed71664f00acf79685e6907459b9670e,uIdx=786727825,uinY=786887896,ownerId=792634362,uinX=792645994
+09:47:58: NCHelpWish:独:344-343 
+09:47:58: DoGiveAWish
+09:47:58: PreGiveAWish
+09:47:58: 升级红土地失败。要求：57级 金币：6800000
+09:47:57: {"code":888,"direction":"对不起，升级下一块红土地需要等级57级，您的等级不足！","ecode":-30123,"level":57,"money":6800000,"place":23,"qd":150,"yqd":120} farmTime=1660787277,farmKey=277b4e46b4e7a91c6fde63e7857255f1,farmKey2=241fe52e167bc8aae1ad385b7ad1d95b,uIdx=786727825,uinY=786887896
+09:47:57: CheckNewRedLand:312-342 
+09:47:56: GetMyFarm:391-373 9:47:56
+09:47:53: GetBag:329-355 
+09:47:53: {"code":0,"direction":"经验不足","ecode":-30065} farmTime=1660787274,farmKey=dd1f9009ca1a1de22ae339ceeae3d151,farmKey2=643a608a8d53f59c4a5651cab62312ef,uIdx=786727825,uinY=786887896
+09:47:53: OpenLand:344-382 
+09:47:52: NCBag:344-340 
+09:47:52: CheckNewLand:344-337 
+09:47:51: SignHome:328-330 
+09:47:49: {"code":0,"direction":"礼包已经领取过。","ecode":-101} farmTime=1660787269,farmKey=ebb21e97063fce752e8941aa6741ddb1,farmKey2=d2b652132bb5ab9da7ee6ecca8b5b055,uIdx=786727825,uinY=786887896
+09:47:49: NCScoreDraw:312-332 
+09:47:49: [等级评估信息]：[土地：6150]+[作物：302]+[鱼：490]+[装饰：4%]+[狗：2%]=[总分：6519]
+09:47:48: NCScore:344-353 
+09:47:40: NCJZShopList:359-388 
+09:47:39: NCJZTaskList:375-418 
+09:47:37: NCJZHome:438-461 
+09:47:35: NCNewLandHome:781-610 
+09:47:35: NCMussleHome:359-440 
+09:47:34: NCFishPiece:672-521 
+09:47:33: NCXTHome:375-371 
+09:47:32: {"code":0,"direction":"升级材料不足","poptype":3,"ret":-102} farmTime=1660787252,farmKey=24508d2bee220f698d4bb12ece86bd8e,farmKey2=c00f73e14e122635c4dbd7c4176359a0,uIdx=786727825,uinY=786887896
+09:47:32: NCLevelUpPool:375-367 
+09:47:32: {"code":0,"ecode":-1} farmTime=1660787252,farmKey=24508d2bee220f698d4bb12ece86bd8e,farmKey2=c00f73e14e122635c4dbd7c4176359a0,uIdx=786727825,uinY=786887896,id=247
+09:47:32: NCFullBag:359-359 
+09:47:32: NCWorkHome:344-360 
+09:47:30: {"direction":"该英雄不存在","ecode":-10} farmTime=1660787250,farmKey=16fef255af98988e3cd0fa17e776931d,farmKey2=a36034676a06a792cd7a746c1198607c,uIdx=786727825,uinY=786887896,index=0,cmd=down
+09:47:30: NCMPTowerUD:813-364 
+09:47:30: MyFish:328-364 
+09:47:30: {"code":0,"ecode":-1} farmTime=1660787250,farmKey=16fef255af98988e3cd0fa17e776931d,farmKey2=a36034676a06a792cd7a746c1198607c,uIdx=786727825,uinY=786887896,id=246
+09:47:30: NCFullBag:375-401 
+09:47:30: NCHiveHome:360-428 
+09:47:29: {"direction":"该英雄不存在","ecode":-10} farmTime=1660787249,farmKey=67a7fc3dfd9ca8b36babdd1539432e7a,farmKey2=89aee30792a1525eed243f6f1776fc96,uIdx=786727825,uinY=786887896,index=0,cmd=down
+09:47:29: NCMPTowerUD:594-497 
+09:47:29: GetMyFarm:422-401 9:47:29
+09:47:29: {"code":0,"ecode":-1} farmTime=1660787249,farmKey=67a7fc3dfd9ca8b36babdd1539432e7a,farmKey2=89aee30792a1525eed243f6f1776fc96,uIdx=786727825,uinY=786887896,id=245
+09:47:29: NCFullBag:344-381 
+09:47:29: NCGetWish:391-418 
+09:47:27: {"direction":"该英雄不存在","ecode":-10} farmTime=1660787247,farmKey=6b57b3ae89db3202b59fbf175123a004,farmKey2=d1ad0b65a62ec639b3b0c877d94bf73f,uIdx=786727825,uinY=786887896,index=0,cmd=down
+09:47:27: NCMPTowerUD:922-446 
+09:47:27: NCFuseHome:422-446 
+09:47:27: BeforeSign:344-471 
+09:47:25: NCMPHistory:938-837 
+09:47:25: NCMPTowerHome:921-736 
+09:47:23: NCMPPKExchangeHome:719-551 
+09:47:21: NCMPPKHome:843-384 
+09:47:19: NCMPCrop:781-378 
+09:47:19: {"code":0,"direction":"你的资格用完了~","ecode":-100,"poptype":3} farmTime=1660787239,farmKey=606dfa3cf0b2b6dd4519b95955dcb86e,farmKey2=8107b1eee0e67c128555df4058f25fc2,uIdx=786727825,uinY=786887896,market=1,appid=353,version=3.0.0,platform=14
+09:47:19: NCNewAndroid:344-378 
+09:47:18: NCMPHero:859-413 
+09:47:17: NCMussleHome:343-413 
+09:47:17: NCNewAndroidHome:360-483 
+09:47:17: 总计好友：3个
+09:47:17: 读取校友好友：0个（校友已关停，无法读取）
+09:47:17: 读取空间好友：3个
+09:47:16: NCMPHome:782-606 
+09:47:15: GetFriend:391-431 
+09:47:15: 获取好友列表信息
+09:47:14: NCQTOrderHome:719-570 
+09:47:13: {"code":0,"direction":"升级材料不足","poptype":3,"ret":-102} farmTime=1660787234,farmKey=ff38ff98c24ef935f2a786a89cc5b7f2,farmKey2=68a3cfdc775eb64d2678317818f957b0,uIdx=786727825,uinY=786887896
+09:47:13: NCLevelUpPool:328-421 
+09:47:12: NCQTHome:672-515 
+09:47:12: MyFish:344-359 
+09:47:10: NCOrderHome:375-375 
+09:47:10: NCCheckBooksList:360-376 
+09:47:09: NCWorkHome:360-346 
+09:47:08: NCOrderHome:343-332 
+09:47:06: FishStore:312-322 
+09:47:05: FishStore:328-333 
+09:47:03: NCMyWorkList:343-339 
+09:47:02: GetStorage:343-335 
+09:47:01: GetStorage:328-328 
+09:46:59: GetBag:328-328 
+09:46:58: NCBag:329-329 
+09:46:57: MyItems:328-333 
+09:46:55: NCFishHistory:328-339 
+09:46:54: NCMyHistory:344-350 
+09:46:53: GetMyFarm:344-357 9:46:53
+09:46:51: NCItems:343-413 
+09:46:51: 完成服务器时间校对
+09:46:51: 获取自己的农场信息
+09:46:45: NCTool:531-484 
+09:46:45: 读取配置
+09:46:45: 登录成功，官方网站：http://www.qqhelper.net
+09:46:44: GetMyFarm:406-406 9:46:44

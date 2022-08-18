@@ -1,0 +1,10 @@
+﻿2022/7/26 aishu 6:32:22程序异常=>独[792645994]:26日06:32:22(Task22-5)=>【URI】{!nc}cgi_ios_mine
+【POST】{wncs}&act=work&id=16&fuin=1926210533&index=4&safe=0
+【Request】{"code":-1,"direction":"操作频繁,请在1分钟后重试。为保证账号安全,请不要使用辅助软件。","ecode":-1,"poptype":3,"ret":-1}
+
+给定关键字不在字典中。
+   在 System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   在 HappyFarmAssist.HH.SWebReact(UserInfo us, WebInfo sDs)
+   在 HappyFarmAssist.HH.WebSend(OprInfo oo)
+TValue get_Item(TKey)
+

@@ -1,0 +1,22 @@
+﻿2022/7/8 aishu 9:16:33程序异常=>独[792645994]:8日09:16:33(Task22-5)=>【URI】{!nc}cgi_ios_mine
+【POST】{wncs}&act=work&id=32&fuin=2653966695&index=3&safe=0
+【Request】{"code":-1,"direction":"操作频繁,请在1分钟后重试。为保证账号安全,请不要使用辅助软件。","ecode":-1,"poptype":3,"ret":-1}
+
+给定关键字不在字典中。
+   在 System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   在 HappyFarmAssist.HH.SWebReact(UserInfo us, WebInfo sDs)
+   在 HappyFarmAssist.HH.WebSend(OprInfo oo)
+TValue get_Item(TKey)
+
+2022/7/8 aishu 9:08:37解析出错=>独孤悠然6[646977607]:8日09:08:37(Task22-0)=>【URI】{!nc}cgi_ios_mine
+【POST】{wncs}&act=index&fuin=4822672
+【Request】{"bag":[],"baoshi":0,"card":[],"chui_t":1657203195,"ecode":0,"jia_su":1285,"kd":0,"kd_id":0,"kd_num":640,"kd_t":1657267979,"login":1657209958,"love":0,"lv":106,"lv_limit":9,"max_bag":40,"max_miner":43,"miner":[],"miner_list":[{"id":8},{"id":11},{"id":20}],"miner_ref":1656960798,"pitlist":[{"b_t":0,"id":1,"m_id":0,"max_load":363,"out_id":0,"p_lv":3,"pk":165,"pk_rate":60,"power":0,"rate":231,"safe":0,"uin":0,"userName":"","v":0},{"b_t":1657239211,"id":2,"m_id":55,"max_load":260,"out_id":5,"p_lv":3,"pk":290,"pk_rate":60,"power":230,"rate":220,"safe":0,"uin":641236969,"userName":"༊྄ཻ࿆爱࿆迷࿆离࿆࿐","v":75},{"b_t":1657236278,"id":3,"m_id":35,"max_load":280,"out_id":2,"p_lv":3,"pk":160,"pk_rate":60,"power":140,"rate":300,"safe":0,"uin":125431563,"userName":"换个名字玩玩","v":100},{"b_t":1657239104,"id":4,"m_id":19,"max_load":300,"out_id":2,"p_lv":3,"pk":160,"pk_rate":60,"power":200,"rate":260,"safe":0,"uin":776816378,"userName":"一缕茶烟","v":70},{"b_t":1657240269,"id":5,"m_id":19,"max_load":300,"out_id":5,"p_lv":3,"pk":160,"pk_rate":60,"power":204,"rate":260,"safe":1,"uin":441748030,"userName":"海殇君","v":77},{"b_t":1657239429,"id":6,"m_id":33,"max_load":300,"out_id":3,"p_lv":3,"pk":247,"pk_rate":60,"power":120,"rate":280,"safe":0,"uin":641236969,"userName":"༊྄ཻ࿆爱࿆迷࿆离࿆࿐","v":80}],"rep":[],"ret":0,"rl_lv":3,"safe_card":636,"star_limit":5,"sum_harvest":318767}
+
+集合已修改；可能无法执行枚举操作。
+   在 System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   在 System.Collections.Generic.Dictionary`2.ValueCollection.Enumerator.MoveNext()
+   在 System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   在 HappyFarmAssist.Task.Nc22_Web.React(UserInfo u, WebInfo sDs)
+   在 HappyFarmAssist.HH.SWebReact(UserInfo us, WebInfo sDs)
+Void ThrowInvalidOperationException(System.ExceptionResource)
+

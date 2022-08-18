@@ -1,0 +1,12 @@
+﻿2022/5/23 aishu 0:01:38解析出错=>独[792645994]:23日00:01:38(Task22-0)=>【URI】{!nc}cgi_ios_mine
+【POST】{wncs}&act=index&fuin=1445810602
+【Request】{"bag":[],"baoshi":0,"card":[],"chui_t":1653136081,"ecode":0,"jia_su":16,"kd":0,"kd_id":0,"kd_num":20,"kd_t":1653241134,"login":1653235202,"love":0,"lv":36,"lv_limit":7,"max_bag":20,"max_miner":17,"miner":[],"miner_list":[{"id":5},{"id":14},{"id":38}],"miner_ref":1652876499,"pitlist":[{"b_t":0,"id":1,"m_id":0,"max_load":250,"out_id":0,"p_lv":1,"pk":170,"pk_rate":60,"power":0,"rate":250,"safe":0,"uin":0,"userName":"","v":0},{"b_t":0,"id":2,"m_id":0,"max_load":90,"out_id":0,"p_lv":1,"pk":132,"pk_rate":60,"power":0,"rate":193,"safe":0,"uin":0,"userName":"","v":0},{"b_t":0,"id":3,"m_id":0,"max_load":140,"out_id":0,"p_lv":0,"pk":100,"pk_rate":60,"power":0,"rate":200,"safe":0,"uin":0,"userName":"","v":0},{"b_t":0,"id":4,"m_id":0,"max_load":156,"out_id":0,"p_lv":0,"pk":123,"pk_rate":60,"power":0,"rate":168,"safe":0,"uin":0,"userName":"","v":0}],"rep":[],"ret":0,"rl_lv":2,"safe_card":76,"star_limit":1,"sum_harvest":1812}
+
+集合已修改；可能无法执行枚举操作。
+   在 System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   在 System.Collections.Generic.Dictionary`2.ValueCollection.Enumerator.MoveNext()
+   在 System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   在 HappyFarmAssist.Task.Nc22_Web.React(UserInfo u, WebInfo sDs)
+   在 HappyFarmAssist.HH.SWebReact(UserInfo us, WebInfo sDs)
+Void ThrowInvalidOperationException(System.ExceptionResource)
+

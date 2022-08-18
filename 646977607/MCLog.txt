@@ -1,0 +1,171 @@
+11:06:59: GetMyPasture:独:422-388 11:06:59
+11:06:58: 触发 [独] 21赶产-2022/8/18 11:06:59-2022/8/18 11:06:59-44791.4631837731
+11:06:39: 正在对时 [独] 的牧场2022/8/18 11:06:59
+11:05:33: GetMCHelp:312-354 
+11:05:32: 牧场小手
+11:00:48: GetMyPasture:独孤悠然:438-402 11:00:49
+11:00:47: {"errorCode":"-11006","errorContent":"手下留情,给主人留一点吧","errorType":"logic"}
+11:00:42: Steal:独孤悠然:328-366 
+11:00:36: GetMyPasture:独孤悠然:437-404 11:00:37
+11:00:36: 触发 [独孤悠然] 15偷取
+11:00:16: {"poptype":3,"addExp":0,"animal":"","ecode":-11003,"errorCode":-11003,"errorType":"1007","errorContent":"system","direction":"system"} farmTime=1660791616,farmKey=null,pastureKey=aba84791d2735029f3d2012b6766f479f7cc7eff,uIdx=646527948,uId=2502702211,nick=独孤悠然6,serial=-1
+11:00:16: Post:独孤悠然:344-371 
+11:00:10: GetMyPasture:独孤悠然:422-399 11:00:11
+11:00:10: 触发 [独孤悠然] 15赶产-2022/8/18 11:00:10-2022/8/18 11:00:10-44791.4584498032
+10:59:50: 正在对时 [独孤悠然] 的牧场2022/8/18 11:00:10
+10:51:01: GetMCXunBaoHome:1203-361 
+10:50:55: MCSpriteBag:343-361 
+10:50:49: MCGetSpritePKHome:391-380 
+10:50:44: MCGetSprite:328-370 
+10:50:39: MCSpriteRank:500-413 
+10:50:33: BirdBag:312-326 
+10:50:28: GetTreeHome:344-340 
+10:50:28: GetMCHelp:328-337 
+10:50:28: GetMCHelp:312-346 
+10:50:27: 牧场小手
+10:50:22: GetMyHigh:375-380 
+10:50:17: MCHBookHome:344-385 
+10:50:11: GetMyPasture:484-427 10:50:11
+10:48:48: 1超时URL[200]:https://nc.qzone.qq.com/cgi-bin/cgi_farm_getstatus_filter?g_tk=330098645--
+10:48:48: 0PostURL[200]:https://nc.qzone.qq.com/cgi-bin/cgi_farm_getstatus_filter?g_tk=330098645--Socket Error # 10060??Connection timed out.
+10:41:41: GetMyPasture:独孤悠然7:406-398 10:41:42
+10:41:40: 在 【独孤悠然7】 的牧场抓取 [金丝猴崽] ×1只 金币+89
+10:41:35: Steal:独孤悠然7:359-391 
+10:41:30: GetMyPasture:独孤悠然7:437-424 10:41:30
+10:41:29: 触发 [独孤悠然7] 15偷取
+10:41:14: 在 【独孤悠然7】 的牧场 赶 [金丝猴] 生产 经验+2
+10:41:09: Post:独孤悠然7:344-411 
+10:41:03: GetMyPasture:独孤悠然7:438-479 10:41:04
+10:41:03: 触发 [独孤悠然7] 15赶产-2022/8/18 10:41:04-2022/8/18 10:41:04-44791.4451859144
+10:40:43: 正在对时 [独孤悠然7] 的牧场2022/8/18 10:41:04
+10:35:22: GetMCHelp:312-447 
+10:35:21: 牧场小手
+10:31:11: GetMyPasture:453-474 10:31:12
+10:21:44: BirdBag:390-361 
+10:21:38: GetTreeHome:328-332 
+10:21:38: 卖出金苹果×110  金钻+440
+10:21:33: BirdSale:328-336 
+10:21:28: BirdBag:328-344 
+10:21:27: 在栖息大树收获 [S]金丝雀(9级) 金苹果+110 精力值+30
+10:21:22: BirdHarvest:344-361 
+10:21:17: GetTreeHome:391-378 
+10:21:06: GetMCXunBaoHome:1125-365 
+10:21:00: MCSpriteBag:328-365 
+10:20:55: MCGetSpritePKHome:375-403 
+10:20:50: MCGetSprite:375-432 
+10:20:44: MCSpriteRank:641-490 
+10:20:37: BirdBag:344-340 
+10:20:27: GetTreeHome:344-337 
+10:20:27: GetMCHelp:312-331 
+10:20:22: GetMyHigh:312-351 
+10:20:17: GetMCHelp:344-391 
+10:20:17: MCHBookHome:328-438 
+10:20:16: 牧场小手
+10:20:11: GetMyPasture:437-548 10:20:11
+10:13:30: GetMyPasture:844-351 10:13:30
+10:05:11: GetMCHelp:359-537 
+10:05:11: 牧场小手
+10:02:29: GetMyPasture:独孤悠然7:484-445 10:02:29
+10:02:27: {"errorCode":"-11006","errorContent":"手下留情,给主人留一点吧","errorType":"logic"}
+10:02:22: Steal:独孤悠然7:359-407 
+10:02:17: GetMyPasture:独孤悠然7:453-456 10:02:17
+10:02:16: 触发 [独孤悠然7] 5偷取
+10:01:56: {"poptype":3,"addExp":0,"animal":"","ecode":-11003,"errorCode":-11003,"errorType":"1007","errorContent":"system","direction":"system"} farmTime=1660788116,farmKey=null,pastureKey=1b45a651921833edde28971b592980ab0971441e,uIdx=646527948,uId=786727825,nick=独孤悠然6,serial=-1
+10:01:56: Post:独孤悠然7:421-460 
+10:01:51: GetMyPasture:独孤悠然7:453-499 10:01:51
+10:01:50: 触发 [独孤悠然7] 5赶产-2022/8/18 10:01:50-2022/8/18 10:01:50-44791.4179410764
+10:01:30: 正在对时 [独孤悠然7] 的牧场2022/8/18 10:01:50
+09:59:45: GetMyPasture:独孤悠然:469-431 9:59:45
+09:59:44: {"errorCode":"-11006","errorContent":"手下留情,给主人留一点吧","errorType":"logic"}
+09:59:38: Steal:独孤悠然:406-393 
+09:59:33: GetMyPasture:独孤悠然:422-506 9:59:33
+09:59:32: 触发 [独孤悠然] 14偷取
+09:59:12: {"poptype":3,"addExp":0,"animal":"","ecode":-11003,"errorCode":-11003,"errorType":"1007","errorContent":"system","direction":"system"} farmTime=1660787952,farmKey=null,pastureKey=1e8e2e404e680e005558f4d1136ac73aacc02809,uIdx=646527948,uId=2502702211,nick=独孤悠然6,serial=-1
+09:59:12: Post:独孤悠然:391-495 
+09:59:07: GetMyPasture:独孤悠然:469-600 9:59:07
+09:59:07: 触发 [独孤悠然] 14赶产-2022/8/18 9:59:06-2022/8/18 9:59:06-44791.4160425694
+09:58:47: 正在对时 [独孤悠然] 的牧场2022/8/18 9:59:06
+09:53:16: GetMyPasture:531-447 9:53:16
+09:53:10: MCGetBag:343-364 
+09:53:09: 收获 副产品 [龙猫崽]×17只 经验+12 金币+1581
+09:53:04: HarvestP:422-385 
+09:52:58: GetMyPasture:438-405 9:52:59
+09:52:58: 触发自家刷新:Animals-sid:5-2022/8/18 9:52:58
+09:52:43: 在 【独孤悠然6】 的牧场 赶 [龙猫] 生产 经验+5
+09:52:38: Post:360-372 
+09:52:32: GetMyPasture:469-442 9:52:33
+09:52:32: 触发自家刷新:Animals-sid:5-2022/8/18 9:52:32
+09:51:47: GetMyPasture:独孤悠然7:422-402 9:51:47
+09:51:45: {"errorCode":"-11006","errorContent":"手下留情,给主人留一点吧","errorType":"logic"}
+09:51:40: Steal:独孤悠然7:359-382 
+09:51:35: GetMyPasture:独孤悠然7:422-406 9:51:35
+09:51:35: 触发 [独孤悠然7] 18偷取
+09:51:14: {"poptype":3,"addExp":0,"animal":"","ecode":-11003,"errorCode":-11003,"errorType":"1007","errorContent":"system","direction":"system"} farmTime=1660787474,farmKey=null,pastureKey=e418f85eada5ea1cb948de8ac3abcbe90f9fa649,uIdx=646527948,uId=786727825,nick=独孤悠然6,serial=-1
+09:51:14: Post:独孤悠然7:344-352 
+09:51:09: GetMyPasture:独孤悠然7:437-400 9:51:09
+09:51:09: 触发 [独孤悠然7] 18赶产-2022/8/18 9:51:08-2022/8/18 9:51:08-44791.410510162
+09:50:48: 正在对时 [独孤悠然7] 的牧场2022/8/18 9:51:08
+09:50:11: GetMyPasture:独孤悠然7:422-380 9:50:11
+09:50:11: 触发 [独孤悠然7] 6赶产-2022/8/18 9:42:16-2022/8/18 9:50:11-44791.4043527546
+09:50:11: 扫描完毕，进入监控状态
+09:50:11: 开启每工作 120 分钟，休息 30 分钟功能
+09:50:11: 开启自动检测可偷、可除草虫列表（小手），间隔15分钟
+09:50:11: 开启定时刷新自己牧场，间隔30分钟
+09:50:10: 开始分析所有好友
+09:50:05: GetMCHelp:328-338 
+09:50:05: 开始分析可偷、打蚊子和收集便便列表（小手）
+09:50:00: CheckWoPe:328-349 
+09:49:54: CheckWoPe:375-371 
+09:49:48: GetMCXunBaoHome:1188-368 
+09:49:42: MCSpriteBag:343-368 
+09:49:36: MCGetSpritePKHome:390-393 
+09:49:31: MCGetSprite:359-396 
+09:49:26: MCSpriteRank:531-433 
+09:49:20: BirdBag:328-335 
+09:49:15: GetMCHelp:344-342 
+09:49:15: GetTreeHome:344-340 
+09:49:09: GetMyHigh:328-336 
+09:49:04: MCHBookHome:328-345 
+09:49:04: {"code":0,"direction":"1. NOT FOUND KEY invalid param  IN TYPE 0, KEY-VALUES SIZE 496","ecode":-20003} farmTime=1660787344,farmKey=null,pastureKey=fed8af1d12d5a37fb497e7be4652ac42d7f511c1,uIdx=646527948,type=3
+09:49:04: MCFullBag:328-362 
+09:48:58: GetMyPasture:469-397 9:48:59
+09:48:58: {"code":0,"direction":"1. NOT FOUND KEY invalid param  IN TYPE 0, KEY-VALUES SIZE 496","ecode":-20003} farmTime=1660787338,farmKey=null,pastureKey=84d143eb829a5d1329fb817b00da1adcf5d7a88a,uIdx=646527948,type=2
+09:48:58: MCFullBag:328-325 
+09:48:53: MCSpriteBag:328-322 
+09:48:53: {"code":0,"direction":"1. NOT FOUND KEY invalid param  IN TYPE 0, KEY-VALUES SIZE 496","ecode":-20003} farmTime=1660787333,farmKey=null,pastureKey=d64f0e31a7cb1d1a8e73e176f29e986044da0225,uIdx=646527948,type=1
+09:48:53: MCFullBag:297-316 
+09:48:48: {"code":0,"direction":"1. NOT FOUND KEY invalid param  IN TYPE 0, KEY-VALUES SIZE 496","ecode":-20003} farmTime=1660787327,farmKey=null,pastureKey=c671246d148efe17614e2319c9cbb7d6e671134e,uIdx=646527948,type=0
+09:48:48: MCFullBag:329-335 
+09:48:48: {"code":1,"direction":"达到今日购买上限","ecode":-103} farmTime=1660787327,farmKey=null,pastureKey=c671246d148efe17614e2319c9cbb7d6e671134e,uIdx=646527948,toolid=400,payid=2
+09:48:48: MCSpriteBuyTool:329-341 
+09:48:42: SignHomeMC:375-354 
+09:48:37: {"code":0,"direction":"您今日翻牌次数已用完了，明天再来试试吧！","ecode":-50080,"poptype":3} farmTime=1660787317,farmKey=null,pastureKey=1586dd5fec2f234ee1f73772ee51432219b435c8,uIdx=646527948,flag=2,pid=0,yellow=1,v=1
+09:48:37: MCSign:328-333 
+09:48:31: MCBeforeSign:329-339 
+09:48:31: 总计好友：3个
+09:48:31: 读取校友好友：0个（校友已关停，无法读取）
+09:48:31: 读取空间好友：3个
+09:48:26: GetMCFriend:359-349 
+09:48:25: 获取好友列表信息
+09:48:20: MCCheckBooksList:375-359 
+09:48:14: GetMCXunBaoHome:1109-346 
+09:48:07: MCSpriteBag:313-325 
+09:48:02: MCGetSpritePKHome:391-367 
+09:47:56: MCGetSprite:328-333 
+09:47:51: MCSpriteRank:500-416 
+09:47:45: GetTreeHome:328-335 
+09:47:40: GetMyHigh:328-343 
+09:47:35: MCHBookHome:359-370 
+09:47:29: MCGetStorage:360-357 
+09:47:24: MCGetBag:359-450 
+09:47:19: MyMCItems:359-539 
+09:47:13: MCMyHistory:343-381 
+09:47:08: GetMyPasture:453-384 9:47:08
+09:47:02: MCTool:2329-328 
+09:46:55: MCItems:328-331 
+09:46:55: 完成服务器时间校对
+09:46:55: 获取自己的牧场信息
+09:46:50: GetAnimals:312-358 
+09:46:48: 读取配置
+09:46:48: 登录成功，官方网站：http://www.qqhelper.net
+09:46:43: GetMyPasture:453-414 9:46:43

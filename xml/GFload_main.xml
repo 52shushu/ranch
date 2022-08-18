@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+<list>
+	<material url="http://appimg.qq.com/workshop/swf/Main_v_34.swf" statusText="" size="0" />
+	<material url="http://appimg.qq.com/workshop/swf/ui_v_30.swf" statusText="" size="0" />
+</list>
+<resource>
+	<item url="http://appimg.qq.com/workshop/swf/resource_v_1.swf"/>
+</resource>
+<machine url="http://appimg.qq.com/workshop/machine_v_0.swf"/>
+<server_info>
+	<info id="CDN_ROOT" value="http://appimg.qq.com/workshop/" />
+	<info id="SOCKET_SERVER" value="mill.qzone.qq.com" />
+	<info id="PORT" value="443" />
+	<info id="CROSSDOMAIN_PORT" value="443" />
+	<info id="BAK_SOCKET_SERVER" value="mill.qzone.qq.com" />
+	<info id="BAK_PORT" value="843" />
+	<info id="BAK_CROSSDOMAIN_PORT" value="843" />
+	<info id="DEFAULT_MODE" value="Socks" />
+	
+</server_info>
+</data> 

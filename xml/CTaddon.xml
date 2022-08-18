@@ -1,0 +1,1371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+
+	<!--字体 (可选,后面国际化或某些美术字需要用到)-->
+	<fonts src="swfs/fonts.swf" >
+		<font id="headers" name="AvantGardeGothicDemi" />
+		<font id="normal" name="FranklinGothicMedium" />
+	</fonts>
+
+	<!-- 素材列表, 后续会通过素材生成系统生成这部分数据,domain可有可无，可通过config的assetFolder覆盖掉-->
+	<assets domain="">
+		<asset id="area_ext" src="http://appimg3.qq.com/restaurant/data/areaext_v_1.swf"/>
+		<asset id="areaExtendScreen" src="http://appimg3.qq.com/restaurant/data/dialogs/areaExtendScreen_v_9.swf"/>
+		<asset id="avatarScreen" src="http://appimg3.qq.com/restaurant/data/dialogs/avatarScreen_v_0.swf"/>
+		<asset id="background_night" src="http://appimg3.qq.com/restaurant/images/background_night_v_0.swf"/>
+		<asset id="bg_tile_night" src="http://appimg3.qq.com/restaurant/images/bg_tile_night_v_0.jpg"/>
+		<asset id="changeFamilyScreen" src="http://appimg3.qq.com/restaurant/data/dialogs/changeFamilyScreen_v_14.swf"/>
+		<asset id="dailyAD" src="data/340_125.jpg"/>
+		<asset id="dailyPresentScreen" src="http://appimg3.qq.com/restaurant/data/dialogs/dailyPresentScreen_v_10.swf"/>
+		<asset id="decorationScreen" src="http://appimg3.qq.com/restaurant/data/dialogs/decorationScreen_v_35.swf"/>
+		<asset id="default_background" src="http://appimg3.qq.com/restaurant/images/background_chuan_v_2.swf"/>
+		<asset id="default_bg_tile_1" src="http://appimg3.qq.com/restaurant/images/bg_tile_grass_v_1.jpg"/>
+		<asset id="dimg0" src="http://appimg3.qq.com/restaurant/data/dimg0.png"/>
+		<asset id="dishScreen" src="http://appimg3.qq.com/restaurant/data/dialogs/dishScreen_v_28.swf"/>
+		<asset id="dishMenuTitle" src="http://appimg3.qq.com/restaurant/data/dialogs/dishMenuTitle_v_1.swf"/>
+		<asset id="employeeRoomScreen" src="http://appimg3.qq.com/restaurant/data/dialogs/employeeRoomScreen_v_16.swf"/>
+		<asset id="groundtips" src="http://appimg3.qq.com/restaurant/data/groundtips_v_9.swf"/>
+		<asset id="hamster" src="http://appimg3.qq.com/restaurant/data/hamster_v_4.swf"/>
+		<asset id="inviteFriend" src="http://appimg3.qq.com/restaurant/module/inviteFriend_v_15.swf"/>
+		<asset id="learningDishScreen" src="http://appimg3.qq.com/restaurant/data/dialogs/learningDishScreen_v_13.swf"/>
+		<asset id="levelUpScreen" src="http://appimg3.qq.com/restaurant/data/dialogs/levelUpScreen_v_11.swf"/>
+		<asset id="midautumn" src="http://appimg3.qq.com/restaurant/data/dialogs/midautumn_v_1.swf" />
+		<asset id="moongirl" src="http://appimg3.qq.com/restaurant/data/moongirl_v_0.swf" />
+		<asset id="newYearEntrance" src="http://appimg3.qq.com/restaurant/data/newYearEntrance_v_1.swf"/>
+		<asset id="openFamilyMenu" src="http://appimg3.qq.com/restaurant/data/dialogs/openFamilyMenu_v_3.swf"/>
+		<asset id="openFamilyTips" src="http://appimg3.qq.com/restaurant/data/dialogs/openFamilyTips_v_0.swf"/>
+		<asset id="orderDish" src="http://appimg3.qq.com/restaurant/module/orderDish_v_15.swf"/>
+		<asset id="prbuildeffect" src="http://appimg3.qq.com/restaurant/data/prbuildeffect_v_2.swf"/>
+		<asset id="randomAward" src="http://appimg3.qq.com/restaurant/module/randomAward_v_8.swf"/>
+		<asset id="restaurantHamster" src="http://appimg3.qq.com/restaurant/data/dialogs/hamsterGameScreen_v_21.swf"/>
+		<asset id="rubbish" src="http://appimg3.qq.com/restaurant/data/rubbish_v_1.swf"/>
+		<asset id="simpleExchange" src="http://appimg3.qq.com/restaurant/module/simpleExchange_v_10.swf"/>
+		<asset id="simpleExchangeView" src="http://appimg3.qq.com/restaurant/data/dialogs/simpleExchangeView_v_0.swf"/>
+		<asset id="springEntrance" src="http://appimg3.qq.com/restaurant/data/springEntrance_v_0.swf"/>
+		<asset id="task_ui" src="http://appimg3.qq.com/restaurant/data/task_v_16.swf"/>
+		<asset id="thanksGiving" src="http://appimg3.qq.com/restaurant/module/thanksGiving_v_8.swf"/>
+		<asset id="thanksGivingEntrance" src="http://appimg3.qq.com/restaurant/data/thanksGivingEntrance_v_0.swf"/>
+		<asset id="thanksGivingExchange" src="http://appimg3.qq.com/restaurant/data/dialogs/thanksGivingExchange_v_0.swf"/>
+		<asset id="toolScreen" src="http://appimg3.qq.com/restaurant/data/dialogs/toolScreen_v_15.swf"/>
+		<asset id="xmasEntrance" src="http://appimg3.qq.com/restaurant/data/xmasEntrance_v_0.swf"/>
+
+		<asset id="activity" src="http://appimg3.qq.com/restaurant/module/activity_v_0.swf"/>
+		<asset id="changeFamily" src="http://appimg3.qq.com/restaurant/module/changeFamily_v_1.swf"/>
+		<asset id="dailyPresent" src="http://appimg3.qq.com/restaurant/module/dailyPresent_v_2.swf"/>
+		<asset id="dishDetail" src="http://appimg3.qq.com/restaurant/module/dishDetail_v_16.swf"/>
+		<asset id="dishMenu" src="http://appimg3.qq.com/restaurant/module/dishMenu_v_44.swf"/>
+		<asset id="dishMenuGuest" src="http://appimg3.qq.com/restaurant/module/dishMenuGuest_v_25.swf"/>
+		<asset id="dishSell" src="http://appimg3.qq.com/restaurant/module/dishSell_v_22.swf"/>
+		<asset id="employeeMarket" src="http://appimg3.qq.com/restaurant/module/employeeMarket_v_17.swf"/>
+		<asset id="employeeMarketView" src="http://appimg3.qq.com/restaurant/data/dialogs/employeeMarketView_v_9.swf"/>
+		<asset id="employeeRoom" src="http://appimg3.qq.com/restaurant/module/employeeRoom_v_17.swf"/>
+		<asset id="formula" src="http://appimg3.qq.com/restaurant/module/formula_v_0.swf"/>
+		<asset id="learnDish" src="http://appimg3.qq.com/restaurant/module/learnDish_v_7.swf"/>
+		<asset id="levelUp" src="http://appimg3.qq.com/restaurant/module/levelUp_v_6.swf"/>
+		<asset id="personalInfo" src="http://appimg3.qq.com/restaurant/module/personalInfo_v_3.swf"/>
+		<asset id="takePhoto" src="http://appimg3.qq.com/restaurant/module/takePhoto_v_1.swf"/>
+		<asset id="toolDetail" src="http://appimg3.qq.com/restaurant/module/toolDetail_v_5.swf"/>
+		<asset id="toolPanel" src="http://appimg3.qq.com/restaurant/module/toolPanel_v_18.swf"/>
+		<asset id="workShop" src="http://appimg3.qq.com/restaurant/module/workShop_v_8.swf"/>
+		<asset id="newYearView" src="http://appimg3.qq.com/restaurant/data/dialogs/newYearView_v_0.swf"/>
+		<asset id="springFestivalView" src="http://appimg3.qq.com/restaurant/data/dialogs/springFestivalView_v_0.swf"/>
+		<asset id="personalInfoView" src="http://appimg3.qq.com/restaurant/data/dialogs/personalInfoView_v_0.swf"/>
+		<asset id="randomAwardView" src="http://appimg3.qq.com/restaurant/data/dialogs/randomAwardView_v_0.swf"/>
+		<asset id="takePhotoView" src="http://appimg3.qq.com/restaurant/data/dialogs/takePhotoView_v_0.swf"/>
+		<asset id="xmasView" src="http://appimg3.qq.com/restaurant/data/dialogs/xmasView_v_0.swf"/>
+
+		<asset id="orderDish" src="http://appimg3.qq.com/restaurant/module/orderDish_v_15.swf"/>
+		<asset id="orderDishView" src="http://appimg3.qq.com/restaurant/data/dialogs/orderDishView_v_0.swf"/>
+		<asset id="inviteFriend" src="http://appimg3.qq.com/restaurant/module/inviteFriend_v_15.swf"/>
+		<asset id="inviteFriendView" src="http://appimg3.qq.com/restaurant/data/dialogs/inviteFriendView_v_0.swf"/>
+
+		<asset id="decorPanel" src="http://appimg3.qq.com/restaurant/module/decorPanel_v_48.swf"/>
+		<asset id="decorSell" src="http://appimg3.qq.com/restaurant/module/decorSell_v_4.swf"/>
+		<asset id="decorPay" src="http://appimg3.qq.com/restaurant/module/decorPay_v_1.swf"/>
+		<asset id="hamsterScore" src="http://appimg3.qq.com/restaurant/module/hamsterScore_v_11.swf"/>
+		<asset id="rewardExchange" src="http://appimg3.qq.com/restaurant/module/rewardExchange_v_18.swf"/>
+		<asset id="areaExtend" src="http://appimg3.qq.com/restaurant/module/areaExtend_v_0.swf"/>
+		<asset id="photoUploader" src="http://appimg3.qq.com/restaurant/module/photoUploader_v_0.swf"/>
+
+		<asset id="foolEntrance" src="http://appimg3.qq.com/restaurant/data/foolEntrance_v_0.swf"/>
+		<asset id="foolPanel" src="http://appimg3.qq.com/restaurant/module/foolPanel_v_0.swf"/>
+		<asset id="foolPanelView" src="http://appimg3.qq.com/restaurant/data/dialogs/foolPanelView_v_0.swf"/>
+		<asset id="foolAward" src="http://appimg3.qq.com/restaurant/module/foolAward_v_0.swf"/>
+		<asset id="foolAwardView" src="http://appimg3.qq.com/restaurant/data/dialogs/foolAwardView_v_0.swf"/>
+
+		<asset id="laborEntrance" src="http://appimg3.qq.com/restaurant/data/laborEntrance_v_0.swf"/>
+		<asset id="laborPanel" src="http://appimg3.qq.com/restaurant/module/laborPanel_v_0.swf"/>
+		<asset id="laborPanelView" src="http://appimg3.qq.com/restaurant/data/dialogs/laborPanelView_v_0.swf"/>
+		<asset id="laborAward" src="http://appimg3.qq.com/restaurant/module/laborAward_v_0.swf"/>
+		<asset id="laborAwardView" src="http://appimg3.qq.com/restaurant/data/dialogs/laborAwardView_v_0.swf"/>
+
+		<asset id="invest" src="http://appimg3.qq.com/restaurant/module/invest_v_4.swf"/>
+		<asset id="investView" src="http://appimg3.qq.com/restaurant/data/dialogs/investView_v_4.swf"/>
+		<asset id="investEntrance" src="http://appimg3.qq.com/restaurant/data/investEntrance_v_2.swf"/>
+		<asset id="awardDisplay" src="http://appimg3.qq.com/restaurant/module/awardDisplay_v_4.swf"/>
+		<asset id="awardDisplayView" src="http://appimg3.qq.com/restaurant/data/dialogs/awardDisplayView_v_0.swf"/>
+
+		<asset id="laysEntrance" src="http://appimg3.qq.com/restaurant/data/laysEntrance_v_0.swf"/>
+		<asset id="laysPanelDialog" src="http://appimg3.qq.com/restaurant/module/laysPanelDialog_v_2.swf"/>
+		<asset id="laysPanelDialogView" src="http://appimg3.qq.com/restaurant/data/dialogs/laysPanelDialogView_v_0.swf"/>
+
+		<asset id="randomQuesScreenView" src="http://appimg3.qq.com/restaurant/randomQuesScreenView_v_0.swf"/>
+		<asset id="randomQuesScreen" src="http://appimg3.qq.com/restaurant/module/randomQuesScreen_v_6.swf"/>
+		<asset id="qixiPanelDialog" src="http://appimg3.qq.com/restaurant/module/qixiPanelDialog_v_1.swf"/>
+		<asset id="qixiPanelDialogView" src="http://appimg3.qq.com/restaurant/data/dialogs/qixiPanelDialogView_v_0.swf"/>
+
+		<asset id="loginPresentScreen" src="http://appimg3.qq.com/restaurant/module/loginPresentScreen_v_5.swf"/>
+		<asset id="loginPresentScreenView" src="http://appimg3.qq.com/restaurant/data/dialogs/loginPresentScreenView_v_0.swf"/>
+
+		<asset id="likeAwardDialog" src="http://appimg3.qq.com/restaurant/module/likeAwardDialog_v_1.swf"/>
+		<asset id="likeAwardDialogView" src="http://appimg3.qq.com/restaurant/data/dialogs/likeAwardDialogView_v_0.swf"/>
+
+		<asset id="hyPanelDialog" src="http://appimg3.qq.com/restaurant/module/hyPanelDialog_v_0.swf"/>
+		<asset id="hyPanelDialogView" src="http://appimg3.qq.com/restaurant/data/dialogs/hyPanelDialogView_v_0.swf"/>
+
+		<asset id="decorTips" src="http://appimg3.qq.com/restaurant/data/scenedecors/decorTips_v_3.swf"/>
+
+		<asset id="decorUpdate" src="http://appimg3.qq.com/restaurant/module/decorUpdate_v_3.swf"/>
+		<asset id="decorUpdateView" src="http://appimg3.qq.com/restaurant/data/dialogs/decorUpdateView_v_0.swf"/>
+
+		<asset id="decorBuild" src="http://appimg3.qq.com/restaurant/module/decorBuild_v_12.swf"/>
+		<asset id="decorBuildView" src="http://appimg3.qq.com/restaurant/data/dialogs/decorBuildView_v_9.swf"/>
+
+		<asset id="missionPanelDialog" src="http://appimg3.qq.com/restaurant/module/missionPanelDialog_v_4.swf"/>
+		<asset id="missionPanelDialogView" src="http://appimg3.qq.com/restaurant/data/dialogs/missionPanelDialogView_v_3.swf"/>
+
+		<asset id="midautumnDialog2011" src="http://appimg3.qq.com/restaurant/module/midautumnDialog2011_v_1.swf"/>
+		<asset id="midautumnExchangeDialog2011" src="http://appimg3.qq.com/restaurant/module/midautumnExchangeDialog2011_v_0.swf"/>
+		<asset id="midautumn2011View" src="http://appimg3.qq.com/restaurant/data/dialogs/midautumn2011View_v_0.swf"/>
+		<asset id="midautumn2011EntranceView" src="http://appimg3.qq.com/restaurant/data/midautumn2011Entrance_v_1.swf"/>
+
+		<asset id="newspaperDialog" src="http://appimg3.qq.com/restaurant/module/newspaperDialog_v_9.swf"/>
+		<asset id="newspaperDialogView" src="http://appimg3.qq.com/restaurant/data/dialogs/newspaperDialogView_v_6.swf"/>
+		<asset id="newspaperBoard" src="http://appimg3.qq.com/restaurant/data/dialogs/newspaperBoard_v_8.swf"/>
+
+		<asset id="halloween" src="http://appimg3.qq.com/restaurant/module/halloween_v_1.swf"/>
+		<asset id="halloweenView" src="http://appimg3.qq.com/restaurant/data/dialogs/halloweenView_v_1.swf"/>
+		<asset id="halloweenEntrance" src="http://appimg3.qq.com/restaurant/data/halloweenEntrance_v_0.swf"/>
+
+		<asset id="christmasDialogsView" src="http://appimg3.qq.com/restaurant/data/dialogs/christmasDialogsView_v_0.swf"/>
+		<asset id="christmasDialog" src="http://appimg3.qq.com/restaurant/module/christmasDialog_v_0.swf"/>
+		<asset id="christmasEntrance" src="http://appimg3.qq.com/restaurant/data/christmasEntrance_v_0.swf"/>
+
+		<asset id="specialCustomerAlert" src="http://appimg3.qq.com/restaurant/module/specialCustomerAlert_v_0.swf"/>
+		<asset id="specialCustomerAlertView" src="http://appimg3.qq.com/restaurant/data/dialogs/specialCustomerAlertView_v_0.swf"/>
+
+		<asset id="scGoldMc" src="http://appimg3.qq.com/restaurant/data/scGoldMc_v_0.swf"/>
+
+
+		<asset id="loginPresentBagScreen" src="http://appimg3.qq.com/restaurant/module/loginPresentBagScreen_v_0.swf"/>
+		<asset id="loginPresentBagScreenView" src="http://appimg3.qq.com/restaurant/data/dialogs/loginPresentBagScreenView_v_0.swf"/>
+		<asset id="bgstoreView" src="http://appimg3.qq.com/restaurant/data/dialogs/bgstoreView_v_1.swf"/>
+		<asset id="bgstorePanel" src="http://appimg3.qq.com/restaurant/module/bgstorePanel_v_3.swf"/>
+		<asset id="arkNotice" src="http://appimg3.qq.com/restaurant/module/arkNotice_v_0.swf"/>
+		<asset id="noah_ark" src="http://appimg3.qq.com/restaurant/data/icons/noah_ark_v_0.png"/>
+
+		<asset id="presentContentScreen" src="http://appimg3.qq.com/restaurant/module/presentContentScreen_v_0.swf"/>
+		<asset id="presentContentScreenView" src="http://appimg3.qq.com/restaurant/data/dialogs/presentMessage_v_0.swf"/>
+
+		<asset id="levelPresentBagScreen" src="http://appimg3.qq.com/restaurant/module/levelPresentBagScreen_v_0.swf"/>
+		<asset id="levelPresentBagScreenView" src="http://appimg3.qq.com/restaurant/data/dialogs/levelPresentScreenView_v_0.swf"/>
+
+		<asset id="SNS2011ChristmasResultScreen" src="http://appimg3.qq.com/restaurant/module/SNS2011ChristmasResultScreen_v_0.swf"/>
+		<asset id="SNS2011ChristmasIntroScreen" src="http://appimg3.qq.com/restaurant/module/SNS2011ChristmasIntroScreen_v_0.swf"/>
+		<asset id="SNS2011ChristmasView" src="http://appimg3.qq.com/restaurant/data/dialogs/SNS2011ChristmasView_v_0.swf"/>
+
+		<asset id="phoneActivityScreen" src="http://appimg3.qq.com/restaurant/module/phoneActivityScreen_v_0.swf"/>
+		<asset id="phoneActivityScreenView" src="http://appimg3.qq.com/restaurant/data/dialogs/phoneActivityScreenView_v_0.swf"/>
+
+		<asset id="avatarDressScreen" src="http://appimg3.qq.com/restaurant/module/avatarDressScreen_v_5.swf"/>
+		<asset id="avatarDressScreenView" src="http://appimg3.qq.com/restaurant/data/dialogs/avatarDressScreenView_v_0.swf"/>
+		<asset id="spring2012" src="http://appimg3.qq.com/restaurant/module/spring2012_v_0.swf"/>
+		<asset id="spring2012View" src="http://appimg3.qq.com/restaurant/data/dialogs/spring2012View_v_0.swf"/>
+		<asset id="spring2012EntranceView" src="http://appimg3.qq.com/restaurant/data/spring2012EntranceView_v_0.swf"/>
+
+		<asset id="SNS2012SpringIntroScreen" src="http://appimg3.qq.com/restaurant/module/SNS2012SpringIntroScreen_v_0.swf"/>
+		<asset id="SNS2012SpringResultScreen" src="http://appimg3.qq.com/restaurant/module/SNS2012SpringResultScreen_v_0.swf"/>
+		<asset id="SNS2012SpringView" src="http://appimg3.qq.com/restaurant/data/dialogs/SNS2012SpringView_v_0.swf"/>
+
+		<asset id="restValueDetailScreen" src="http://appimg3.qq.com/restaurant/module/restValueDetailScreen_v_2.swf"/>
+		<asset id="restValueDetailScreenView" src="http://appimg3.qq.com/restaurant/data/dialogs/restValueDetailScreenView_v_4.swf"/>
+                
+                 <asset id="valentineDayView" src="http://appimg3.qq.com/restaurant/data/dialogs/valentineDayView_v_0.swf"/>
+                 <asset id="valentineDayDialog" src="http://appimg3.qq.com/restaurant/module/valentineDayDialog_v_0.swf"/>
+
+                 <asset id="arkOfflineEntranceView" src="http://appimg3.qq.com/restaurant/data/arkOfflineEntranceView_v_0.swf"/>
+                 <asset id="arkLevel1NoticeDialog" src="http://appimg3.qq.com/restaurant/module/arkLevel1NoticeDialog_v_0.swf"/>
+                 <asset id="arkLevel1NoticeDialogView" src="http://appimg3.qq.com/restaurant/data/dialogs/arkLevel1NoticeDialogView_v_0.swf"/>
+                 <asset id="arkLevel2NoticeDialog" src="http://appimg3.qq.com/restaurant/module/arkLevel2NoticeDialog_v_0.swf"/>
+                 <asset id="arkLevel2NoticeDialogView" src="http://appimg3.qq.com/restaurant/data/dialogs/arkLevel2NoticeDialogView_v_0.swf"/>
+                 <asset id="arkOfflineConfirmDialog" src="http://appimg3.qq.com/restaurant/module/arkOfflineConfirmDialog_v_0.swf"/>
+		 
+                 <asset id="kingSalesDialog" src="http://appimg3.qq.com/restaurant/module/kingSalesDialog_v_0.swf"/>
+                 <asset id="kingSalesView" src="http://appimg3.qq.com/restaurant/data/dialogs/kingSalesView_v_1.swf"/>
+
+                <asset id="starResApply" src="http://appimg3.qq.com/restaurant/module/starResApply_v_0.swf"/>
+                <asset id="starResView" src="http://appimg3.qq.com/restaurant/data/dialogs/starResView_v_1.swf"/>
+                <asset id="starUpgradeView" src="http://appimg3.qq.com/restaurant/data/dialogs/starUpgradeView_v_0.swf"/>
+                <asset id="firework" src="http://appimg3.qq.com/restaurant/module/firework_v_0.swf"/>
+                <asset id="fance" src="http://appimg3.qq.com/restaurant/data/fance_v_0.swf"/>
+		
+                <asset id="topSellPanelView" src="http://appimg3.qq.com/restaurant/data/dialogs/topSellPanelView_v_0.swf"/>
+                <asset id="decorateAwardView" src="http://appimg3.qq.com/restaurant/data/dialogs/decorateAwardView_v_0.swf"/>
+                <asset id="nokiaLumiaDialogView" src="http://appimg3.qq.com/restaurant/data/dialogs/nokiaLumiaDialogView_v_0.swf"/>
+<asset id="zhenhuanView" src="http://appimg3.qq.com/restaurant/data/dialogs/zhenhuanView_v_1.swf"/>
+<asset id="bestdecorView" src="http://appimg3.qq.com/restaurant/data/dialogs/bestdecorView_v_1.swf"/>
+<asset id="olympicView" src="http://appimg3.qq.com/restaurant/data/dialogs/olympicView_v_2.swf"/>
+<asset id="olympicEntrance" src="http://appimg3.qq.com/restaurant/data/olympicNpc_v_1.swf"/>
+	</assets>
+
+	<!--新闻外显配置-->
+	<newspaper>
+		<asset id="newspapers1" src="http://appimg3.qq.com/restaurant/data/dialogs/newspapers1_v_0.swf" master="true"/>
+		<asset id="newspapers2" src="http://appimg3.qq.com/restaurant/data/dialogs/newspapers2_v_0.swf" master="true"/>
+		<asset id="newspapers3" src="http://appimg3.qq.com/restaurant/data/dialogs/newspapers3_v_0.swf" master="false"/>
+        <asset id="newspapers4" src="http://appimg3.qq.com/restaurant/newspapers4_v_0.swf" master="true"/>
+        <asset id="newspapers5" src="http://appimg3.qq.com/restaurant/data/dialogs/newspapers5_v_0.swf" master="false"/>
+        <asset id="newspapers6" src="http://appimg3.qq.com/restaurant/data/dialogs/newspapers6_v_0.swf" master="true"/>
+	</newspaper>
+
+	<!--业务数据 涉及到素材id的匹配-->
+	<!--例子，菜属性, 可使用json格式压缩文件大小-->
+	<options>
+		<option id="cdn_root" value="http://appimg.qq.com/restaurant/" />
+		<option id="host" value="ct0.xiaoyou.qq.com" />
+		<option id="port" value="5589" />
+		<option id="crossdomain_port" value="5589" />
+		<option id="bak_host" value="ct0.xiaoyou.qq.com" />
+		<option id="bak_port" value="80" />
+		<option id="bak_crossdomain_port" value="80" />
+		<option id="default_mode" value="Socks" />
+
+		<option id="tracking_success" value="20"/>
+		<option id="tracking_error" value="1"/>
+		<option id="tracking_speed" value="20"/>
+
+		<option id="zlib_cmd" value="8"/>
+		<option id="zlib_length" value="5000"/>
+	</options>
+	<web_api>
+		<api id="cgi_farm_get_common_notice" url="http://appbasesh.qzone.qq.com/cgi-bin/cgi_farm_get_common_notice" />
+		<api id="feeds_select" url="feeds/feeds_select" />
+		<api id="msg_select" url="msg/msg_select" />
+		<api id="sysmsg_select" url="msg/sysmsg_select" />
+	</web_api>
+	 <dialog_db2 type="json">
+		<![CDATA[
+		{"dialog_db2":[
+			{"id":"7","asset_id":"userInfoClient", "view":{"asset_id":"randomAwardView","linkage":"restaurant.dialogs.RandomAwardView"}},
+			{"id":"19","asset_id":"userInfoClient", "view":{"asset_id":"personalInfoView","linkage":"restaurant.screens.PersonalInfoScreen"}},
+			{"id":"20","asset_id":"userInfoClient", "view":{"asset_id":"levelUpScreen","linkage":"restaurant.screens.LevelupScreen"}},
+			{"id":"21","asset_id":"userInfoClient", "view":{"asset_id":"dailyPresentScreen","linkage":"restaurant.screens.DailyPresentScreen"}},
+			{"id":"22","asset_id":"userInfoClient", "view":{"asset_id":"changeFamilyScreen","linkage":"restaurant.ChangeFamilyScreenSkin"}},
+			{"id":"24","asset_id":"userInfoClient", "view":{"asset_id":"takePhotoView","linkage":"restaurant.dialogs.TakePhotoView"}},
+			{"id":"25","asset_id":"userInfoClient", "view":{"asset_id":"inviteFriendView","linkage":"restaurant.dialogs.InviteFriendView"}},
+			{"id":"42","asset_id":"userInfoClient", "view":{"asset_id":"randomQuesScreenView","linkage":"restaurant.RandomQuesScreenView"}},
+			{"id":"46","asset_id":"userInfoClient", "view":{"asset_id":"missionPanelDialogView","linkage":"restaurant.MissionPanelDialogView"}},
+			{"id":"50","asset_id":"userInfoClient", "view":{"asset_id":"newspaperDialogView","linkage":"restaurant.dialogs.NewspaperDialogView"}},
+			{"id":"52","asset_id":"userInfoClient", "view":{"asset_id":"loginPresentBagScreenView","linkage":"restaurant.dialogs.PresentBagScreenView"}},
+			{"id":"53","asset_id":"userInfoClient", "view":{"asset_id":"presentContentScreenView","linkage":"restaurant.dialogs.PresentContentMessage"}},
+			{"id":"55","asset_id":"userInfoClient", "view":{"asset_id":"levelPresentBagScreenView","linkage":"restaurant.dialogs.LevelPresentScreenView"}},
+			{"id":"73","asset_id":"userInfoClient","view":{"asset_id":"starResView","linkage":"restaurant.dialogs.StarResView"}},
+			{"id":"74","asset_id":"userInfoClient","view":{"asset_id":"starUpgradeView","linkage":"retaurant.dialogs.StarUpgradeView"}},
+			
+			{"id":"8","asset_id":"dishClient", "view":{"asset_id":"dishScreen","linkage":""}},
+			{"id":"9","asset_id":"dishClient", "view":{"asset_id":"dishScreen","linkage":""}},
+			{"id":"10","asset_id":"dishClient", "view":{"asset_id":"dishScreen","linkage":""}},
+			{"id":"11","asset_id":"dishClient", "view":{"asset_id":"dishScreen","linkage":""}},
+			{"id":"12","asset_id":"dishClient", "view":{"asset_id":"dishScreen","linkage":"restaurant.screens.FormulaScreen"}},
+			{"id":"15","asset_id":"dishClient", "view":{"asset_id":"learningDishScreen","linkage":"restaurant.screens.LearningDishScreen"}},
+			{"id":"16","asset_id":"dishClient", "view":{"asset_id":"dishScreen","linkage":""}},
+			{"id":"26","asset_id":"dishClient", "view":{"asset_id":"orderDishView","linkage":"restaurant.dialogs.OrderDishView"}},
+			
+			
+			{"id":"13","asset_id":"charClient", "view":{"asset_id":"employeeRoomScreen","linkage":"restaurant.screens.EmployeeRoomScreen"}},
+			{"id":"14","asset_id":"charClient", "view":{"asset_id":"employeeMarketView","linkage":"restaurant.screens.EmployeeHireScreen"}},
+			{"id":"63","asset_id":"charClient", "view":{"asset_id":"avatarDressScreenView","linkage":"restaurant.dialogs.AvatarDressScreenView"}},
+			
+			{"id":"17","asset_id":"toolClient", "view":{"asset_id":"toolScreen","linkage":"restaurant.screens.ToolDetailScreen"}},
+			{"id":"18","asset_id":"toolClient", "view":{"asset_id":"toolScreen","linkage":"restaurant.ToolScreen"}},
+			{"id":"30","asset_id":"toolClient", "view":{"asset_id":"restaurantHamster","linkage":"restaurant.HamsterScoreScreenSkin"}},
+			{"id":"31","asset_id":"toolClient", "view":{"asset_id":"restaurantHamster","linkage":"restaurant.RewardScreenSkin"}},
+			
+			{"id":"23","asset_id":"decorClient", "view":{"asset_id":"areaExtendScreen","linkage":"restaurant.ExtendAreaScreenSkin"}},
+			{"id":"27","asset_id":"decorClient", "view":{"asset_id":"decorationScreen","linkage":"restaurant.DecorationPanel"}},
+			{"id":"28","asset_id":"decorClient", "view":{"asset_id":"decorationScreen","linkage":"restaurant.DecorationSellScreenSkin"}},
+			{"id":"29","asset_id":"decorClient", "view":{"asset_id":"decorationScreen","linkage":"restaurant.DecorationPayScreenSkin"}},
+			{"id":"67","asset_id":"decorClient", "view":{"asset_id":"restValueDetailScreenView","linkage":"restaurant.dialogs.RestValueDetailScreenView"}},
+			{"id":"60","asset_id":"decorClient", "view":{"asset_id":"specialCustomerAlertView","linkage":"restaurant.dialogs.SpecialCustomerAlertView"}},
+			
+			
+			
+			{"id":"61","asset_id":"activityClient", "view":{"asset_id":"phoneActivityScreenView","linkage":"restaurant.dialogs.PhoneActivityScreenView"}},
+			{"id":"68","asset_id":"activityClient", "view":{"asset_id":"valentineDayView","linkage":"restaurant.activity.Valentineday"}},
+			{"id":"69","asset_id":"activityClient", "view":{"asset_id":"arkLevel1NoticeDialogView","linkage":"restaurant.dialogs.ArkLevel1NoticeDialogView"}},
+			{"id":"70","asset_id":"activityClient", "view":{"asset_id":"arkLevel1NoticeDialogView","linkage":"restaurant.dialogs.ArkLevel1ConfirmDialogView"}},
+			{"id":"71","asset_id":"activityClient", "view":{"asset_id":"arkLevel2NoticeDialogView","linkage":"restaurant.dialogs.ArkLevel2NoticeDialogView"}},
+			{"id":"72","asset_id":"activityClient", "view":{"asset_id":"arkLevel2NoticeDialogView","linkage":"restaurant.dialogs.ArkLevel2ConfirmDialogView"}},
+			{"id":"70001","asset_id":"activityClient","view":{"asset_id":"kingSalesView","linkage":"restaurant.activity.KingSales"}},
+                        {"id":"50001","asset_id":"activityClient","view":{"asset_id":"topSellPanelView","linkage":"restaurant.dialogs.TopSellPanelView"}},
+                        {"id":"70002","asset_id":"activityClient","view":{"asset_id":"decorateAwardView","linkage":"restaurant.activity.DecorateAward"}},
+                        {"id":"70003","asset_id":"activityClient","view":{"asset_id":"bestdecorView","linkage":"restaurant.activity.BestDecorMainPane"}},
+                        {"id":"70004","asset_id":"activityClient","view":{"asset_id":"olympicView","linkage":"restaurant.activity.olympicPane"}},
+                        {"id":"75","asset_id":"activityClient","view":{"asset_id":"nokiaLumiaDialogView","linkage":"resaturant.activity.NokiaLumiaDialogView"}},
+			{"id":"70005","asset_id":"activityClient","view":{"asset_id":"zhenhuanView","linkage":"restaurant.activity.ZhenHuanMainPane"}},
+			{"id":"38","asset_id":"sceneDecorClient", "view":{"asset_id":"awardDisplayView","linkage":"restaurant.dialogs.AwardDisplayView"}},
+			{"id":"39","asset_id":"sceneDecorClient", "view":{"asset_id":"decorUpdateView","linkage":"restaurant.dialogs.DecorUpdateView"}},
+			{"id":"40","asset_id":"sceneDecorClient", "view":{"asset_id":"decorBuildView","linkage":"restaurant.dialogs.DecorBuildView"}},
+			{"id":"56","asset_id":"sceneDecorClient", "view":{"asset_id":"bgstoreView","linkage":"restaurant.dialogs.BGStoreView"}},
+			{"id":"57","asset_id":"sceneDecorClient", "view":{}}
+		]}
+		]]>
+	</dialog_db2>
+
+	<favor_slots>
+		<slot id="0" qprice="0"		pid="0" ptype="4"/>
+		<slot id="1" qprice="69"	pid="3" ptype="4"/>
+		<slot id="2" qprice="99"	pid="4" ptype="4"/>
+		<slot id="3" qprice="129"	pid="5" ptype="4"/>
+		<slot id="4" qprice="159"	pid="6" ptype="4"/>
+		<slot id="5" qprice="189"	pid="7" ptype="4"/>
+		<slot id="6" qprice="219"	pid="8" ptype="4"/>
+		<slot id="7" qprice="249"	pid="9" ptype="4"/>
+		<slot id="8" qprice="279"	pid="10" ptype="4"/>
+		<slot id="9" qprice="309"	pid="11" ptype="4"/>
+		<slot id="10" qprice="339"	pid="12" ptype="4"/>
+		<slot id="11" qprice="369"	pid="13" ptype="4"/>
+		<slot id="12" qprice="399"	pid="14" ptype="4"/>
+		<slot id="13" qprice="429"	pid="15" ptype="4"/>
+		<slot id="14" qprice="459"	pid="16" ptype="4"/>
+	</favor_slots>
+	<star_info name="星级餐厅配置文件" type="xml">
+		<info id="1" name="一星餐厅" reslv="24" decorlv="9" bands="1" slots="0" />
+		<info id="2" name="二星餐厅" reslv="27" decorlv="12" bands="2" slots="1" />
+		<info id="3" name="三星餐厅" reslv="30" decorlv="13" bands="3" slots="2" />
+		<info id="4" name="四星餐厅" reslv="33" decorlv="14" bands="4"/>
+		<info id="5" name="五星餐厅" reslv="36" decorlv="16" bands="5"/>
+		<info id="6" name="六星餐厅" reslv="39" decorlv="18" bands="0,6"/>
+	</star_info>
+	<opt_report_probability type="json">
+		<![CDATA[
+		{"opt_report_probability":[
+		{"id":"success", "value":0.05},
+		{"id":"error", "value":1},
+		{"id":"speed", "value":0.05}
+		]}]]>
+	</opt_report_probability>
+
+	<health_db type="json">
+		<![CDATA[
+		{"health_db":{
+		"0":[
+		{"lst":0, "max":2001, "time":12, "earn":0},
+		{"lst":2001, "max":4001, "time":12, "earn":1},
+		{"lst":4001, "max":6001, "time":12, "earn":2},
+		{"lst":6001, "max":100001, "time":12, "earn":3},
+		{"lst":100001, "max":999999999, "time":12, "earn":3}
+		],
+		"1":[
+		{"lst":0, "max":2001, "time":12, "earn":0},
+		{"lst":2001, "max":4001, "time":12, "earn":1},
+		{"lst":4001, "max":6001, "time":12, "earn":2},
+		{"lst":6001, "max":100001, "time":12, "earn":3},
+		{"lst":100001, "max":999999999, "time":12, "earn":3}
+		],
+		"2":[
+		{"lst":0, "max":2001, "time":12, "earn":0},
+		{"lst":2001, "max":4001, "time":12, "earn":1},
+		{"lst":4001, "max":6001, "time":12, "earn":2},
+		{"lst":6001, "max":100001, "time":12, "earn":3},
+		{"lst":100001, "max":999999999, "time":12, "earn":3}
+		],
+		"3":[
+		{"lst":0, "max":2001, "time":3, "earn":0},
+		{"lst":2001, "max":4001, "time":3, "earn":0},
+		{"lst":4001, "max":6001, "time":3, "earn":0},
+		{"lst":6001, "max":10001, "time":8, "earn":0},
+		{"lst":10001, "max":999999999, "time":8, "earn":0}
+		]
+		}}]]>
+	</health_db>
+	<employee_db type="json">
+		<![CDATA[
+		{"employee_db":[
+		{"lev":[1,5], "elev":"实习", "earn":0, "pri":[-1,5000]},
+		{"lev":[6,10], "elev":"初级", "earn":1, "pri":[5000,5250]},
+		{"lev":[11,15], "elev":"中级", "earn":2, "pri":[5250,6000]},
+		{"lev":[16,20], "elev":"高级", "earn":3, "pri":[6000,7000]},
+		{"lev":[21,25], "elev":"特级", "earn":4, "pri":[7000,8500]},
+		{"lev":[26,30], "elev":"超级", "earn":5, "pri":[8500,1000000]}]}
+		]]>
+	</employee_db>
+
+	<system_employee_db name="系统雇员" type="xml">
+		<item uin="1001,1d5e3881f282ed19d8c8cb6a6c33074d" name="醋溜香" earn="0" price="8000" sprice="2000" title="实习" activity="0" />
+		<item uin="1002,1d5e3881f282ed195002d2b35c656f5f" name="小凤姐" earn="1" price="9000" sprice="3000" title="初级" activity="0" />
+		<item uin="1007,1d5e3881f282ed19da7b74dff33f9d7b" name="酷睿小快手" earn="2" price="5000" sprice="3000" title="实习" activity="1">
+			<link text="招募主人中"><![CDATA[http://jump.t.l.qq.com/ping?target=http%3A//corebaby.qq.com&cpid=641009382&type=13]]></link>
+		</item>
+		<item uin="1008,1d5e3881f282ed19a162da83a3f9b3ed" name="保安哥" earn="0" price="1000" sprice="100" title="初级" activity="0" typeMask="4"/>
+		<item uin="1009,1d5e3881f282ed19f06f20231cc3cb52" name="栗子丹" earn="0" price="12000" sprice="6000" title="高级" activity="0" typeMask="4"/>
+	</system_employee_db>
+	<private_room type="json">
+		{"private_room":
+			[
+				{ "level" : 15, "price" : 1000000, "customer" : 2, "size" : [6, 6], "available" : true, "area_level" : 0 },
+				{ "level" : 20, "available" : false, "area_level" : 1 }
+			]
+		}
+	</private_room>
+	<default type="json">
+		{"default":
+			{
+				"floor" : [3, 17, 19, 233, 609, 1043, 1640],
+				"wall"	: [4, 21, 22, 237, 603, 1045, 1647],
+				"kitchenFloor" : [8, 18, 20, 259, 608, 1044, 1641],
+				"door"	: [6, 23, 24, 258, 612, 1052, 1648],
+				"kitchenTable" : [9, 48, 49, 236, 611, 1040, 1649],
+				"learningTable" : [13, 30, 34, 232, 610, 1041, 1650]
+			}
+                }
+	</default>
+	<levels type="json">
+		{"levels":
+		[
+			{"ep":0, "le":1,"em" : 1,"tm":1000, "customer" : 294.6,"mo":400},
+			{"ep":50,"le":2,"em" : 1,"tm":1100, "customer" : 294.6,"mo":500},
+			{"ep":200,"le":3,"em" : 2,"tm":1200, "customer" : 336,"mo":540},
+			{"ep":500,"le":4,"em" : 2,"tm":1300, "customer" : 396,"mo":600},
+			{"ep":1000,"le":5,"em" : 2,"tm":1400, "customer" : 396,"mo":640},
+			{"ep":4500,	"le":6,"em" : 3,"tm":1500, "customer" : 426,"mo":1350},
+			{"ep":11000,"le":7,"em" : 3,"tm":1600, "customer" : 450,"mo":1440},
+			{"ep":21000,"le":8,"em" : 3,"tm":1700, "customer" : 450,"mo":1530},
+			{"ep":40000,"le":9,"em" : 4,"tm":1800, "customer" : 480,"mo":1620},
+			{"ep":62000,"le":10,"em" : 4,"tm":1900, "customer" : 480,"mo":1710},
+			{"ep":90000,"le":11,"em" : 4,"tm":2000, "customer" : 480,"mo":1800},
+			{"ep":120000,"le":12,"em" : 5,"tm":2100, "customer" : 522,"mo":1890},
+			{"ep":160000,"le":13,"em" : 5,"tm":2200, "customer" : 546,"mo":1980},
+			{"ep":200000,"le":14,"em" : 5,"tm":2300, "customer" : 546,"mo":2070},
+			{"ep":250000,"le":15,"em" : 6,"tm":2400, "customer" : 600,"mo":2160},
+			{"ep":310000,"le":16,"em" : 6,"tm":2500, "customer" : 600,"mo":2250},
+			{"ep":380000,"le":17,"em" : 6,"tm":2600, "customer" : 660,"mo":2340},
+			{"ep":450000,"le":18,"em" : 7,"tm":2700, "customer" : 702,"mo":2430},
+			{"ep":540000,"le":19,"em" : 7,"tm":2800, "customer" : 702,"mo":2520},
+			{"ep":640000,"le":20,"em" : 7,"tm":2900, "customer" : 702,"mo":2610},
+			{"ep":750000,"le":21,"em" : 8,"tm":3000, "customer" : 708,"mo":2700},
+			{"ep":870000,"le":22,"em" : 8,"tm":3100, "customer" : 738,"mo":2790},
+			{"ep":1000000,"le":23,"em" : 8,"tm":3200, "customer" : 738,"mo":2880},
+			{"ep":1130000,"le":24,"em" : 9,"tm":3300, "customer" : 804,"mo":2970},
+			{"ep":1280000,"le":25,"em" : 9,"tm":3400, "customer" : 804,"mo":3060},
+			{"ep":1440000,"le":26,"em" : 9,"tm":3500, "customer" : 840,"mo":3150},
+			{"ep":1600000,"le":27,"em" : 10,"tm":3600, "customer" : 870,"mo":3240},
+			{"ep":1780000,"le":28,"em" : 10,"tm":3700, "customer" : 870,"mo":3330},
+			{"ep":2000000,"le":29,"em" : 10,"tm":3800, "customer" : 870,"mo":3420},
+			{"ep":2200000,"le":30,"em" : 10,"tm":3900, "customer" : 870,"mo":3510}
+		]}
+	</levels>
+	<area type="json">
+		{"area":[
+			{"id":1, "level":1, "size":[8, 7], "money":0},
+			{"id":2, "level":2, "size":[8, 8], "money":500},
+			{"id":3, "level":4, "size":[8, 9], "money":2000},
+			{"id":4, "level":5, "size":[9, 9], "money":6000},
+			{"id":5, "level":7, "size":[9, 10], "money":40000},
+			{"id":6, "level":8, "size":[10, 10], "money":60000},
+			{"id":7, "level":10, "size":[10, 11], "money":80000},
+			{"id":8, "level":11, "size":[11, 11], "money":90000},
+			{"id":9, "level":13, "size":[11, 12], "money":200000},
+			{"id":10, "level":14, "size":[12, 12], "money":250000},
+			{"id":11, "level":16, "size":[12, 13], "money":300000},
+			{"id":12, "level":17, "size":[13, 13], "money":350000},
+			{"id":13, "level":19, "size":[13, 14], "money":500000},
+			{"id":14, "level":20, "size":[14, 14], "money":600000},
+			{"id":15, "level":22, "size":[14, 15], "money":700000},
+			{"id":16, "level":23, "size":[15, 15], "money":800000},
+			{"id":17, "level":25, "size":[15, 16], "money":1200000},
+			{"id":18, "level":26, "size":[16, 16], "money":1500000},
+			{"id":19, "level":28, "size":[16, 17], "money":2500000},
+			{"id":20, "level":29, "size":[17, 17], "money":3000000}
+		]}
+	</area>
+	<slot type="json">
+		{"dish_slot":[
+			{"id":1, "level":5, "money":5000},
+			{"id":2, "level":10, "money":100000},
+			{"id":3, "level":15, "money":500000}
+		]}
+	</slot>
+	<popurlarity type="json">
+		{"popurlarity":
+		[
+			[0, 8],
+			[5, 12],
+			[10, 15],
+			[15, 20],
+			[20, 25],
+			[25, 30],
+			[35, 40],
+			[45, 50],
+			[50, 55]
+		]}
+	</popurlarity>
+	<tracking type="json">
+		{"tracking":[
+			{"cmd":2,"code":[160158,160159],"tp":[1,1]},
+			{"cmd":3,"code":[160086,160044]},
+			{"cmd":4,"code":[160071,160031]},
+			{"cmd":5,"code":[160167,160168],"tp":[1,0]},
+			{"cmd":8,"code":[160072,160032]},
+			{"cmd":9,"code":[160169,160170]},
+			{"cmd":11,"code":[160070,160049]},
+			{"cmd":13,"code":[160171,160172]},
+			{"cmd":14,"code":[160173,160174]},
+			{"cmd":16,"code":[160140,160141]},
+			{"cmd":17,"code":[160088,160059]},
+			{"cmd":18,"code":[160083,160041]},
+			{"cmd":27,"code":[160142,160143]},
+			{"cmd":30,"code":[160144,160145]},
+			{"cmd":31,"code":[160087,160053]},
+			{"cmd":33,"code":[160079,160038]},
+			{"cmd":34,"code":[160067,160046]},
+			{"cmd":35,"code":[160068,160047]},
+			{"cmd":36,"code":[160085,160043]},
+			{"cmd":37,"code":[160082,160040]},
+			{"cmd":38,"code":[160081,160039]},
+			{"cmd":39,"code":[160146,160147]},
+			{"cmd":50,"code":[160084,160042]},
+			{"cmd":54,"code":[160069,160048]},
+			{"cmd":55,"code":[160066,160045]},
+			{"cmd":56,"code":[160148,160149]},
+			{"cmd":61,"code":[160150,160151]},
+			{"cmd":67,"code":[160152,160153]},
+			{"cmd":68,"code":[160093,160094]},
+			{"cmd":69,"code":[160099,160100]},
+			{"cmd":70,"code":[160101,160102]},
+			{"cmd":72,"code":[160154,160155]},
+			{"cmd":73,"code":[160095,160096]},
+			{"cmd":74,"code":[160156,160157]},
+			{"cmd":76,"code":[160107,160108]},
+			{"cmd":77,"code":[160113,160114]},
+			{"cmd":78,"code":[160105,160106]},
+			{"cmd":79,"code":[160109,160110]},
+			{"cmd":80,"code":[160111,160112]},
+			{"cmd":81,"code":[160103,160104]},
+			{"cmd":82,"code":[160160,160161]},
+			{"cmd":83,"code":[160162,160163]},
+			{"cmd":84,"code":[160164,160165]},
+			{"cmd":86,"code":[160196,160197]},
+			{"cmd":89,"code":[160194,160195]},
+			{"cmd":90,"code":[160192,160193]},
+
+			{"cmd":"CGI_FARM_GET_COMMON_NOTICE","code":[160175,160176]},
+			{"cmd":"FEEDS_SELECT","code":[160121,160122]},
+			{"cmd":"FEEDS_DELETE","code":[160177,160178]},
+			{"cmd":"SYSMSG_SELECT","code":[160179,160180]},
+			{"cmd":"MSG_SELECT","code":[160123,160124]},
+			{"cmd":"MSG_DELETE","code":[160181,160182]},
+			{"cmd":"MSG_INSERT","code":[160078,160037]},
+			{"cmd":"CGI_APP_BUY","code":[160097,160098]},
+			{"cmd":"FCG_WS_GOODS","code":[160183,160184]},
+			{"cmd":"CGI_FARM_REP","code":[160185,160186]},
+			{"cmd":"CGI_PASTURE_REP","code":[160198,160199]},
+
+			{"cmd":"FRIEND_LIST_HAMMER","code":[160219,160220]},
+			{"cmd":"FRIEND_LIST_MOOCH","code":[160076,160035]},
+			{"cmd":"FRIEND_LIST_HIRE","code":[160077,160036]},
+			{"cmd":"NO_DOOR","code":[160089,160064]},
+			{"cmd":"GO_WORKSHOP","code":[160115,160116]},
+			{"cmd":"GET_WORKSHOP_INVENTORY","code":[160117,160118]},
+			{"cmd":"NEED_FRIEND","code":[0,160119]},
+			{"cmd":"NEED_ADD_FRIEND","code":[0,160120]},
+			{"cmd":"SERVER_MAIN","code":[160073,160033],"tp":[1,0]},
+			{"cmd":"SERVER_BAK","code":[160074,160034],"tp":[1,0]},
+
+			{"cmd":"ACTIVITY_DECO_SAVE","code":[160239,160240]},
+			{"cmd":"ACTIVITY_VIEW_LIB","code":[160241,160242]},
+			{"cmd":"ACTIVITY_NPC_CLICK","code":[160368,160369]},
+			{"cmd":"ACTIVITY_LINK_CLICK","code":[160370,160371]},
+			{"cmd":"OPEN_DISH_WIN","code":[160374,160375]},
+			{"cmd":"ACTIVITY_DISH","code":[160372,160373]},
+			{"cmd":"ACTIVITY_DISHLINK_CLICK","code":[160376,160377]},
+
+			{"cmd":"HY_DECO_SAVE","code":[160378,160380]},
+			{"cmd":"HY_VIEW_LIB","code":[160381,160382]},
+			{"cmd":"HY_LINK_CLICK","code":[160385,160386]},
+			{"cmd":"HY_NPC_CLICK","code":[160383,160384]},
+			{"cmd":"MEAL_PAGE_VIEW","code":[160387,160388]},
+			{"cmd":"FULLSCREEN_BTN_CLICK","code":[160390,160391]},
+			{"cmd":"ZOOMINOUT_BTN_CLICK","code":[160392,160393]},
+			{"cmd":"MESSAGE_BTN_CLICK","code":[160394,160395]},
+			{"cmd":"BULLETIN_BTN_CLICK","code":[160396,160397]},
+			{"cmd":"CAMERA_BTN_CLICK","code":[160398,160399]},
+			{"cmd":"YELLOWPRESENT_BTN_CLICK","code":[160400,160401]},
+			{"cmd":"MUSIC_BTN_CLICK","code":[160402,160403]},
+			{"cmd":"LOGINPRESENT_BTN_CLICK","code":[160404,160405]},
+			{"cmd":"MISSION_BTN_CLICK","code":[160406,160407]},
+			{"cmd":"MAIN_VERSION","code":[160414,160415]},
+
+			{"cmd":"REGISTER_FROM_FARM","code":[160422,160423],"tp":[1,1]},
+			{"cmd":"REGISTER_FROM_ANIMAL","code":[160424,160425],"tp":[1,1]},
+			{"cmd":"REGISTER_FROM_MILL","code":[160426,160427],"tp":[1,1]},
+			{"cmd":"REGISTER_FROM_NORMAL","code":[160428,160429],"tp":[1,1]},
+
+			{"cmd":"TO_MYFRAM","code":[160416,160417]},
+			{"cmd":"TO_MYGRASS","code":[160418,160419]},
+			{"cmd":"TO_MYWROKSHOP","code":[160420,160421]},
+
+			{"cmd":"ENTER_FROM_FARM","code":[160430,160431]},
+			{"cmd":"ENTER_FROM_ANIMAL","code":[160432,160433]},
+			{"cmd":"ENTER_FROM_MILL","code":[160434,160435]},
+			{"cmd":"ENTER_FROM_NORMAL","code":[160436,160437]},
+
+			{"cmd":"GUIDE_STEP_CLICK","code":[160441,160442],"tp":[1,1]},
+			{"cmd":"GUIDE_MISSION_COMPLETE","code":[160443,160444],"tp":[1,1]},
+
+			{"cmd":"ENTER_FROM_ACT","code":[160445,160446]},
+			{"cmd":"KANGSHIFU_LINK","code":[160447,160448]},
+			{"cmd":"KANGSHIFU_DETAIL_VIEW","code":[160449,160450]},
+			{"cmd":"TO_MYMARKET","code":[160512,160513]},
+			{"cmd":"READ_NEWS_BOARD","code":[160521,160522],"tp":[1,1]},
+			{"cmd":"CLICK_SPECIAL_CUSTOMER","code":[160525,160526]},
+			{"cmd":"VALENTINE_CLICK_TIMES","code":[160544,160545]},
+                        {"cmd":"noahark_npc_click","code":[160568,160569]},
+			{"cmd":"noaharkv1_offline_btn_click","code":[160570,160571]},
+			{"cmd":"noaharkv1_offline_confirm_btn_click","code":[160572,160573]},
+			{"cmd":"KING_SALES","code":[160575,160576]},
+                        {"cmd":"DECORATE_AWARD","code":[160589,160590],"tp":[1,1]}
+		]}
+	</tracking>
+	<errors type="json">
+		{"errors":[
+			{"id":-5001,"msg":"系统正在维护中..."},
+			{"id":-6001,"msg":"对不起，您的等级或金币不足，无法学习该菜式"},
+			{"id":-6002,"msg":"对不起，您上次在该好友家里学过艺了"},
+			{"id":-6003,"msg":"对不起，您正在学艺中"},
+			{"id":-6004,"msg":"您手慢了，好友已经没有可学艺位置了"},
+			{"id":-6005,"msg":"您手慢了，学艺可能已被好友驱逐了"},
+			{"id":-6006,"msg":"您学艺中还不够30分钟，不能召回"},
+			{"id":-6007,"msg":"您下手慢了，好友已经不在您家学艺了"},
+			{"id":-6008,"msg":"没有查询到您需要的数据"},
+			{"id":-6009,"msg":"您没有足够的的金币"},
+			{"id":-6010,"msg":"您所装饰的物品不存在"},
+			{"id":-6011,"msg":"您没有足够的食材"},
+			{"id":-6012,"msg":"您没有权限查看"},
+			{"id":-6013,"msg":"您的等级不够"},
+			{"id":-6014,"msg":"好友没有学会该菜式"},
+			{"id":-6015,"msg":"您已经学习或学艺学了该菜式"},
+			{"id":-6016,"msg":"您还没有学会该菜式"},
+			{"id":-6017,"msg":"您已经开通了餐厅"},
+			{"id":-6018,"msg":"您的黄钻级别不够或非黄钻用户"},
+			{"id":-6019,"msg":"您不在体验白名单里面"},
+			{"id":-6020,"msg":"还没有开通餐厅"},
+			{"id":-6021,"msg":"您需要先学艺低等级菜式"},
+			{"id":-6022,"msg":"您的招牌菜份数还有剩余，不能设置新的"},
+			{"id":-6023,"msg":"尊敬的QQ餐厅用户：由于您的帐号被查出近期多次使用第三方软件，您已被列入餐厅注册黑名单，永远不允许注册餐厅。"},
+			{"id":-6024,"msg":"您没有出售这种招牌菜"},
+			{"id":-6025,"msg":"使用仓库物品失败，您要全部使用金币吗"},
+			{"id":-6026,"msg":"您设置的出售菜式种类已达到上限"},
+			{"id":-6027,"msg":"厨房容量有限！当前等级，每种菜肴您最多可以同时出售500份。"},
+			{"id":-6032,"msg":"对方不是您的好友，无法进行举报！"},
+			{"id":-6034,"msg":"下手晚了一步，对方已经召回！"},
+			{"id":-6035,"msg":"好友开始学艺还没到15分钟，手下留情吧！"},
+			{"id":-6036,"msg":"您已经举报过一次了哦！"},
+			{"id":-6037,"msg":"下手晚了一步，刚刚被人抢先举报驱逐了！"},
+			{"id":-6038,"msg":"您当前等级不符合扩建"},
+			{"id":-6039,"msg":"已经是好友雇员了，不能在该好友家学艺"},
+			{"id":-6044,"msg":"TA还不是你的空间好友，请先添加TA为空间好友吧！"},
+			{"id":-6045,"msg":"TA还不是你的校友好友，请先添加TA为校友好友吧！"},
+			{"id":-6028,"msg":"输入内容含有非法字符,请重新填写"},
+			{"id":-6053,"msg":"对不起，不能再使用该道具了"},
+			{"id":-6077,"msg":"对不起，您没有足够的库存"},
+			{"id":-6078,"msg":"加工坊配餐出售数量必须是100的整数倍哦"},
+			{"id":-6080,"msg":"您所购买的限时/限量物品已停止出售"},
+			{"id":-6083,"msg":"您目前没有可领取的礼包"},
+			{"id":-6084,"msg":"您的礼包已经领过了，请明天再来吧"},
+			{"id":-6087,"msg":"网络繁忙，您添加菜肴时使用原材料失败，系统将在24小时内自动退回原材料到您的仓库。"},
+			{"id":-6091,"msg":"开启第二菜系条件不足"},
+			{"id":-7005,"msg":"获取状态错误"},
+			{"id":-7006,"msg":"设置状态错误"},
+			{"id":-7007,"msg":"任务已完成"},
+			{"id":-7008,"msg":"配置读取错误"},
+			{"id":-7009,"msg":"更新金钱经验错误"},
+			{"id":-8000,"msg":"自己扔的垃圾不能被清除"},
+			{"id":-8001,"msg":"你下手晚了"},
+			{"id":-8002,"msg":"垃圾已经够多了"},
+			{"id":-8003,"msg":"经验值达到上限"},
+			{"id":-9004,"msg":"餐厅主人及时过来补充了体力，挖不走啦！"},
+			{"id":-9005,"msg":"您的输入存在异常"},
+			{"id":-9006,"msg":"TA还不是你的好友,先去加为好友吧"},
+			{"id":-9007,"msg":"您的餐厅雇佣人数已达上限"},
+			{"id":-9008,"msg":"好友已离开餐厅！"},
+			{"id":-9009,"msg":"获取体力维持时间失败"},
+			{"id":-9010,"msg":"获取最大雇佣数失败"},
+			{"id":-9011,"msg":"您的钱不够用啦,先去赚钱吧"},
+			{"id":-9012,"msg":"TA已经是你的雇员啦"},
+			{"id":-9013,"msg":"30分钟内不能连续雇佣一个好友"},
+			{"id":-9014,"msg":"下手太慢了，其他人抢先了"},
+			{"id":-9015,"msg":"TA正在您家学艺呢，换一个好友雇佣吧！"},
+			{"id":-9024,"msg":"TA已经是你的雇员啦"},
+			{"id":-6040,"msg":"每日捡垃圾经验达到上限"},
+			{"id":-6041,"msg":"登陆超时，请重新登陆"},
+			{"id":-6042,"msg":"您今天已经蹭饭够多了，明天再来吧"},
+			{"id":-6058,"msg":"您上次已经邀请过TA啦，邀请其他人试试吧。"},
+			{"id":-6063,"msg":"您下手慢啦！包房现在正有人用餐哦，稍后再来吧。"},
+			{"id":-6064,"msg":"包房正在打扫中，请您稍后再来。"},
+			{"id":-6065,"msg":"TA正在别的好友家用餐呢，档期排不开，稍后再来吧。"},
+			{"id":-6066,"msg":"{master}的餐厅暂时还未营业，包房暂不开放。"},
+			{"id":-6067,"msg":"您好友的包房被装修堵住了，谁都进不去，能帮忙转告TA以后别这么干么。"},
+			{"id":-6068,"msg":"餐厅主人正在装修包房，有劳您稍后再来。"},
+			{"id":-6069,"msg":"您上菜失败，请再试一次哦"},
+			{"id":-6072,"msg":"您下手慢了，已经有人给客人上菜，有劳您下次再来。"},
+			{"id":-6073,"msg":"您的好友{name}刚被人拉去吃饭了，下次再约吧！"},
+			{"id":-29961,"msg":"对不起，不可以给自己留言"},
+			{"id":-29973,"msg":"您的留言中含有敏感字"},
+			{"id":-9022,"msg":"雇员的体力已满，不能喂食。"},
+			{"id":-8014,"msg":"您已经打完了今天所有的地鼠，请明天再来。"},
+			{"id":-6094,"msg":"您今天在该好友餐厅整蛊超过了限制。"},
+			{"id":-6095,"msg":"活动已经结束。"},
+			{"id":-6096,"msg":"您今天整蛊的次数超过了限制。"},
+			{"id":-6097,"msg":"您下手慢了，整蛊盒已经跑掉了！"},
+
+			{"id":-6098,"msg":"活动无效"},
+			{"id":-6099,"msg":"活动没有开始，不能投资扩建！"},
+			{"id":-6100,"msg":"当前投资扩建的外景已经存在，不能重复扩建！"},
+			{"id":-6101,"msg":"外景装扮不存在"},
+			{"id":-6102,"msg":"外景装扮不能收获！"},
+			{"id":-6104,"msg":"您的仓库材料不足，暂时无法升级"},
+			{"id":-8037,"msg":"您的外景已经升级到最大等级"},
+			{"id":-8038,"msg":"投资完成之前不能升级外景"},
+			{"id":-8039,"msg":"建造完成之前不能升级外景"},
+			{"id":-8040,"msg":"升级完成之前不能升级外景"},
+			{"id":-8041,"msg":"功能没有开启"},
+			{"id":-8043,"msg":"活动结束啦，不可以再雇佣酷睿小助手了哦"},
+			{"id":-9501,"msg":"尊敬的QQ餐厅用户：您已被系统检测出使用外挂，系统已自动关闭您的餐厅。您可于{date}后重新登录餐厅。 "},
+			{"id":-8021,"msg":"限量奖品已经兑换过了 "},
+			{"id":-6108,"msg":"您还未满足所需条件"},
+			{"id":-6109,"msg":"您还没有开通微博"},
+			{"id":-6110,"msg":"礼包发放完毕"},
+			{"id":-6111,"msg":"您还有没有开放活动资格"},
+			{"id":-6112,"msg":"该套装已经存在,不能重复领取"},
+			{"id":-6074,"msg":"该活动菜式过期,已不能购买"},
+			{"id":-6111,"msg":"该活动菜式还未能售卖"},
+			{"id":-6112,"msg":"获取该套装数量已到上限"},
+			{"id":-6113,"msg":"您的积分不够，不能兑换该礼包"},
+			{"id":-6114,"msg":"您今天已兑换过礼包了，每天只能兑换一次哦"},
+
+			{"id":-8050,"msg":"已经拥有该背景装扮"},
+			{"id":-8051,"msg":"您已经购买了这个场景，不可重复购买哟"},
+			{"id":-8052,"msg":"更新未过期背景装扮的过期时间"},
+			{"id":-8053,"msg":"背景装扮类型不存在"},
+			{"id":-8054,"msg":"诺亚方舟没有建成，不可以购买背景"},
+			{"id":-8055,"msg":"背景装扮不可以用金币购买"},
+			{"id":-8056,"msg":"背景装扮不可以用QB购买"},
+			{"id":-8058,"msg":"减少删除状态的建造时间"},
+			{"id":-8059,"msg":"删除状态升级外景"},
+			{"id":-8060,"msg":"减少删除状态的收获时间"},
+			{"id":-8061,"msg":"减少删除状态的升级时间"},
+			{"id":-8062,"msg":"减少不可收获状态的建造时间"},
+			{"id":-8063,"msg":"不可收获状态升级外景"},
+			{"id":-8064,"msg":"减少不可收获状态的收获时间"},
+			{"id":-8065,"msg":"减少不可收获状态的升级时间"},
+			{"id":-8066,"msg":"外景装扮禁止收获"},
+			{"id":-8067,"msg":"外景装扮建造条件不够"},
+			{"id":-8068,"msg":"背景装扮不存在"},
+
+			{"id":-6120,"msg":"收藏装扮槽位已经开启"},
+			{"id":-6121,"msg":"收藏装扮槽位开启不按照顺序"},
+			{"id":-6122,"msg":"收藏装扮槽位全部锁住"},
+			{"id":-6123,"msg":"收藏装扮槽位全部锁住"},
+			{"id":-6124,"msg":"收藏装扮存在未拥有装扮"},
+			{"id":-6125,"msg":"收藏装扮槽位已经收藏了装扮"},
+			{"id":-6126,"msg":"收藏装扮槽位已经为空"},
+
+			{"id":-6055,"msg":"您下手慢了，这份菜已经被别人抢走了~"},
+			{"id":-8044,"msg":"行行好吧，TA家这道菜已经所剩无几啦。"},
+			{"id":-8045,"msg":"请休息一下吧~，今天您已经蹭了太多次了。"},
+			{"id":-8046,"msg":"这家今天被蹭饭太多次了，明天再来吧！"},
+			{"id":-8047,"msg":"这家老板刚刚更换了招牌菜，请尝试重新进入这家餐厅试试。"},
+			{"id":-8048,"msg":"这道菜的经验值还不够，无法学会。"},
+			{"id":-8049,"msg":"您已经学会这道菜了。"},
+			{"id":-8058,"msg":"该吃货已不存在了。"},
+			{"id":-8059,"msg":"先让餐厅处于营业状态，再点击迎接吃货们"},
+			{"id":-9028,"msg":"雇佣保安数已经到达上限。"},
+                        {"id":-8070,"msg":"诺亚方舟已起航。"},
+                        {"id":-8070,"msg":"诺亚方舟等级异常。"}
+		]}
+	</errors>
+	<!-- 文字信息,国际化标准 -->
+	<content type="xml">
+		<screen id="baseText">
+			<!--静态文本-->
+			<text id="system_busy"><![CDATA[ 系统繁忙，请稍后重试。 ]]></text>
+			<text id="module_closed"><![CDATA[ 对不起！系统维护中，此功能目前暂时不可使用。 ]]></text>
+			<text id="invite_friend"><![CDATA[ 邀请好友开通QQ餐厅 ]]></text>
+			<text id="family_1"><![CDATA[ 川菜 ]]></text>
+			<text id="family_2"><![CDATA[ 鲁菜 ]]></text>
+			<text id="family_3"><![CDATA[ 粤菜 ]]></text>
+			<text id="family_4"><![CDATA[ 湘菜 ]]></text>
+			<text id="family_5"><![CDATA[ 江浙菜 ]]></text>
+			<text id="family_6"><![CDATA[ 东北菜 ]]></text>
+			<text id="family_7"><![CDATA[ 西北菜 ]]></text>
+			<text id="family_chuan"><![CDATA[ 川菜 ]]></text>
+			<text id="family_lu"><![CDATA[ 鲁菜 ]]></text>
+			<text id="family_yue"><![CDATA[ 粤菜 ]]></text>
+			<text id="family_other"><![CDATA[ 其他菜系 ]]></text>
+			<text id="default_name"><![CDATA[ 餐厅玩家 ]]></text>
+			<text id="set_meal"><![CDATA[ 配餐 ]]></text>
+			<text id="set_study"><![CDATA[ 学艺 ]]></text>
+			<text id="minute"><![CDATA[ 分钟 ]]></text>
+			<text id="edit_mode"><![CDATA[ 您正在装饰您的餐厅，无法进入其他人的餐厅。]]></text>
+			<text id="full_screen_keyboard"><![CDATA[ 键盘在全屏状态下不可用，<br>请点箭头调整数量 ]]></text>
+			<text id="full_screen_keyboard_input"><![CDATA[ 餐厅在全屏状态下不支持输入，<br/>请您先退出全屏模式 ]]></text>
+			<!--动态文本模板-->
+			<text id="add_exp"><![CDATA[ +{exp}经验 ]]></text>
+			<text id="lvl_txt"><![CDATA[ 级 ]]></text>
+			<text id="money_txt"><![CDATA[ {money}金币 ]]></text>
+			<text id="ct_txt"><![CDATA[ 的餐厅]]></text>
+		</screen>
+		<screen id="masterBubble" default_href="http://qzs.qq.com/qzone/vas/act/baofang/index.html" show_interval="10">
+			<!-- 有链接提示语，href为空表示使用默认连接 -->
+			<text link="true" href=""><![CDATA[包房怎么玩？真相在这里]]></text>
+			<text link="true" href=""><![CDATA[包房的真谛不是等客人，是去别人家抢客人，查看真谛]]></text>
+			<text link="true" href=""><![CDATA[人的一生可短暂了，要充分体验装修餐厅和包房的快乐]]></text>
+			<text link="true" href=""><![CDATA[简单包房不是王道，包房套装是王道，查看王道]]></text>
+			<text link="true" href=""><![CDATA[包房即使不经营，能号召好友上菜，老板也能分到钱]]></text>
+			<text link="true" href=""><![CDATA[阴天。傍晚。邀请远方的TA，在包房一叙]]></text>
+			<!-- 无连接提示语 -->
+			<text link="true" href=""><![CDATA[没事就来QQ餐厅看人来人往，思考人生]]></text>
+			<text link="true" href=""><![CDATA[生命如同QQ餐厅，卖什么菜要自己选择]]></text>
+			<text link="true" href=""><![CDATA[最悲惨的事情是，QQ餐厅赚了钱舍不得花]]></text>
+		</screen>
+		<screen id="MainScreen">
+			<text id="toomany_rubbish"><![CDATA[ 已经有太多的垃圾了，行行好吧！ ]]></text>
+			<text id="clear_evidence"><![CDATA[ 不能销毁你的罪证！ ]]></text>
+			<text id="nextlvl_tips"><![CDATA[ 离升级还差{exp}经验]]></text>
+			<text id="nextlvl_tips_dish"><![CDATA[ ，下一级升级<br/>奖励：可学新菜]]></text>
+			<text id="nextlvl_tips_employee"><![CDATA[ ，雇员数+1]]></text>
+			<text id="nextlvl_tips_area"><![CDATA[ ，用餐区可扩建 ]]></text>
+			<text id="nextlvl_tips_kitchen"><![CDATA[ ，厨房扩大 ]]></text>
+
+			<text id="dish_menu"><![CDATA[ 菜谱 ]]></text>
+			<text id="hire_friend"><![CDATA[ 雇佣好友 ]]></text>
+			<text id="decorate"><![CDATA[ <b><font color='#CC6600 '>“装修”</font></b> 和 <b><font color='#CC6600 '>“扩建餐厅和包房”</font></b> 按钮合并了！ ]]></text>
+			<text id="news"><![CDATA[ 消息]]></text>
+			<text id="message"><![CDATA[ 留言 ]]></text>
+			<text id="announce"><![CDATA[公告]]></text>
+			<text id="camera_btn"><![CDATA[ 照相 ]]></text>
+			<text id="leave_message"><![CDATA[ 给TA留言 ]]></text>
+			<text id="leave_rubbish"><![CDATA[ 放垃圾 ]]></text>
+			<text id="build_decor"><![CDATA[  建<font color='#CC6600 '><b>终极方舟</b></font>，玩穿越功能！送绝版方舟！  ]]></text>
+			<text id="ark_complete"><![CDATA[ 场景穿越 ]]></text>
+			<text id="my_restaurant"><![CDATA[ 我的餐厅 ]]></text>
+			<text id="my_farm"><![CDATA[ 我的农场 ]]></text>
+			<text id="my_mc"><![CDATA[ 我的牧场 ]]></text>
+			<text id="my_workshop"><![CDATA[ 我的加工坊 ]]></text>
+			<text id="settingbtn"><![CDATA[ 设置 ]]></text>
+			<text id="musicbtn"><![CDATA[ 音乐开关 ]]></text>
+			<text id="zoomin"><![CDATA[ 放大 ]]></text>
+			<text id="zoomout"><![CDATA[ 缩小 ]]></text>
+			<text id="learn_manage"><![CDATA[ 学习管理 ]]></text>
+			<text id="learning"><![CDATA[ 学习中 ]]></text>
+			<text id="ext_btn"><![CDATA[ 扩建餐厅 ]]></text>
+			<text id="can_ext_btn"><![CDATA[ 可扩建 ]]></text>
+			<text id="fullscreen"><![CDATA[ 全屏 ]]></text>
+			<text id="normal"><![CDATA[ 退出全屏 ]]></text>
+			<text id="present_btn"><![CDATA[ 礼包 ]]></text>
+			<text id="loginPresent_btn"><![CDATA[ 连续登录礼包 ]]></text>
+			<text id="mission_btn"><![CDATA[ 点击查看任务列表]]></text>
+			<text id="full_screen_keyboard"><![CDATA[ 键盘在全屏状态下不可用，<br/>请点箭头调整数量 ]]></text>
+			<text id="full_screen_keyboard_input"><![CDATA[ 餐厅在全屏状态下不支持输入，<br/>请您先退出全屏模式 ]]></text>
+<text id="decorate_level"><![CDATA[ 装修档次:{level}级 <br> 餐厅价值 {currentValue}<br> {needValue} <br>餐厅价值以历史最高值为准<br>(点击看详情)   ]]></text>
+		</screen>
+		<screen id="AreaExtendScreen">
+			<text id="no_money"><![CDATA[ 扩建需要金币<b><font color='#FF3300'>{money}</font></b><br/>对不起，您的金币不足。 ]]></text>
+			<text id="comform"><![CDATA[ 扩建需要金币<b><font color='#FF3300'>{money}</font>。</b><br/>您确定要扩建吗？ ]]></text>
+			<text id="success"><![CDATA[ 恭喜您！扩建成功！ ]]></text>
+		</screen>
+		<screen id="GameView">
+			<text id="chef_name"><![CDATA[ 餐厅大厨 ]]></text>
+			<text id="waiter_name"><![CDATA[ 大堂经理 ]]></text>
+		</screen>
+		<screen id="DishMenuScreen">
+			<!--静态文本-->
+			<text id="learned_txt"><![CDATA[ 已学完 ]]></text>
+			<text id="by_level"><![CDATA[ 需逐级学习 ]]></text>
+			<text id="free_learn"><![CDATA[ 开始学习 ]]></text>
+			<text id="sell_txt"><![CDATA[ 出售 ]]></text>
+			<text id="notlearn_txt"><![CDATA[ 未学完 ]]></text>
+			<text id="not_lvl"><![CDATA[ 等级不足]]></text>
+			<text id="buy_materials"><![CDATA[ 购买食材]]></text>
+			<text id="buy_drink"><![CDATA[ 购买物品]]></text>
+			<text id="dish_learn"><![CDATA[ 我要学习]]></text>
+
+			<text id="start_learn"><![CDATA[ 开始学习]]></text>
+			<text id="learned"><![CDATA[ 已学习]]></text>
+			<text id="unlearn"><![CDATA[ 未学习]]></text>
+			<text id="inventory_fail"><![CDATA[ <br>仓库物品不满足使用条件，无法做成食材使用。]]></text>
+
+			<text id="other_dish"><![CDATA[ 其他菜系]]></text>
+			<text id="selling"><![CDATA[ 出售中]]></text>
+			<text id="my_dish_info"><![CDATA[ 餐厅要出售一道菜，需要先准备好食材，这样厨师才能做菜的哦！]]></text>
+			<text id="other_dish_info"><![CDATA[ 到好友餐厅可以学习其他菜系的菜式。]]></text>
+			<text id="drink_info"><![CDATA[ 更多高级加工坊配餐会不断推出，互动捡到秘方可获得额外的绝配收益哦]]></text>
+			<text id="learning_info"><![CDATA[ 不能在同一个好友家连续学习，学完后就可以在餐厅出售！]]></text>
+			<text id="no_selling"><![CDATA[ 您当前没有设置出售菜肴，赶紧添加。<br>这样才有客人哦。<u>点击添加</u>]]></text>
+			<text id="show_learning"><![CDATA[ 对不起，您正在好友家学习中<br>是否要查看当前学习信息？]]></text>
+			<text id="dish_learned"><![CDATA[ 这道菜您已经学习完毕，可以在自己餐厅出售。不需要重新学习！]]></text>
+			<text id="buy_ok"><![CDATA[ 恭喜你！你已经学会了这道菜肴]]></text>
+			<text id="workshop"><![CDATA[配餐和主菜在出售时是一一对应的关系，更多加工坊配餐会不断推出，互动捡到秘方可获得额外的绝配收益哦！]]></text>
+
+			<!--动态文本模板-->
+			<text id="remain_count"><![CDATA[ 剩{count}份]]></text>
+			<text id="throw_dish"><![CDATA[ 扔掉【{dish_name}】{dish_count}份，将损失{money}金币，您确定要扔掉这些菜吗？]]></text>
+			<text id="buy_confirm"><![CDATA[ 您上次在{friend}的餐厅学【{dish}】，已经学习了<font color='#FF3300'><b>{pro}%</b> </font>，您确定要放弃学习进度，并花费<font color='#FF3300'><b>{money}金币</b></font>，马上学会吗？]]></text>
+		</screen>
+
+		<screen id="DishMenuGuestScreen">
+			<text id="guest_screen_info"><![CDATA[ 好友当前等级{level}级，以下是好友学会的菜式，您可以逐级学习！]]></text>
+			<text id="start_learn_ok"><![CDATA[ 开始在【{name}】的餐厅偷偷学习【{dish}】，本次学习将在{time}后学满，记得及时召回哦！]]></text>
+			<text id="info_no_lvl"><![CDATA[ 学习这道菜需要餐厅等级 <font color='#FF6600'>{lvl}级</font>。<br>您的等级不足，暂时无法进行学习！]]></text>
+			<text id="info_by_lvl"><![CDATA[ 暂时无法学习！<br>每个菜系都是要逐级学习，打好基础的哦！]]></text>
+			<text id="working"><![CDATA[ 您正在TA家干活呢，换一个好友学吧！]]></text>
+		</screen>
+		<screen id="DishSellScreen">
+			<text id="no_money"><![CDATA[ 金币不足]]></text>
+			<text id="input_limit"><![CDATA[ 输入的数量必须是 1-{max}]]></text>
+			<text id="use_farm"><![CDATA[ 用仓库中的 ]]></text>
+			<text id="use_farm_2"><![CDATA[ <br>制作食材，节省\t\t金币 ]]></text>
+
+			<text id="total_money"><![CDATA[ 总成本 {money}金币]]></text>
+			<text id="dish_steal"><![CDATA[ 原学习费用：<font color='#FF6600'>{money}金币</font><br>您将在该好友的餐厅偷偷的学习这道菜。记得经常查看及时召回，被主人发现了不仅要被驱逐，还要罚款！]]></text>
+			<text id="start_learn_ok"><![CDATA[ 开始在【{name}】的餐厅偷偷学习【{dish}】，本次学习将在{time}后学满，记得及时召回哦！]]></text>
+			<text id="info_no_money"><![CDATA[ 学习这道菜肴需要学费 <font color='#FF6600'>{money}金币</font>。<br>您的餐厅金币不足！]]></text>
+			<text id="info_learn"><![CDATA[ 菜肴要先学会才能在餐厅出售哦！<br>学习这道菜肴需要学费 <font color='#FF6600'>{money}金币</font>。<br>您确定要学吗？]]></text>
+
+			<text id="ex_txt"><![CDATA[ <font color='#FF6600'>1</font>个仓库物品 = <font color='#FF6600'>{count}</font>份餐厅食材]]></text>
+			<text id="buy_success"><![CDATA[ 购买成功！<br>{name}开始在餐厅出售！]]></text>
+			<text id="error_6072"><![CDATA[ 厨房容量有限！当前等级，每种菜肴您最多可以同时出售{max}份。]]></text>
+			<text id="max_tips"><![CDATA[ 输入数量:1-{max}]]></text>
+			<text id="loading_farm"><![CDATA[ <br>正在查询仓库物品，请稍候...]]></text>
+		</screen>
+		<screen id="DecorationScreen">
+			<!--静态文本-->
+			<text id="no_money"><![CDATA[ 您目前的资金不足以支付消费总额。]]></text>
+			<text id="bad_item"><![CDATA[ 您的物品处在错误的位置，不能保存！]]></text>
+			<text id="cancel_modify_btn"><![CDATA[ 取消所有修改]]></text>
+			<text id="save_modify"><![CDATA[ 保存修改]]></text>
+			<text id="buy_item"><![CDATA[ 购买装饰物品]]></text>
+			<text id="stock_item"><![CDATA[ 我的库存物品]]></text>
+			<text id="cancel_modify"><![CDATA[ 您确定要放弃你的装饰吗？]]></text>
+			<text id="saved_txt"><![CDATA[ 装修成功，共花费了：<b><font color='#FF3300'>{money}</font></b> 金币！]]></text>
+			<text id="saved_success"><![CDATA[ 装修成功 ]]></text>
+			<text id="close_btn"><![CDATA[ 关闭窗口 ]]></text>
+			<text id="save_btn"><![CDATA[ 保存修改 ]]></text>
+			<text id="undo_btn"><![CDATA[ 撤销装饰 ]]></text>
+			<text id="mark_tab"><![CDATA[ 商店 ]]></text>
+			<text id="library_tab"><![CDATA[ 我的仓库 ]]></text>
+			<text id="extends_tab"><![CDATA[ 扩建餐厅和包房 ]]></text>
+
+			<text id="undo_txt"><![CDATA[ 您确定清空未保存的物品吗？]]></text>
+			<text id="buy_txt"><![CDATA[ 餐厅有未购买的物品，价值<b><font color='#FF3300'>{money}</font></b>金币。要现在购买保存吗？ ]]></text>
+			<text id="move_txt"><![CDATA[餐厅有未保存的物品，要现在保存吗？ ]]></text>
+		</screen>
+		<screen id="EmployeeRoomScreen">
+			<text id="feed_ok"><![CDATA[ 谢谢老板，我吃饱了]]></text>
+			<text id="feed_ok_2"><![CDATA[ 已经很饱了！不吃<br>了哦~]]></text>
+			<text id="fire"><![CDATA[ 您确定要解雇{friend}吗？]]></text>
+			<text id="allocation"><![CDATA[ 分配职业成功]]></text>
+			<text id="fire_btn"><![CDATA[ 开除雇员]]></text>
+			<text id="waiter_btn"><![CDATA[ 安排为服务员]]></text>
+			<text id="chef_btn"><![CDATA[ 安排为厨师]]></text>
+
+			<text id="add_health"><![CDATA[ {money}金币，可补充体力{pr}]]></text>
+
+			<text id="health_0"><![CDATA[ 饿晕了，罢工罢工！]]></text>
+			<text id="health_20"><![CDATA[ 稍微有点力气了~]]></text>
+			<text id="health_40"><![CDATA[ 还好，能干点活！]]></text>
+			<text id="health_60"><![CDATA[ 吃的刚刚好！]]></text>
+			<text id="health_80"><![CDATA[ 吃好了！干活干活！]]></text>
+			<text id="health_100"><![CDATA[ 吃的好饱！好开心！]]></text>
+
+			<text id="job_1"><![CDATA[ 我现在是厨师！]]></text>
+			<text id="job_2"><![CDATA[ 我现在是服务员！]]></text>
+			<text id="job_3"><![CDATA[ 我是保安！]]></text>
+
+		</screen>
+		<screen id="EmployeeScreen">
+			<text id="working_hour"><![CDATA[ 持续工作时间]]></text>
+			<text id="friend"><![CDATA[ 好友]]></text>
+			<text id="more_hour"><![CDATA[ 身价越高的好友对餐厅收入提高的帮助越大，可以持续时间越长]]></text>
+			<text id="payment"><![CDATA[ 身价]]></text>
+			<text id="employ_ok"><![CDATA[ 雇佣成功！您要不要马上给【{name}】<font color="#FF3300">分配工作</font>？]]></text>
+			<text id="working"><![CDATA[ 可持续工作{hours}小时，快去分配工作吧。]]></text>
+			<text id="employee"><![CDATA[ {employee}人]]></text>
+			<text id="employ_comfirm"><![CDATA[ 【{name}】是{emp}雇员，可以给餐厅带来<b><font color="#FF3300">{earn}%</font></b>的金币经验加成，身价是<b><font color="#FF3300">{money}</font></b>金币，您现在要雇佣吗？]]></text>
+		</screen>
+		<screen id="FriendListScreen">
+			<text id="refresh"><![CDATA[ 刷新好友列表]]></text>
+			<text id="find"><![CDATA[ 查找]]></text>
+		</screen>
+		<screen id="PersonalInfoScreen">
+			<text id="reply"><![CDATA[ 回复]]></text>
+			<text id="del_news"><![CDATA[ 确定要删除消息记录？]]></text>
+			<text id="del_message"><![CDATA[ 确定要删除留言记录？]]></text>
+			<text id="feeds_btn"><![CDATA[ 消息]]></text>
+			<text id="msg_btn"><![CDATA[ 留言]]></text>
+			<text id="pay_btn"><![CDATA[ 消费]]></text>
+			<text id="profile_btn_tips"><![CDATA[ 点击查看好友首页]]></text>
+			<text id="clear_news_text"><![CDATA[ 清空消息记录]]></text>
+			<text id="clear_message_text"><![CDATA[ 清空留言记录]]></text>
+			<text id="clear_pay_text"><![CDATA[ 清空消费记录]]></text>
+			<text id="admin_text"><![CDATA[ QQ餐厅管理员 ]]></text>
+			<text id="master_name"><![CDATA[ 主人]]></text>
+		</screen>
+		<screen id="StealingManageScreen">
+			<text id="lazy"><![CDATA[ 偷懒中…您目前没有在任何好友的餐厅中学艺。]]></text>
+			<text id="learning"><![CDATA[ <br>位  置：{friend}的餐厅<br>学  习：{dish}<br>完成度：{pro}]]></text>
+			<text id="friend_learning"><![CDATA[ 好友{friend}正在厨房学习{dish}，已经学习了{time}，现在驱逐可获得{money}金币]]></text>
+			<text id="friend_left"><![CDATA[ 您的好友已经离开了]]></text>
+			<text id="expel_friend"><![CDATA[ 您确定要驱逐好友{friend}吗？<br>驱逐后好友在您餐厅的学艺进度将被取消]]></text>
+			<text id="expel_ok"><![CDATA[ 驱逐成功，获得金币{money}]]></text>
+		</screen>
+		<screen id="TaskScreen">
+			<text id="mission1"><![CDATA[ 设置招牌菜]]></text>
+			<text id="mission1_info"><![CDATA[ 点击菜谱图标打开菜谱界面，就可以设置餐厅要出售的招牌菜了。设置了招牌菜，餐厅才会开始营业。]]></text>
+			<text id="mission2"><![CDATA[ 雇佣店员]]></text>
+			<text id="mission2_info"><![CDATA[ 想要获取更高的收入，餐厅需要雇佣更多的店员。点击雇佣图标进入人才市场，选择您要雇佣的好友吧。]]></text>
+			<text id="mission3"><![CDATA[ 好友家学艺]]></text>
+			<text id="mission3_info"><![CDATA[ 到经营其他菜系的好友餐厅，可以学习其他菜系的菜式。在好友的餐厅点击菜谱图标，选择要学习的菜式即可开始学习。点击学艺图标，可以查看学习的进度。]]></text>
+			<text id="mission4"><![CDATA[ 装饰餐厅]]></text>
+			<text id="mission4_info"><![CDATA[ 您可以按照个人喜好对餐厅进行装修，点击装修图标，选择要购买的道具拖入到餐厅中即可。]]></text>
+		</screen>
+		<screen id="StudentStateViewer">
+			<text id="learn_over"><![CDATA[ 对方已经不在您的餐厅学习了！]]></text>
+			<text id="friend_gone"><![CDATA[ 对方已经离开了！]]></text>
+			<text id="info_expel"><![CDATA[ {count}人举报，{money}补偿金]]></text>
+			<text id="click_expel"><![CDATA[ 点击人物驱逐]]></text>
+			<text id="info_report"><![CDATA[ {count}人举报，{money}举报金]]></text>
+			<text id="click_report"><![CDATA[ 点击人物举报]]></text>
+			<text id="info_back"><![CDATA[ {count}人举报]]></text>
+			<text id="click_back"><![CDATA[ 点击人物召回]]></text>
+			<text id="learn_time_1"><![CDATA[ 还有]]></text>
+			<text id="learn_time_2"><![CDATA[ 本次偷学]]></text>
+			<text id="back_confirm"><![CDATA[ 不能连续在同一个好友的餐厅学习哦！您确定召回吗？]]></text>
+			<text id="report_confirm"><![CDATA[ 驱逐正在偷偷学习中的【{name}】吗？驱逐好友后您将获得<b><font color='#FF6600'>{money}</font></b>金币的补偿金！]]></text>
+			<text id="back_ok"><![CDATA[ 您已经暂停对 <font color='#FF6600'>{name}</font> 的学习<br/>您已学习  <font color='#FF6600'>{pro}%</font> ，还需要 <font color='#FF6600'>{time}</font> 学完。]]></text>
+			<text id="expel_ok"><![CDATA[ 驱逐成功！获得补偿金<font color='#FF6600'>{pr}</font>金币!]]></text>
+			<text id="expel_ok_2"><![CDATA[ 驱逐成功！]]></text>
+			<text id="report_ok"><![CDATA[ 举报成功，获得奖励<font color='#FF6600'>{money}</font>金币。]]></text>
+			<text id="report_ok_2"><![CDATA[ 举报成功！]]></text>
+			<text id="report_again"><![CDATA[ 已被您举报过一次了]]></text>
+			<text id="report_addfriend"><![CDATA[ 对方不是您的校友好友，无法进行举报，是否现在添加为校友好友？]]></text>
+			<text id="hire_addfriend"><![CDATA[ 对方不是您的校友好友，无法进行雇佣，是否现在添加为校友好友？]]></text>
+		</screen>
+		<screen id="SellingScreen">
+			<text id="mooch_tips"><![CDATA[ 好友餐厅管理松懈，<br>趁现在赶紧免费打包啦！]]></text>
+			<text id="time_stop"><![CDATA[ 停止消耗]]></text>
+			<text id="dish_stop_2"><![CDATA[ <font color='#8a6139'><br>食材用完了,快喊TA回来添食材</font>]]></text>
+			<text id="mooching"><![CDATA[ 正被蹭饭<br>快补充食材]]></text>
+			<text id="mooch_time"><![CDATA[ 约{time}后可蹭饭]]></text>
+			<text id="mooch_error"><![CDATA[ 下手慢了，没得抢啦！]]></text>
+			<text id="unlock_slot"><![CDATA[ 开启{lvl}级配菜窗口需要{price}金币，开启后可以和主菜一起搭配出售配餐哦！确定开启吗？]]></text>
+			<text id="unlock_tips"><![CDATA[ 级可以解锁，解锁后可和主菜搭配出售配餐哦]]></text>
+		</screen>
+		<screen id="ResSignUpStage">
+			<text id="name_limit"><![CDATA[ 您的餐厅名称中含有敏感字。]]></text>
+			<text id="open_fail"><![CDATA[ 服务器忙，请稍后重试！]]></text>
+		</screen>
+		<screen id="Main">
+			<text id="init_txt"><![CDATA[ 程序正在初始化，请稍候...]]></text>
+			<text id="config_error"><![CDATA[ 读取配置文件出错！]]></text>
+			<text id="main_port_fail"><![CDATA[ 连接失败，尝试连接备用网络环境中...请耐心等待]]></text>
+			<text id="bak_port_fail"><![CDATA[ 重连服务器失败，网络环境错误，请检查您的网络是否在防火墙之后。]]></text>
+			<text id="timeout"><![CDATA[ 重连服务器失败，网络环境错误，请检查您的网络是否在防火墙之后。]]></text>
+		</screen>
+		<screen id="DailyPresentScreenLogic">
+			<text id="info_txt1"><![CDATA[ present_infos.info1 ]]></text>
+			<text id="info_txt2"><![CDATA[ present_infos.info2 ]]></text>
+			<text id="info_txt3"><![CDATA[ present_infos.info3 ]]></text>
+			<text id="info_txt4"><![CDATA[ present_infos.info4 ]]></text>
+		</screen>
+	</content>
+	<loginPresentlist type="xml">
+		<item type="0" value="100" gid="1" num="0" />
+		<item type="3" value="2102" gid="1" num="5" />
+
+		<item type="0" value="200" gid="2" num="0" />
+		<item type="3" value="2399" gid="2" num="4" />
+
+		<item type="0" value="300" gid="3" num="0" />
+		<item type="3" value="2399" gid="3" num="6" />
+		<item type="3" value="2102" gid="3" num="5" />
+
+		<item type="0" value="400" gid="4" num="0" />
+		<item type="3" value="2343" gid="4" num="2" />
+		<item type="3" value="2400" gid="4" num="3" />
+
+		<item type="0" value="500" gid="5" num="0" />
+		<item type="3" value="2226" gid="5" num="2" />
+		<item type="3" value="2211" gid="5" num="3" />
+
+		<item type="4" value="1" gid="6" num="1" />
+		<item type="3" value="2226" gid="6" num="2" />
+		<item type="3" value="2211" gid="6" num="2" />
+		<item type="3" value="2343" gid="6" num="2" />
+		<item type="3" value="2400" gid="6" num="2" />
+
+		<item type="4" value="1" gid="7" num="1" />
+		<item type="3" value="2226" gid="7" num="2" />
+		<item type="3" value="2211" gid="7" num="2" />
+		<item type="3" value="2343" gid="7" num="2" />
+		<item type="3" value="2400" gid="7" num="2" />
+		<item type="3" value="2337" gid="7" num="6" />
+	</loginPresentlist>
+	<activities type="xml">
+		<activity id="37" name="大胃王促销活动" link="" window_id="70001">
+            <config>
+                <packs id="16" name="豪华包" description="豪华礼包" count="1" costprice="1030" nowprice="630" vipprice="504">
+<item id="1" name="初级大胃王" count="0"/>
+<item id="2" name="中级大胃王" count="0"/>
+<item id="3" name="高级大胃王" count="30"/>
+										
+					<item id="961" name="小桥流水" count="1"/>
+					<item id="1207" name="蝴蝶泉" count="1"/>
+                    
+                </packs>
+				<packs id="17" name="普通包" description="普通礼包" count="1" costprice="690" nowprice="420" vipprice="336">
+<item id="1" name="初级大胃王" count="10"/>
+<item id="2" name="中级大胃王" count="10"/>
+
+                    <item id="3" name="高级大胃王" count="10"/>
+															<item id="1496" name="打鼓小猴子" count="1"/>
+					<item id="1682" name="小花园摆饰" count="1"/>
+                </packs>
+                <packs id="18" name="实惠包" description="实惠礼包" count="1" costprice="360" nowprice="195" vipprice="156">
+<item id="1" name="初级大胃王" count="3"/>
+<item id="2" name="中级大胃王" count="5"/>
+                    <item id="3" name="高级大胃王" count="5"/>
+					
+										<item id="952" name="发财树" count="1"/>
+                </packs>
+            </config>
+        </activity>
+                <activity id="36" name="方舟下线活动" link="http://user.qzone.qq.com/1006666003/blog/1328844918" window_id="-1">
+			<npc assetid="arkOfflineEntranceView"  linkage="ArkOfflineEntranceView"/>
+			<description><![CDATA[方舟起航进入倒计时]]></description>
+    	        </activity>
+                <activity id="41" name="诺基亚植入" link="" window_id="-1">
+        <config>
+        <npcIndice>8</npcIndice>
+        <boardKey>nokiaNpc</boardKey>
+        <desc>诺基亚活动套装</desc>
+        
+        <alwaysShowTab>true</alwaysShowTab>
+        <decoType>16</decoType>
+        <decoName>诺基亚活动套装</decoName>
+        <emptyDesc>您仓库里没有该类物品</emptyDesc>
+        <decoIds>3248,3249,3250,3251,3252,3253,3254,3255,3256,3257,3258,3259,3260,3261,3262,3263,3264</decoIds>
+        <decoSet>{
+            "area_lvl": "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
+            "asset_id": "3689",
+            "decorations": "3262,5,0,1,0,0\t3262,2,0,1,0,0\t3259,1,0,1,0,0\t3259,6,0,1,0,0\t3260,1,5,1,0,0\t3260,6,1,1,0,0\t3260,6,5,1,0,0\t3260,1,1,1,0,0\t3258,0,4,1,3,0\t3258,0,2,1,1,0\t3257,0,5,1,0,0\t3256,5,4,1,0,0\t3256,5,2,1,0,0\t3256,2,4,1,2,0\t3256,2,2,1,2,0\t3263,3,0,1,0,0\t3251,-1,1,1,0,0\t3252,-1,3,1,0,0\t3252,1,-1,1,0,0\t3252,6,-1,1,0,0\t3252,-1,5,1,0,0\t3254,0,0,0,0,1\t3253,1,1,0,0,1\t3255,4,2,1,1,1\t3261,0,0,1,0,0",
+            "floor_id": 3248,
+            "id": 51,
+            "is_new": false,
+            "kfloor_id": 3249,
+            "name": "诺基亚lumia套装",
+            "wall_id": 3264
+        }</decoSet>
+        </config>
+        </activity>
+<activity id="42" name="娃哈哈" link="http://jump.t.l.qq.com/ping?target=http://wahaha.qq.com/kitchen&cpid=641009770&type=4" window_id="-1"/>
+<activity id="43" name="奥运大抽奖" link="http://user.qzone.qq.com/1006666003/blog/1341377902" window_id="70004">
+		<npc assetid="olympicEntrance" linkage="olympicEntranceView"/>
+		<description><![CDATA[奥运大抽奖]]></description>
+		</activity>
+	</activities>
+	<hotdecorlist>
+		<item id="1" minv="0" maxv="1610000" list="799,1207,1500,923"></item>
+		<item id="2" minv="1610000" maxv="3220000" list="953,1421,961,2886"></item>
+		<item id="3" minv="3220000" maxv="4230000" list="1499,1576,2371,2367"></item>
+		<item id="4" minv="4230000" maxv="5770000" list="1499,1576,2371,2771"></item>
+		<item id="5" minv="5770000" maxv="7530000" list="1499,1576,2371,2786"></item>
+		<item id="6" minv="7530000" maxv="9610000" list="2041,2044,2043,7008"></item>
+		<item id="7" minv="9610000" maxv="12380000" list="2041,2044,2043,7016"></item>
+		<item id="8" minv="12380000" maxv="23300000" list="2041,2044,2043,2955"></item>
+                <item id="9" minv="23300000" maxv="77920000" list="1769,2911,2616"></item>
+                <item id="10" minv="77920000" maxv="2100000000" list="2632,2568,2570"></item>
+	</hotdecorlist>
+        
+<activity_list appId="372" type="xml">
+<activity id="dragonBoat" act_id="1002" enter_type="npc" mouse_tip="端午“开粽”拿奖" bubble_tip="点击进来参加端午节活动" start_time="2012-5-31 00:00" expire_time="2012-7-2 16:00" src="http://appimg.qq.com/happyfarm/module/dragon/DragonBoatMain_v_2.swf" linkUrl="http://user.qzone.qq.com/1006666001/blog/1339469411" npc_src="http://appimg.qq.com/happyfarm/module/dragon/ctEnterNPC.swf" x="120" y="60">
+			 <rewards id="358" open="1">
+				<i name="金币" id="0" type="6" num="50000"/> 
+				<i name="经验" id="0" type="20" num="2000"/> 
+				<i name="牧草" id="1" type="25" num="500"/> 
+				<i name="粽子宝宝" id="1640" type="1" num="1"/>
+				<i name="龙舟兔" id="1139" type="1" num="1"/>
+				<i name="浣熊" id="1140" type="1" num="1"/>
+				<i name="赛龙舟" id="234" type="6" num="1"/>
+				<i name="QQ秀套装" id="1" type="1101" num="1"/>
+				<i name="QQ秀套装" id="2" type="1101" num="1"/>
+				<i name="红钻通行证" id="1" type="1102" num="1"/>			
+			 </rewards>			 
+                         <rewards id="353" open="1">
+				<i name="金币" id="0" type="6" num="50000"/> 
+				<i name="经验" id="0" type="7" num="2000"/> 
+				<i name="粽香果" id="815" type="1" num="1"/>
+				<i name="雄黄艾草" id="814" type="1" num="1"/> 
+				<i name="香粽龙舟" id="813" type="1" num="1"/>
+				<i name="背景" id="969" type="2" num="1"/>
+				<i name="小屋" id="970" type="2" num="1"/>
+				<i name="栅栏" id="971" type="2" num="1"/>
+				<i name="狗窝" id="972" type="2" num="1"/>
+				<i name="QQ秀套装" id="1" type="1101" num="1"/>
+				<i name="QQ秀套装" id="2" type="1101" num="1"/>
+				<i name="红钻通行证" id="1" type="1102" num="1"/>
+			 </rewards>			 <rewards id="372" open="1">
+				<i name="金币" id="0" type="0" num="50000"/> 
+				<i name="经验" id="0" type="1" num="2000"/> 
+				<i name="龙舟满载" id="3268" type="3" num="1"/> 
+				<i name="酒粽飘香" id="3269" type="3" num="1"/>
+				<i name="屈原面具" id="82" type="2" num="1"/>
+				<i name="龙舟外景" id="13" type="6" num="1"/>
+			 </rewards>		
+</activity> 
+
+						<activity id="arborday" act_id="1000" start_time="2012-2-11 16:00" expire_time="2012-3-22 23:59" src="http://appimg3.qq.com/restaurant/module/ArborDayActivityContext_v_0.swf">
+								<asset id="arborDayMainPanelView" src="http://appimg3.qq.com/restaurant/data/dialogs/arborDayMainPanelView_v_0.swf"/>
+								<asset id="arborDayLv2PanelView" src="http://appimg3.qq.com/restaurant/data/dialogs/arborDayLv2PanelView_v_0.swf"/>
+												<config>
+								<detailLink><![CDATA[http://user.qzone.qq.com/1006666001/blog/1330313650]]></detailLink>
+								<iconTips>保护环境，从我做起！</iconTips>
+				            	<exchangeSuccessMsg><![CDATA[恭喜您成功兑换餐厅环保礼包！环保装饰已放入你的仓库]]></exchangeSuccessMsg>
+				            	<exchangeFaultMsg>兑换餐厅环保礼包失败，请重试</exchangeFaultMsg>
+								<getPresentSuccessMsg>领取成功</getPresentSuccessMsg>
+				            	<getPresentFaultMsg>领取失败</getPresentFaultMsg>
+				            	<presentBagScore>400</presentBagScore>
+				            	<presentBagQpoint>100</presentBagQpoint>
+											</config>
+						</activity>
+						<activity id="thanksgivingDay" appid="372" act_id="3013" standalone = "1" enter_type = "icon" grayBeginUin="0" grayEndUin="10000" start_time="2012-11-12 16:00" expire_time="2012-12-07 23:59" src="http://appimg3.qq.com/restaurant/module/ThanksgivingContext_v_5.swf">												<config>
+								<detailLink><![CDATA[http://user.qzone.qq.com/1006666001/blog/1330313650]]></detailLink>
+								<iconTips>感恩节活动！</iconTips>
+
+								<getPresentSuccessMsg>领取成功</getPresentSuccessMsg>
+				            	<getPresentFaultMsg>领取失败</getPresentFaultMsg>
+				            	<presentBagScore>400</presentBagScore>
+				            	<presentBagQpoint>100</presentBagQpoint>
+											</config>
+						</activity>
+                        <activity id="kfc" appid="372" standalone = "1" start_time="2012-12-25 00:00" expire_time="2013-01-07 23:59" src="http://appimg3.qq.com/restaurant/KFCActivityContext_v_3.swf" />
+                        <activity id="cola" appid="372" standalone = "1" start_time="2014-04-01 00:00" expire_time="2014-04-16 23:59" src="http://appimg3.qq.com/restaurant/CrazyAllianceActContext_v_1.swf" />
+					</activity_list >
+
+	<advertisement type="json">
+		<![CDATA[
+		{"advertisement": [	
+		{"id":"zhongqiu"   , "enter_type":"icon" , "autoPopTime":"8/3/2012-9/1/2012 23:59:59"  , "bitpos":"29" , "mouse_tip":"中秋领灯抽奖" , "bubble_tip" : ""  ,   
+		"start_time" : "2012-9-20 00:00:00" ,  
+		"expire_time" : "2012-10-15 23:59:59"   ,
+		"npc_src" : ""  ,
+        "icon_src"  : "http://appimg3.qq.com/restaurant/zhongqiuIcon_v_1.swf" ,
+		"delay_show":2000,
+		"npcPos":[]  ,  
+		"grayScale":false,
+		"grayScaleParam":"QQAlarmClock111",
+		"whiteList":false,
+		"whiteListParam":"7",
+		"strongGuide":"中秋领灯抽奖",
+		"qzoneLink" : "http://imgcache.qq.com/qqshow_v3/htdocs/mall/inc/pop_midAutumn_nmc.html?domain=qq.com&type=3",
+		"pyLink" : "http://imgcache.pengyou.com/qqshow_v3/htdocs/mall/inc/pop_midAutumn_nmc.html?domain=pengyou.com&type=3"  , 
+		"wbLink" : "http://imgcache.qq.com/qqshow_v3/htdocs/mall/inc/pop_midAutumn_nmc.html?domain=qq.com&type=3"   ,
+		"windowW": 547  , "windowH":504  ,
+"clickIconReport":"ad.fenda.icon_click",
+		"callBack":{
+				"reloadBag":[  ["events.CommonEvent","CropsReload",null]  , ["events.CommonEvent","BagReload",null]  ]
+			  }
+			  },
+
+{"id":"newYear"   , "enter_type":"icon" , "autoPopTime":"8/3/2012-8/11/2012 23:59:59"  , "bitpos":"" , "mouse_tip":" 圣诞元旦大冒险
+" , "bubble_tip" : ""  ,   "start_time" : "2012-8-27 00:00:00" ,  
+		"expire_time" : "2013-1-14 23:59:59"   ,
+		"npc_src" : ""  ,
+                                "icon_src"  : "http://appimg3.qq.com/restaurant/module/newYearIcon_v_1.swf" ,
+		"delay_show":2000,
+		"npcPos":[]  ,  
+		"grayScale":false,
+		"grayScaleParam":"QQAlarmClock111",
+		"whiteList":false,
+		"whiteListParam":"7",
+		"qzoneLink" : "http://imgcache.qq.com/qqshow_v3/htdocs/live/chris/restaurant.html?domain=qq.com",
+		"pyLink" : "http://imgcache.pengyou.com/qqshow_v3/htdocs/live/chris/restaurant.html?domain=pengyou.com"  , 
+		"wbLink" : ""   ,
+		"windowW": 750, "windowH":550  ,
+"clickIconReport":"ad.newYear.icon_click_nc",
+		"callBack":{
+				"reloadBag":[  ["events.CommonEvent","CropsReload",null]  , ["events.CommonEvent","BagReload",null]  ]
+			  }
+			  }
+
+
+		]}
+		]]>
+	</advertisement>
+
+<decorate_level type="json"> 
+{"decorate_level":    
+[    
+[0],[413000],[640000],[1080000],    
+[1610000],[1800000],[2410000],    
+[3220000],[4230000],[5770000],    
+[7530000],[9610000],[12380000]    
+]}    
+</decorate_level> 
+        
+	<style_sheet type="xml">
+		<style name="scene.decor.tips">
+			<![CDATA[
+				.content
+				{
+					leading:5;
+					font-size:16;
+					text-align:left;
+					color:#624208;
+					font-family:宋体;
+					margin-left:10;
+				}
+
+				.title
+				{
+					margin-left:5;
+					font-family:黑体;
+					font-weight:normal;
+				}
+
+				.indent
+				{
+					leading:1;
+					margin-left:54;
+				}
+				.digits
+				{
+					color:#FF6600;
+					font-weight:bold;
+				}
+
+				.linegap
+				{
+					leading:-10;
+				}
+
+				.yellow
+				{
+					leading:1;
+					margin-left:5;
+				}
+			]]>
+		</style>
+	</style_sheet>
+</data>

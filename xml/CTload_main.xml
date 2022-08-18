@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+<list>
+	<material url="http://appimg3.qq.com/restaurant/Main_v_355.swf" statusText="主程序" size="0" index="1" status="1"/>
+	<material url="http://appimg3.qq.com/restaurant/data/font_basic_v_20.swf" statusText="" size="0" index="5" status="1"/>
+	<material url="http://appimg3.qq.com/restaurant/data/resource_v_157.swf" statusText="加载素材" size="0"  index="4" status="1"/>
+	<!-- 这个配置是给iPad餐厅项目使用的，如需改动务必知会demon！ -->
+	<material url="http://appimg3.qq.com/restaurant/data/data_zh_CN_m_v_171.xml" statusText="加载素材" size="1" index="2" status="0"/>
+	<material url="http://appimg3.qq.com/restaurant/data/addon_m_v_3.xml" statusText="加载素材" size="0" index="3" status="0"/>
+</list>
+<server_info>
+	<info id="CDN_ROOT" value="http://appimg.qq.com/restaurant/" />
+	<info id="SOCKET_SERVER" value="ct0.xiaoyou.qq.com" />
+	<info id="PORT" value="443" />
+	<info id="CROSSDOMAIN_PORT" value="443" />
+	<info id="BAK_SOCKET_SERVER" value="ct0.xiaoyou.qq.com" />
+	<info id="BAK_PORT" value="80" />
+	<info id="BAK_CROSSDOMAIN_PORT" value="80" />
+	<info id="DEFAULT_MODE" value="Socks" />
+</server_info>
+<versions>
+	<version id="addon" value="110" /> 
+	<version id="data_zh_CN" value="487" /> 
+</versions>
+<versions_mobile>
+	<version_mobile id="addon" value="89"/>
+	<version_mobile id="data_zh_CN" value="443"/>
+</versions_mobile>
+</data> 

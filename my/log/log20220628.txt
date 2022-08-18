@@ -1,0 +1,20 @@
+﻿2022/6/28 aishu 12:41:37程序异常=>独[792645994]:28日12:41:37(Task22-5)=>【URI】{!nc}cgi_ios_mine
+【POST】{wncs}&act=work&id=1&fuin=1181301645&index=3&safe=0
+【Request】{"code":-1,"direction":"操作频繁，请稍后再试","ecode":-1,"poptype":3,"ret":-1}
+
+给定关键字不在字典中。
+   在 System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   在 HappyFarmAssist.HH.SWebReact(UserInfo us, WebInfo sDs)
+   在 HappyFarmAssist.HH.WebSend(OprInfo oo)
+TValue get_Item(TKey)
+
+2022/6/28 aishu 12:41:36程序异常=>独[792645994]:28日12:41:36(Task22-5)=>【URI】{!nc}cgi_ios_mine
+【POST】{wncs}&act=work&id=1&fuin=1181064419&index=3&safe=0
+【Request】{"code":-1,"direction":"操作频繁，请稍后再试","ecode":-1,"poptype":3,"ret":-1}
+
+给定关键字不在字典中。
+   在 System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   在 HappyFarmAssist.HH.SWebReact(UserInfo us, WebInfo sDs)
+   在 HappyFarmAssist.HH.WebSend(OprInfo oo)
+TValue get_Item(TKey)
+

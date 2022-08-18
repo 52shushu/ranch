@@ -1,0 +1,132 @@
+﻿2022/5/29 aishu 23:25:56解析出错=>独孤悠然[2502978141]:29日23:25:56(Task22-0)=>【URI】{!nc}cgi_ios_mine
+【POST】{wncs}&act=index&fuin=792645994
+【Request】{"bag":[],"baoshi":0,"card":[],"chui_t":1653836158,"ecode":0,"jia_su":55,"kd":0,"kd_id":0,"kd_num":0,"kd_t":0,"login":1653753617,"love":0,"lv":8,"lv_limit":0,"max_bag":5,"max_miner":3,"miner":[],"miner_list":[{"id":3},{"id":5},{"id":41}],"miner_ref":1653617508,"pitlist":[{"b_t":1653837953,"id":1,"m_id":32,"max_load":118,"out_id":1,"p_lv":0,"pk":50,"pk_rate":60,"power":80,"rate":100,"safe":0,"uin":792645994,"userName":"独","v":75},{"b_t":0,"id":2,"m_id":0,"max_load":110,"out_id":0,"p_lv":0,"pk":121,"pk_rate":60,"power":0,"rate":170,"safe":0,"uin":0,"userName":"","v":0},{"b_t":0,"id":3,"m_id":0,"max_load":100,"out_id":0,"p_lv":0,"pk":90,"pk_rate":60,"power":0,"rate":200,"safe":0,"uin":0,"userName":"","v":0}],"rep":[],"ret":0,"rl_lv":0,"safe_card":31,"star_limit":1,"sum_harvest":1564}
+
+集合已修改；可能无法执行枚举操作。
+   在 System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   在 System.Collections.Generic.Dictionary`2.ValueCollection.Enumerator.MoveNext()
+   在 System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   在 HappyFarmAssist.Task.Nc22_Web.React(UserInfo u, WebInfo sDs)
+   在 HappyFarmAssist.HH.SWebReact(UserInfo us, WebInfo sDs)
+Void ThrowInvalidOperationException(System.ExceptionResource)
+
+2022/5/29 aishu 22:59:04解析出错=>独孤悠然6[646977607]:29日22:59:04(Task22-0)=>【URI】{!nc}cgi_ios_mine
+【POST】{wncs}&act=index&fuin=363237771
+【Request】{"bag":[],"baoshi":0,"card":[],"chui_t":1653799260,"ecode":0,"jia_su":262,"kd":0,"kd_id":0,"kd_num":156,"kd_t":1653840605,"login":1653755654,"love":0,"lv":47,"lv_limit":7,"max_bag":10,"max_miner":16,"miner":[],"miner_list":[{"id":6},{"id":21},{"id":23}],"miner_ref":1652369958,"pitlist":[{"b_t":0,"id":1,"m_id":0,"max_load":160,"out_id":0,"p_lv":1,"pk":80,"pk_rate":60,"power":0,"rate":260,"safe":0,"uin":0,"userName":"","v":0},{"b_t":0,"id":2,"m_id":0,"max_load":160,"out_id":0,"p_lv":0,"pk":132,"pk_rate":60,"power":0,"rate":226,"safe":0,"uin":0,"userName":"","v":0},{"b_t":0,"id":3,"m_id":0,"max_load":283,"out_id":0,"p_lv":0,"pk":160,"pk_rate":60,"power":0,"rate":300,"safe":0,"uin":0,"userName":"","v":0},{"b_t":0,"id":4,"m_id":0,"max_load":186,"out_id":0,"p_lv":0,"pk":171,"pk_rate":60,"power":0,"rate":190,"safe":0,"uin":0,"userName":"","v":0}],"rep":[],"ret":0,"rl_lv":1,"safe_card":344,"star_limit":1,"sum_harvest":77516}
+
+集合已修改；可能无法执行枚举操作。
+   在 System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   在 System.Collections.Generic.Dictionary`2.ValueCollection.Enumerator.MoveNext()
+   在 System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   在 HappyFarmAssist.Task.Nc22_Web.React(UserInfo u, WebInfo sDs)
+   在 HappyFarmAssist.HH.SWebReact(UserInfo us, WebInfo sDs)
+Void ThrowInvalidOperationException(System.ExceptionResource)
+
+2022/5/29 aishu 22:57:44解析出错=>独孤悠然7[786887896]:29日22:57:44(Task22-0)=>【URI】{!nc}cgi_ios_mine
+【POST】{wncs}&act=index&fuin=646977607
+【Request】{"bag":[],"baoshi":0,"card":[],"chui_t":1653836177,"ecode":0,"jia_su":43,"kd":0,"kd_id":0,"kd_num":0,"kd_t":0,"login":1653753617,"love":0,"lv":4,"lv_limit":6,"max_bag":5,"max_miner":3,"miner":[],"miner_list":[{"id":24},{"id":32},{"id":38}],"miner_ref":1653121717,"pitlist":[{"b_t":0,"id":1,"m_id":0,"max_load":110,"out_id":0,"p_lv":0,"pk":142,"pk_rate":60,"power":0,"rate":190,"safe":0,"uin":0,"userName":"","v":0},{"b_t":0,"id":2,"m_id":0,"max_load":92,"out_id":0,"p_lv":0,"pk":105,"pk_rate":60,"power":0,"rate":149,"safe":0,"uin":0,"userName":"","v":0},{"b_t":0,"id":3,"m_id":0,"max_load":92,"out_id":0,"p_lv":0,"pk":105,"pk_rate":60,"power":0,"rate":142,"safe":0,"uin":0,"userName":"","v":0}],"rep":[],"ret":0,"rl_lv":0,"safe_card":15,"star_limit":1,"sum_harvest":576}
+
+集合已修改；可能无法执行枚举操作。
+   在 System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   在 System.Collections.Generic.Dictionary`2.ValueCollection.Enumerator.MoveNext()
+   在 System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   在 HappyFarmAssist.Task.Nc22_Web.React(UserInfo u, WebInfo sDs)
+   在 HappyFarmAssist.HH.SWebReact(UserInfo us, WebInfo sDs)
+Void ThrowInvalidOperationException(System.ExceptionResource)
+
+2022/5/29 aishu 22:55:23解析出错=>独[792645994]:29日22:55:23(Task22-0)=>【URI】{!nc}cgi_ios_mine
+【POST】{wncs}&act=index&fuin=1504915388
+【Request】{"bag":[],"baoshi":0,"card":[],"chui_t":0,"ecode":0,"jia_su":0,"kd":0,"kd_id":0,"kd_num":0,"kd_t":0,"login":1559849058,"love":0,"lv":1,"lv_limit":0,"max_bag":5,"max_miner":3,"miner":[],"miner_list":[{"id":2},{"id":3},{"id":8}],"miner_ref":0,"pitlist":[{"b_t":0,"id":1,"m_id":0,"max_load":92,"out_id":0,"p_lv":0,"pk":105,"pk_rate":60,"power":0,"rate":136,"safe":0,"uin":0,"userName":"","v":0},{"b_t":0,"id":2,"m_id":0,"max_load":101,"out_id":0,"p_lv":0,"pk":32,"pk_rate":60,"power":0,"rate":200,"safe":0,"uin":0,"userName":"","v":0},{"b_t":0,"id":3,"m_id":0,"max_load":82,"out_id":0,"p_lv":0,"pk":85,"pk_rate":60,"power":0,"rate":164,"safe":0,"uin":0,"userName":"","v":0}],"rep":[],"ret":0,"rl_lv":0,"safe_card":1,"star_limit":1,"sum_harvest":18}
+
+集合已修改；可能无法执行枚举操作。
+   在 System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   在 System.Collections.Generic.Dictionary`2.ValueCollection.Enumerator.MoveNext()
+   在 System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   在 HappyFarmAssist.Task.Nc22_Web.React(UserInfo u, WebInfo sDs)
+   在 HappyFarmAssist.HH.SWebReact(UserInfo us, WebInfo sDs)
+Void ThrowInvalidOperationException(System.ExceptionResource)
+
+2022/5/29 aishu 14:56:00解析出错=>独[792645994]:29日14:56:00(Task22-0)=>【URI】{!nc}cgi_ios_mine
+【POST】{wncs}&act=index&fuin=156406969
+【Request】{"bag":[],"baoshi":0,"card":[],"chui_t":0,"ecode":0,"jia_su":240,"kd":0,"kd_id":0,"kd_num":28,"kd_t":1653582200,"login":1653758886,"love":0,"lv":39,"lv_limit":6,"max_bag":10,"max_miner":5,"miner":[],"miner_list":[{"id":9},{"id":11},{"id":21}],"miner_ref":1653561762,"pitlist":[{"b_t":0,"id":1,"m_id":0,"max_load":85,"out_id":0,"p_lv":1,"pk":119,"pk_rate":60,"power":0,"rate":200,"safe":0,"uin":0,"userName":"","v":0},{"b_t":0,"id":2,"m_id":0,"max_load":130,"out_id":0,"p_lv":0,"pk":150,"pk_rate":60,"power":0,"rate":197,"safe":0,"uin":0,"userName":"","v":0},{"b_t":0,"id":3,"m_id":0,"max_load":155,"out_id":0,"p_lv":0,"pk":164,"pk_rate":60,"power":0,"rate":200,"safe":0,"uin":0,"userName":"","v":0},{"b_t":0,"id":4,"m_id":0,"max_load":158,"out_id":0,"p_lv":0,"pk":240,"pk_rate":60,"power":0,"rate":180,"safe":0,"uin":0,"userName":"","v":0}],"rep":[],"ret":0,"rl_lv":0,"safe_card":356,"star_limit":1,"sum_harvest":13787}
+
+集合已修改；可能无法执行枚举操作。
+   在 System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   在 System.Collections.Generic.Dictionary`2.ValueCollection.Enumerator.MoveNext()
+   在 System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   在 HappyFarmAssist.Task.Nc22_Web.React(UserInfo u, WebInfo sDs)
+   在 HappyFarmAssist.HH.SWebReact(UserInfo us, WebInfo sDs)
+Void ThrowInvalidOperationException(System.ExceptionResource)
+
+2022/5/29 aishu 11:00:05解析出错=>独孤悠然[2502978141]:29日11:00:05(Task22-0)=>【URI】{!nc}cgi_ios_mine
+【POST】{wncs}&act=index&fuin=2409671950
+【Request】{"bag":[],"baoshi":0,"card":[],"chui_t":1628126135,"ecode":0,"jia_su":182,"kd":0,"kd_id":0,"kd_num":0,"kd_t":0,"login":1628126134,"love":0,"lv":42,"lv_limit":6,"max_bag":10,"max_miner":3,"miner":[],"miner_list":[{"id":8},{"id":13},{"id":27}],"miner_ref":1592915269,"pitlist":[{"b_t":0,"id":1,"m_id":0,"max_load":90,"out_id":0,"p_lv":0,"pk":160,"pk_rate":60,"power":0,"rate":220,"safe":0,"uin":0,"userName":"","v":0},{"b_t":1653784489,"id":2,"m_id":1,"max_load":101,"out_id":1,"p_lv":0,"pk":105,"pk_rate":60,"power":150,"rate":203,"safe":0,"uin":525109194,"userName":" 牛熊之战","v":44},{"b_t":1653792713,"id":3,"m_id":6,"max_load":171,"out_id":2,"p_lv":0,"pk":174,"pk_rate":60,"power":142,"rate":242,"safe":0,"uin":305102307,"userName":"花、思语","v":72}],"rep":[],"ret":0,"rl_lv":0,"safe_card":153,"star_limit":1,"sum_harvest":1755}
+
+集合已修改；可能无法执行枚举操作。
+   在 System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   在 System.Collections.Generic.Dictionary`2.ValueCollection.Enumerator.MoveNext()
+   在 System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   在 HappyFarmAssist.Task.Nc22_Web.React(UserInfo u, WebInfo sDs)
+   在 HappyFarmAssist.HH.SWebReact(UserInfo us, WebInfo sDs)
+Void ThrowInvalidOperationException(System.ExceptionResource)
+
+2022/5/29 aishu 8:03:03解析出错=>独[792645994]:29日08:03:03(Task22-0)=>【URI】{!nc}cgi_ios_mine
+【POST】{wncs}&act=index&fuin=1344556925
+【Request】{"bag":[],"baoshi":0,"card":[],"chui_t":0,"ecode":0,"jia_su":0,"kd":0,"kd_id":0,"kd_num":0,"kd_t":0,"login":1653391763,"love":0,"lv":1,"lv_limit":0,"max_bag":5,"max_miner":3,"miner":[],"miner_list":[{"id":11},{"id":15},{"id":16}],"miner_ref":0,"pitlist":[{"b_t":0,"id":1,"m_id":0,"max_load":92,"out_id":0,"p_lv":0,"pk":105,"pk_rate":60,"power":0,"rate":136,"safe":0,"uin":0,"userName":"","v":0},{"b_t":0,"id":2,"m_id":0,"max_load":101,"out_id":0,"p_lv":0,"pk":120,"pk_rate":60,"power":0,"rate":209,"safe":0,"uin":0,"userName":"","v":0},{"b_t":0,"id":3,"m_id":0,"max_load":106,"out_id":0,"p_lv":0,"pk":172,"pk_rate":60,"power":0,"rate":240,"safe":0,"uin":0,"userName":"","v":0}],"rep":[],"ret":0,"rl_lv":0,"safe_card":0,"star_limit":1,"sum_harvest":0}
+
+集合已修改；可能无法执行枚举操作。
+   在 System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   在 System.Collections.Generic.Dictionary`2.ValueCollection.Enumerator.MoveNext()
+   在 System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   在 HappyFarmAssist.Task.Nc22_Web.React(UserInfo u, WebInfo sDs)
+   在 HappyFarmAssist.HH.SWebReact(UserInfo us, WebInfo sDs)
+Void ThrowInvalidOperationException(System.ExceptionResource)
+
+2022/5/29 aishu 6:55:41解析出错=>独[792645994]:29日06:55:41(Task22-0)=>【URI】{!nc}cgi_ios_mine
+【POST】{wncs}&act=index&fuin=1981232551
+【Request】{"bag":[],"baoshi":0,"card":[],"chui_t":0,"ecode":0,"jia_su":48,"kd":0,"kd_id":0,"kd_num":0,"kd_t":0,"login":1646542749,"love":0,"lv":1,"lv_limit":0,"max_bag":5,"max_miner":3,"miner":[],"miner_list":[{"id":4},{"id":12},{"id":14}],"miner_ref":0,"pitlist":[{"b_t":0,"id":1,"m_id":0,"max_load":92,"out_id":0,"p_lv":0,"pk":105,"pk_rate":60,"power":0,"rate":141,"safe":0,"uin":0,"userName":"","v":0},{"b_t":0,"id":2,"m_id":0,"max_load":92,"out_id":0,"p_lv":0,"pk":105,"pk_rate":60,"power":0,"rate":190,"safe":0,"uin":0,"userName":"","v":0},{"b_t":0,"id":3,"m_id":0,"max_load":95,"out_id":0,"p_lv":0,"pk":20,"pk_rate":60,"power":0,"rate":188,"safe":0,"uin":0,"userName":"","v":0}],"rep":[],"ret":0,"rl_lv":0,"safe_card":23,"star_limit":1,"sum_harvest":34}
+
+集合已修改；可能无法执行枚举操作。
+   在 System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   在 System.Collections.Generic.Dictionary`2.ValueCollection.Enumerator.MoveNext()
+   在 System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   在 HappyFarmAssist.Task.Nc22_Web.React(UserInfo u, WebInfo sDs)
+   在 HappyFarmAssist.HH.SWebReact(UserInfo us, WebInfo sDs)
+Void ThrowInvalidOperationException(System.ExceptionResource)
+
+2022/5/29 aishu 0:04:33解析出错=>独孤悠然7[786887896]:29日00:04:33(Task22-0)=>【URI】{!nc}cgi_ios_mine
+【POST】{wncs}&act=index&fuin=2680360665
+【Request】{"bag":[],"baoshi":0,"card":[],"chui_t":1653750131,"ecode":0,"jia_su":423,"kd":0,"kd_id":0,"kd_num":0,"kd_t":0,"login":1653669829,"love":0,"lv":50,"lv_limit":0,"max_bag":5,"max_miner":13,"miner":[],"miner_list":[{"id":4},{"id":19},{"id":20}],"miner_ref":1525512784,"pitlist":[{"b_t":0,"id":1,"m_id":0,"max_load":95,"out_id":0,"p_lv":0,"pk":120,"pk_rate":60,"power":0,"rate":120,"safe":0,"uin":0,"userName":"","v":0},{"b_t":0,"id":2,"m_id":0,"max_load":160,"out_id":0,"p_lv":0,"pk":180,"pk_rate":60,"power":0,"rate":150,"safe":0,"uin":0,"userName":"","v":0},{"b_t":1653748838,"id":3,"m_id":29,"max_load":130,"out_id":5,"p_lv":0,"pk":260,"pk_rate":60,"power":125,"rate":210,"safe":0,"uin":415829512,"userName":"赵刚","v":52},{"b_t":0,"id":4,"m_id":0,"max_load":76,"out_id":0,"p_lv":0,"pk":85,"pk_rate":60,"power":0,"rate":164,"safe":0,"uin":0,"userName":"","v":0},{"b_t":0,"id":5,"m_id":0,"max_load":85,"out_id":0,"p_lv":0,"pk":60,"pk_rate":60,"power":0,"rate":100,"safe":0,"uin":0,"userName":"","v":0},{"b_t":0,"id":6,"m_id":0,"max_load":50,"out_id":0,"p_lv":0,"pk":50,"pk_rate":60,"power":0,"rate":70,"safe":0,"uin":0,"userName":"","v":0}],"rep":[],"ret":0,"rl_lv":3,"safe_card":212,"star_limit":1,"sum_harvest":14281}
+
+集合已修改；可能无法执行枚举操作。
+   在 System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   在 System.Collections.Generic.Dictionary`2.ValueCollection.Enumerator.MoveNext()
+   在 System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   在 HappyFarmAssist.Task.Nc22_Web.React(UserInfo u, WebInfo sDs)
+   在 HappyFarmAssist.HH.SWebReact(UserInfo us, WebInfo sDs)
+Void ThrowInvalidOperationException(System.ExceptionResource)
+
+2022/5/29 aishu 0:04:25解析出错=>独孤悠然7[786887896]:29日00:04:25(Task22-0)=>【URI】{!nc}cgi_ios_mine
+【POST】{wncs}&act=index&fuin=1829694230
+【Request】{"bag":[],"baoshi":0,"card":[],"chui_t":1653731131,"ecode":0,"jia_su":438,"kd":0,"kd_id":0,"kd_num":0,"kd_t":0,"login":1653669760,"love":0,"lv":50,"lv_limit":0,"max_bag":5,"max_miner":10,"miner":[],"miner_list":[{"id":12},{"id":24},{"id":29}],"miner_ref":1557841964,"pitlist":[{"b_t":0,"id":1,"m_id":0,"max_load":160,"out_id":0,"p_lv":0,"pk":130,"pk_rate":60,"power":0,"rate":220,"safe":0,"uin":0,"userName":"","v":0},{"b_t":1653753662,"id":2,"m_id":2,"max_load":90,"out_id":1,"p_lv":0,"pk":160,"pk_rate":60,"power":97,"rate":220,"safe":0,"uin":3394321766,"userName":"棋棋棋","v":30},{"b_t":1653753701,"id":3,"m_id":16,"max_load":170,"out_id":3,"p_lv":0,"pk":120,"pk_rate":60,"power":164,"rate":160,"safe":0,"uin":1840223135,"userName":"茗玉866","v":50},{"b_t":1653753744,"id":4,"m_id":25,"max_load":160,"out_id":2,"p_lv":0,"pk":100,"pk_rate":60,"power":136,"rate":200,"safe":0,"uin":482486814,"userName":"灰原哀523","v":51}],"rep":[],"ret":0,"rl_lv":0,"safe_card":451,"star_limit":1,"sum_harvest":17812}
+
+集合已修改；可能无法执行枚举操作。
+   在 System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   在 System.Collections.Generic.Dictionary`2.ValueCollection.Enumerator.MoveNext()
+   在 System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   在 HappyFarmAssist.Task.Nc22_Web.React(UserInfo u, WebInfo sDs)
+   在 HappyFarmAssist.HH.SWebReact(UserInfo us, WebInfo sDs)
+Void ThrowInvalidOperationException(System.ExceptionResource)
+
+2022/5/29 aishu 0:01:29解析出错=>独孤悠然6[646977607]:29日00:01:29(Task22-0)=>【URI】{!nc}cgi_ios_mine
+【POST】{wncs}&act=index&fuin=3138931788
+【Request】{"bag":[],"baoshi":0,"card":[],"chui_t":1653741462,"ecode":0,"jia_su":374,"kd":0,"kd_id":0,"kd_num":0,"kd_t":0,"login":1653668407,"love":0,"lv":50,"lv_limit":6,"max_bag":15,"max_miner":16,"miner":[],"miner_list":[{"id":2},{"id":9},{"id":28}],"miner_ref":1553682223,"pitlist":[{"b_t":1653753130,"id":1,"m_id":11,"max_load":162,"out_id":1,"p_lv":0,"pk":140,"pk_rate":60,"power":130,"rate":190,"safe":0,"uin":3138931788,"userName":"sky2148","v":65},{"b_t":0,"id":2,"m_id":0,"max_load":140,"out_id":0,"p_lv":0,"pk":168,"pk_rate":60,"power":0,"rate":190,"safe":0,"uin":0,"userName":"","v":0},{"b_t":0,"id":3,"m_id":0,"max_load":138,"out_id":0,"p_lv":0,"pk":173,"pk_rate":60,"power":0,"rate":164,"safe":0,"uin":0,"userName":"","v":0},{"b_t":0,"id":4,"m_id":0,"max_load":156,"out_id":0,"p_lv":0,"pk":102,"pk_rate":60,"power":0,"rate":200,"safe":0,"uin":0,"userName":"","v":0}],"rep":[],"ret":0,"rl_lv":5,"safe_card":601,"star_limit":1,"sum_harvest":13635}
+
+集合已修改；可能无法执行枚举操作。
+   在 System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   在 System.Collections.Generic.Dictionary`2.ValueCollection.Enumerator.MoveNext()
+   在 System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   在 HappyFarmAssist.Task.Nc22_Web.React(UserInfo u, WebInfo sDs)
+   在 HappyFarmAssist.HH.SWebReact(UserInfo us, WebInfo sDs)
+Void ThrowInvalidOperationException(System.ExceptionResource)
+
