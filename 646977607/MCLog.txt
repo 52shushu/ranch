@@ -1,3 +1,3454 @@
+09:55:28: {"ecode":-50020,"errorCode":-11004,"errorType":"-2000","errorContent":"您下手太慢啦，已被处理"} farmTime=1660874128,farmKey=null,pastureKey=2747c63e8ceeb3267a4fdafe9534647699daa036,uIdx=646527948,serial=-1,serialIndex=1,harvesttype=2,version=1
+09:55:28: HarvestA:344-365 
+09:55:28: Steal:独孤悠然7:360-386 
+09:55:28: HarvestA:422-413 
+09:55:28: 收获 副产品 [绿尾虹雉崽]×10只 [喜马拉雅麝崽]×15只 [汗血宝马崽]×12只 经验+25 金币+3191
+09:55:23: GetMyPasture:独孤悠然7:469-505 9:55:23
+09:55:22: {"ecode":-50020,"errorCode":-11004,"errorType":"-2000","errorContent":"您下手太慢啦，已被处理"} farmTime=1660874121,farmKey=null,pastureKey=b8b1efbbce3a3bf56733db66558946f2c17c4937,uIdx=646527948,type=-1,harvesttype=1,version=1
+09:55:22: HarvestP:406-402 
+09:55:22: HarvestP:437-398 
+09:55:21: 总计好友：3个
+09:55:21: 读取校友好友：0个（校友已关停，无法读取）
+09:55:21: 读取空间好友：3个
+09:55:16: GetMCFriend:735-336 
+09:55:12: GetMyPasture:453-422 9:55:12
+09:55:12: GetMyPasture:独孤悠然:438-391 9:55:12
+09:55:12: GetMCHelp:328-364 
+09:55:12: GetMyPasture:453-400 9:55:12
+09:55:10: 0GetURL[302]:https://ptlogin2.qzone.qq.com/check_sig?pttype=1&uin=646977607&service=login&nodirect=0&ptsigx=8e0c8ee0cd8b2c39b0a41aa5a36a8e2887db6058af8542914de852e859157ee20569e42fa0361b12989ce64672d87524aafabcaa1bd63de7cdea5825841803bc34205da6106655fe&s_url=https%3A%2F%2Fqzs.qq.com%2Fqzone%2Fv5%2Floginsucc.html%3Fpara%3Dizone&f_url=&ptlang=2052&ptredirect=100&aid=549000912&daid=5&j_later=0&low_login_hour=0&regmaster=0&pt_login_type=1&pt_aid=0&pt_aaid=0&pt_light=0&pt_3rd_aid=0--HTTP/1.1 302 Found
+09:55:10: 0URL Redirect to:https://qzs.qq.com/qzone/v5/loginsucc.html?para=izone
+09:50:54: 牧场小手
+09:46:41: 自动校验服务器时间
+09:35:54: 牧场小手
+09:20:54: 牧场小手
+09:14:08: 触发 [独] 5赶产-2022/8/19 9:14:08-2022/8/19 9:14:08-44792.3848157176
+09:13:48: 正在对时 [独] 的牧场2022/8/19 9:14:08
+09:05:54: 牧场小手
+08:50:54: 牧场小手
+08:35:54: 牧场小手
+08:20:54: 牧场小手
+08:20:16: FisLock疑似卡死
+08:20:10: 休息完毕，开启工作
+08:10:29: GetMyPasture:3266-327 
+08:10:29: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:10:28: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:10:27: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:10:26: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:10:26: GetMyPasture:3313-340 
+08:10:25: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:10:25: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:10:24: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:10:23: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:10:22: GetMyPasture:3281-360 
+08:10:22: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:10:21: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:10:20: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:10:19: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:10:19: GetMyPasture:3297-392 
+08:10:19: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:10:18: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:10:17: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:10:16: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:10:16: GetMyPasture:3312-392 
+08:10:15: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:10:14: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:10:14: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:10:13: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:10:12: GetMyPasture:3282-392 
+08:10:12: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:10:11: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:10:10: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:10:09: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:10:09: GetMyPasture:3297-392 
+08:10:08: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:10:08: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:10:07: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:10:06: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:10:06: GetMyPasture:3297-392 
+08:10:05: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:10:04: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:10:03: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:10:03: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:10:02: GetMyPasture:3313-392 
+08:10:02: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:10:01: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:10:00: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:09:59: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:09:59: GetMyPasture:3266-392 
+08:09:58: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:09:58: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:09:57: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:09:56: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:09:56: GetMyPasture:3266-392 
+08:09:55: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:09:54: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:09:53: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:09:53: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:09:52: GetMyPasture:3297-392 
+08:09:52: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:09:51: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:09:50: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:09:49: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:09:49: GetMyPasture:3281-392 
+08:09:48: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:09:48: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:09:47: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:09:46: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:09:46: GetMyPasture:3282-392 
+08:09:45: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:09:44: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:09:43: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:09:43: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:09:42: GetMyPasture:3281-392 
+08:09:42: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:09:41: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:09:40: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:09:39: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:09:39: GetMyPasture:3250-392 
+08:09:38: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:09:38: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:09:37: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:09:36: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:09:36: GetMyPasture:3328-392 
+08:09:35: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:09:34: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:09:33: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:09:33: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:09:32: GetMyPasture:3282-392 
+08:09:32: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:09:31: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:09:30: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:09:29: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:09:29: GetMyPasture:3281-392 
+08:09:28: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:09:27: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:09:27: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:09:26: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:09:25: GetMyPasture:3281-392 
+08:09:25: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:09:24: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:09:23: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:09:22: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:09:22: GetMyPasture:3282-392 
+08:09:21: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:09:21: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:09:20: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:09:19: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:09:19: GetMyPasture:3281-392 
+08:09:18: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:09:17: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:09:16: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:09:16: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:09:15: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:09:15: GetMyPasture:3313-392 
+08:09:15: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:09:14: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:09:13: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:09:12: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:09:12: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:09:12: GetMyPasture:3328-392 
+08:09:11: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:09:10: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:09:10: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:09:09: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:09:08: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:09:08: GetMyPasture:3328-392 
+08:09:08: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:09:07: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:09:06: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:09:05: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:09:05: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:09:05: GetMyPasture:3265-392 
+08:09:05: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:09:04: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:09:03: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:09:02: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:09:02: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:09:02: GetMyPasture:3297-392 
+08:09:01: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:09:00: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:09:00: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:08:59: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:08:58: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:08:58: GetMyPasture:3281-392 
+08:08:58: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:08:57: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:08:56: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:08:55: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:08:55: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:08:55: GetMyPasture:3297-392 
+08:08:55: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:08:54: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:08:53: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:08:52: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:08:52: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:08:52: GetMyPasture:3328-392 
+08:08:51: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:08:50: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:08:50: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:08:49: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:08:48: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:08:48: GetMyPasture:3266-392 
+08:08:48: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:08:47: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:08:46: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:08:45: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:08:45: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:08:45: GetMyPasture:3312-392 
+08:08:44: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:08:44: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:08:43: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:08:42: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:08:42: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:08:42: GetMyPasture:3282-392 
+08:08:41: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:08:40: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:08:40: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:08:39: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:08:38: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:08:38: GetMyPasture:3312-392 
+08:08:38: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:08:37: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:08:36: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:08:35: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:08:35: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:08:35: GetMyPasture:3313-392 
+08:08:34: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:08:34: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:08:33: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:08:32: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:08:32: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:08:32: GetMyPasture:3312-392 
+08:08:31: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:08:30: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:08:29: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:08:29: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:08:28: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:08:28: GetMyPasture:3282-392 
+08:08:28: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:08:27: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:08:26: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:08:25: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:08:25: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:08:25: GetMyPasture:3312-392 
+08:08:24: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:08:24: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:08:23: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:08:22: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:08:22: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:08:22: GetMyPasture:3266-392 
+08:08:21: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:08:20: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:08:19: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:08:19: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:08:18: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:08:18: GetMyPasture:3266-392 
+08:08:18: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:08:17: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:08:16: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:08:15: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:08:15: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:08:15: GetMyPasture:3250-392 
+08:08:14: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:08:14: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:08:13: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:08:12: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:08:12: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:08:12: GetMyPasture:3328-392 
+08:08:11: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:08:10: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:08:09: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:08:09: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:08:08: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:08:08: GetMyPasture:3281-392 
+08:08:08: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:08:07: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:08:06: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:08:05: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:08:05: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:08:05: GetMyPasture:3282-392 
+08:08:04: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:08:04: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:08:03: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:08:02: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:08:02: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:08:02: GetMyPasture:3266-392 
+08:08:01: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:08:00: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:08:00: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:07:59: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:07:58: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:07:58: GetMyPasture:3312-392 
+08:07:58: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:07:57: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:07:56: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:07:55: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:07:55: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:07:55: GetMyPasture:3297-392 
+08:07:54: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:07:54: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:07:53: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:07:52: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:07:52: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:07:51: GetMyPasture:3297-392 
+08:07:51: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:07:50: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:07:49: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:07:49: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:07:48: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:07:48: GetMyPasture:3312-392 
+08:07:48: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:07:47: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:07:46: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:07:45: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:07:45: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:07:45: GetMyPasture:3266-392 
+08:07:44: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:07:43: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:07:43: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:07:42: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:07:42: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:07:41: GetMyPasture:3281-392 
+08:07:41: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:07:40: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:07:39: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:07:38: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:07:38: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:07:38: GetMyPasture:3297-392 
+08:07:38: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:07:37: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:07:36: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:07:35: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:07:35: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:07:35: GetMyPasture:3266-392 
+08:07:34: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:07:33: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:07:33: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:07:32: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:07:31: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:07:31: GetMyPasture:3297-392 
+08:07:31: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:07:30: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:07:29: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:07:28: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:07:28: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:07:28: GetMyPasture:3297-392 
+08:07:27: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:07:27: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:07:26: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:07:25: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:07:25: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:07:25: GetMyPasture:3281-392 
+08:07:24: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:07:23: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:07:22: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:07:22: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:07:21: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:07:21: GetMyPasture:3329-392 
+08:07:21: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:07:20: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:07:19: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:07:18: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:07:18: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:07:18: GetMyPasture:3297-392 
+08:07:17: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:07:16: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:07:16: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:07:15: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:07:15: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:07:14: GetMyPasture:3328-392 
+08:07:14: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:07:13: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:07:12: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:07:11: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:07:11: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:07:11: GetMyPasture:3296-392 
+08:07:11: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:07:10: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:07:09: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:07:08: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:07:08: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:07:08: GetMyPasture:3266-392 
+08:07:07: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:07:06: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:07:06: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:07:05: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:07:04: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:07:04: GetMyPasture:3297-392 
+08:07:04: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:07:03: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:07:02: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:07:01: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:07:01: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:07:01: GetMyPasture:3281-392 
+08:07:00: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:07:00: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:06:59: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:06:58: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:06:58: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:06:58: GetMyPasture:3282-392 
+08:06:57: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:06:56: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:06:55: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:06:55: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:06:54: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:06:54: GetMyPasture:3328-392 
+08:06:54: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:06:53: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:06:52: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:06:51: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:06:51: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:06:51: GetMyPasture:3265-392 
+08:06:50: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:06:50: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:06:49: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:06:48: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:06:48: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:06:48: GetMyPasture:3297-392 
+08:06:47: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:06:46: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:06:45: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:06:45: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:06:44: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:06:44: GetMyPasture:3250-392 
+08:06:44: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:06:43: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:06:42: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:06:41: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:06:41: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:06:41: GetMyPasture:3313-392 
+08:06:40: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:06:40: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:06:39: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:06:38: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:06:38: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:06:38: GetMyPasture:3281-392 
+08:06:37: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:06:36: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:06:35: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:06:35: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:06:34: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:06:34: GetMyPasture:3297-392 
+08:06:34: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:06:33: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:06:32: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:06:31: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:06:31: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:06:31: GetMyPasture:3312-392 
+08:06:30: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:06:29: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:06:29: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:06:28: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:06:27: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:06:27: GetMyPasture:3328-392 
+08:06:27: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:06:26: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:06:25: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:06:24: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:06:24: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:06:24: GetMyPasture:3313-392 
+08:06:24: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:06:23: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:06:22: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:06:21: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:06:21: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:06:21: GetMyPasture:3266-392 
+08:06:20: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:06:19: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:06:19: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:06:18: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:06:17: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:06:17: GetMyPasture:3282-392 
+08:06:17: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:06:16: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:06:15: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:06:14: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:06:14: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:06:14: GetMyPasture:3266-392 
+08:06:14: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:06:13: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:06:12: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:06:11: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:06:11: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:06:11: GetMyPasture:3296-392 
+08:06:10: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:06:09: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:06:08: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:06:08: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:06:07: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:06:07: GetMyPasture:3281-392 
+08:06:07: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:06:06: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:06:05: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:06:04: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:06:04: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:06:04: GetMyPasture:3282-392 
+08:06:03: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:06:03: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:06:02: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:06:01: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:06:01: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:06:00: GetMyPasture:3312-392 
+08:06:00: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:05:59: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:05:58: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:05:57: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:05:57: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:05:57: GetMyPasture:3297-392 
+08:05:57: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:05:56: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:05:55: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:05:54: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:05:54: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:05:54: GetMyPasture:3281-392 
+08:05:53: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:05:52: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:05:52: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:05:51: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:05:51: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:05:50: GetMyPasture:3281-392 
+08:05:50: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:05:49: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:05:48: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:05:47: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:05:47: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:05:47: GetMyPasture:3296-392 
+08:05:47: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:05:46: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:05:45: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:05:44: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:05:44: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:05:44: GetMyPasture:3282-392 
+08:05:43: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:05:42: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:05:42: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:05:41: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:05:40: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:05:40: GetMyPasture:3328-392 
+08:05:40: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:05:39: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:05:38: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:05:37: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:05:37: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:05:37: GetMyPasture:3282-392 
+08:05:37: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:05:36: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:05:35: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:05:34: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:05:34: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:05:34: GetMyPasture:3281-392 
+08:05:33: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:05:32: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:05:32: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:05:31: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:05:30: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:05:30: GetMyPasture:3297-392 
+08:05:30: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:05:29: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:05:28: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:05:27: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:05:27: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:05:27: GetMyPasture:3266-392 
+08:05:26: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:05:26: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:05:25: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:05:24: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:05:24: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:05:24: GetMyPasture:3282-392 
+08:05:23: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:05:22: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:05:21: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:05:21: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:05:20: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:05:20: GetMyPasture:3281-392 
+08:05:20: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:05:19: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:05:18: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:05:17: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:05:17: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:05:17: GetMyPasture:3281-392 
+08:05:16: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:05:15: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:05:15: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:05:14: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:05:14: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:05:13: GetMyPasture:3297-392 
+08:05:13: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:05:12: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:05:11: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:05:10: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:05:10: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:05:10: GetMyPasture:3281-392 
+08:05:10: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:05:09: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:05:08: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:05:07: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:05:07: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:05:07: GetMyPasture:3281-392 
+08:05:06: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:05:05: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:05:05: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:05:04: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:05:03: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:05:03: GetMyPasture:3328-392 
+08:05:03: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:05:02: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:05:01: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:05:00: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:05:00: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:05:00: GetMyPasture:3328-392 
+08:05:00: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:04:59: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:04:58: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:04:57: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:04:57: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:04:57: GetMyPasture:3281-392 
+08:04:56: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:04:55: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:04:55: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:04:54: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:04:53: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:04:53: GetMyPasture:3281-392 
+08:04:53: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:04:52: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:04:51: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:04:50: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:04:50: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:04:50: GetMyPasture:3265-392 
+08:04:50: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:04:49: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:04:48: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:04:47: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:04:47: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:04:47: GetMyPasture:3282-392 
+08:04:46: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:04:46: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:04:45: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:04:44: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:04:44: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:04:43: GetMyPasture:3312-392 
+08:04:43: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:04:42: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:04:41: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:04:40: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:04:40: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:04:40: GetMyPasture:3313-392 
+08:04:40: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:04:39: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:04:38: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:04:37: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:04:37: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:04:37: GetMyPasture:3313-392 
+08:04:36: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:04:35: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:04:35: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:04:34: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:04:33: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:04:33: GetMyPasture:3312-392 
+08:04:33: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:04:32: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:04:31: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:04:30: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:04:30: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:04:30: GetMyPasture:3328-392 
+08:04:29: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:04:29: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:04:28: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:04:27: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:04:27: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:04:27: GetMyPasture:3266-392 
+08:04:26: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:04:25: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:04:24: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:04:24: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:04:23: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:04:23: GetMyPasture:3313-392 
+08:04:23: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:04:22: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:04:21: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:04:20: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:04:20: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:04:20: GetMyPasture:3281-392 
+08:04:19: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:04:19: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:04:18: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:04:17: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:04:17: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:04:17: GetMyPasture:3282-392 
+08:04:16: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:04:15: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:04:14: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:04:14: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:04:13: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:04:13: GetMyPasture:3281-392 
+08:04:13: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:04:12: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:04:11: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:04:10: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:04:10: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:04:10: GetMyPasture:3281-392 
+08:04:09: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:04:09: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:04:08: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:04:07: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:04:07: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:04:07: GetMyPasture:3297-392 
+08:04:06: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:04:05: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:04:04: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:04:04: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:04:03: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:04:03: GetMyPasture:3265-392 
+08:04:03: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:04:02: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:04:01: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:04:00: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:04:00: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:04:00: GetMyPasture:3297-392 
+08:03:59: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:03:59: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:03:58: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:03:57: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:03:57: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:03:56: GetMyPasture:3344-392 
+08:03:56: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:03:55: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:03:54: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:03:53: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:03:53: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:03:53: GetMyPasture:3312-392 
+08:03:53: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:03:52: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:03:51: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:03:50: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:03:50: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:03:50: GetMyPasture:3313-392 
+08:03:49: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:03:48: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:03:48: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:03:47: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:03:46: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:03:46: GetMyPasture:3312-392 
+08:03:46: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:03:45: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:03:44: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:03:43: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:03:43: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:03:43: GetMyPasture:3297-392 
+08:03:42: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:03:42: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:03:41: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:03:40: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:03:40: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:03:40: GetMyPasture:3313-392 
+08:03:39: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:03:38: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:03:37: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:03:37: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:03:36: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:03:36: GetMyPasture:3281-392 
+08:03:36: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:03:35: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:03:34: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:03:33: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:03:33: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:03:33: GetMyPasture:3297-392 
+08:03:32: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:03:31: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:03:31: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:03:30: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:03:29: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:03:29: GetMyPasture:3265-392 
+08:03:29: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:03:28: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:03:27: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:03:26: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:03:26: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:03:26: GetMyPasture:3281-392 
+08:03:26: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:03:25: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:03:24: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:03:23: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:03:23: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:03:23: GetMyPasture:3281-392 
+08:03:22: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:03:21: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:03:20: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:03:20: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:03:19: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:03:19: GetMyPasture:3281-392 
+08:03:19: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:03:18: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:03:17: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:03:16: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:03:16: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:03:16: GetMyPasture:3282-392 
+08:03:15: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:03:15: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:03:14: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:03:13: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:03:13: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:03:12: GetMyPasture:3281-392 
+08:03:12: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:03:11: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:03:10: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:03:09: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:03:09: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:03:09: GetMyPasture:3328-392 
+08:03:09: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:03:08: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:03:07: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:03:06: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:03:06: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:03:06: GetMyPasture:3297-392 
+08:03:05: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:03:04: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:03:04: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:03:03: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:03:02: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:03:02: GetMyPasture:3281-392 
+08:03:02: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:03:01: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:03:00: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:02:59: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:02:59: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:02:59: GetMyPasture:3296-392 
+08:02:59: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:02:58: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:02:57: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:02:56: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:02:56: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:02:56: GetMyPasture:3282-392 
+08:02:55: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:02:54: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:02:54: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:02:53: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:02:52: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:02:52: GetMyPasture:3266-392 
+08:02:52: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:02:51: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:02:50: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:02:49: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:02:49: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:02:49: GetMyPasture:3297-392 
+08:02:49: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:02:48: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:02:47: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:02:46: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:02:46: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:02:46: GetMyPasture:3281-392 
+08:02:45: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:02:44: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:02:44: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:02:43: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:02:42: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:02:42: GetMyPasture:3250-392 
+08:02:42: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:02:41: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:02:40: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:02:39: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:02:39: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:02:39: GetMyPasture:3266-392 
+08:02:39: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:02:38: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:02:37: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:02:36: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:02:36: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:02:36: GetMyPasture:3281-392 
+08:02:35: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:02:34: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:02:34: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:02:33: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:02:32: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:02:32: GetMyPasture:3250-392 
+08:02:32: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:02:31: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:02:30: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:02:29: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:02:29: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:02:29: GetMyPasture:3250-392 
+08:02:29: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:02:28: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:02:27: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:02:26: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:02:26: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:02:26: GetMyPasture:3296-392 
+08:02:25: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:02:24: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:02:24: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:02:23: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:02:22: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:02:22: GetMyPasture:3250-392 
+08:02:22: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:02:21: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:02:20: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:02:19: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:02:19: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:02:19: GetMyPasture:3312-392 
+08:02:19: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:02:18: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:02:17: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:02:16: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:02:16: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:02:16: GetMyPasture:3281-392 
+08:02:15: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:02:14: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:02:14: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:02:13: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:02:12: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:02:12: GetMyPasture:3297-392 
+08:02:12: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:02:11: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:02:10: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:02:09: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:02:09: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:02:09: GetMyPasture:3297-392 
+08:02:08: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:02:08: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:02:07: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:02:06: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:02:06: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:02:06: GetMyPasture:3313-392 
+08:02:05: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:02:04: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:02:03: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:02:03: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:02:02: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:02:02: GetMyPasture:3296-392 
+08:02:02: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:02:01: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:02:00: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:01:59: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:01:59: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:01:59: GetMyPasture:3282-392 
+08:01:58: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:01:58: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:01:57: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:01:56: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:01:56: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:01:56: GetMyPasture:3266-392 
+08:01:55: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:01:54: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:01:53: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:01:53: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:01:52: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:01:52: GetMyPasture:3297-392 
+08:01:52: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:01:51: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:01:50: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:01:49: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:01:49: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:01:49: GetMyPasture:3297-392 
+08:01:48: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:01:47: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:01:47: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:01:46: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:01:46: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:01:45: GetMyPasture:3313-392 
+08:01:45: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:01:44: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:01:43: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:01:42: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:01:42: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:01:42: GetMyPasture:3312-392 
+08:01:42: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:01:41: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:01:40: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:01:39: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:01:39: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:01:39: GetMyPasture:3266-392 
+08:01:38: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:01:37: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:01:37: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:01:36: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:01:35: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:01:35: GetMyPasture:3312-392 
+08:01:35: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:01:34: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:01:33: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:01:32: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:01:32: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:01:32: GetMyPasture:3266-392 
+08:01:32: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:01:31: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:01:30: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:01:29: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:01:29: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:01:29: GetMyPasture:3281-392 
+08:01:28: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:01:27: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:01:27: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:01:26: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:01:25: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:01:25: GetMyPasture:3265-392 
+08:01:25: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:01:24: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:01:23: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:01:22: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:01:22: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:01:22: GetMyPasture:3281-392 
+08:01:21: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:01:21: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:01:20: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:01:19: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:01:19: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:01:19: GetMyPasture:3282-392 
+08:01:18: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:01:17: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:01:16: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:01:16: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:01:15: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:01:15: GetMyPasture:3312-392 
+08:01:15: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:01:14: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:01:13: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:01:12: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:01:12: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:01:12: GetMyPasture:3313-392 
+08:01:11: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:01:11: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:01:10: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:01:09: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:01:09: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:01:08: GetMyPasture:3282-392 
+08:01:08: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:01:07: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:01:06: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:01:05: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:01:05: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:01:05: GetMyPasture:3250-392 
+08:01:05: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:01:04: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:01:03: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:01:02: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:01:02: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:01:02: GetMyPasture:3312-392 
+08:01:01: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:01:00: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:01:00: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:00:59: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:00:58: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:00:58: GetMyPasture:3328-392 
+08:00:58: 4超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:00:57: 3超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:00:56: 2超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:00:55: 1超时URL[200]:https://mc.qzone.qq.com/cgi-bin/cgi_enter?g_tk=330098645--
+08:00:55: 触发自家刷新:Animals-sid:12-2022/8/19 8:00:55
+08:00:01: 触发 [独孤悠然7] 14赶产-2022/8/19 8:00:01-2022/8/19 8:00:01-44792.3333458218
+07:59:41: 正在对时 [独孤悠然7] 的牧场2022/8/19 8:00:01
+07:58:15: GetMyPasture:453-410 7:58:16
+07:58:09: MCGetBag:343-368 
+07:58:09: 收获 副产品 [袋食蚁兽崽]×18只 经验+12 金币+1692
+07:58:03: HarvestP:359-393 
+07:57:58: GetMyPasture:469-428 7:57:59
+07:57:58: 触发自家刷新:Animals-sid:6-2022/8/19 7:57:58
+07:57:43: 在 【独孤悠然6】 的牧场 赶 [袋食蚁兽] 生产 经验+5
+07:57:37: Post:344-388 
+07:57:32: GetMyPasture:469-433 7:57:33
+07:57:32: 触发自家刷新:Animals-sid:6-2022/8/19 7:57:32
+07:53:37: GetMyPasture:438-398 7:53:38
+07:53:31: MCGetBag:328-358 
+07:53:31: 收获 副产品 [龙猫崽]×18只 经验+12 金币+1674
+07:53:25: HarvestP:375-388 
+07:53:20: 触发 [独孤悠然] 16赶产-2022/8/19 7:53:21-2022/8/19 7:53:21-44792.3287161806
+07:53:20: GetMyPasture:437-402 7:53:21
+07:53:20: 触发自家刷新:Animals-sid:5-2022/8/19 7:53:20
+07:53:04: 在 【独孤悠然6】 的牧场 赶 [龙猫] 生产 经验+5
+07:53:00: 正在对时 [独孤悠然] 的牧场2022/8/19 7:53:21
+07:52:59: Post:344-368 
+07:52:54: GetMyPasture:437-393 7:52:55
+07:52:54: 触发自家刷新:Animals-sid:5-2022/8/19 7:52:54
+07:51:27: GetMCXunBaoHome:1172-350 
+07:51:21: MCSpriteBag:329-350 
+07:51:15: MCGetSpritePKHome:375-372 
+07:51:10: MCGetSprite:343-369 
+07:51:05: MCSpriteRank:484-395 
+07:50:59: BirdBag:297-306 
+07:50:54: GetTreeHome:312-315 
+07:50:54: GetMCHelp:312-319 
+07:50:48: GetMyHigh:328-327 
+07:50:48: {"code":-5,"direction":"动物收获数量不足~","poptype":3,"ret":-5}
+07:50:43: MCHBookOpenBox:328-327 
+07:50:43: {"code":-5,"direction":"动物收获数量不足~","poptype":3,"ret":-5}
+07:50:37: MCHBookOpenBox:313-326 
+07:50:37: {"code":-5,"direction":"动物收获数量不足~","poptype":3,"ret":-5}
+07:50:32: MCHBookOpenBox:328-339 
+07:50:32: {"code":-5,"direction":"动物收获数量不足~","poptype":3,"ret":-5}
+07:50:27: MCHBookOpenBox:343-351 
+07:50:26: {"code":-5,"direction":"动物收获数量不足~","poptype":3,"ret":-5}
+07:50:21: MCHBookOpenBox:344-360 
+07:50:16: MCHBookHome:344-376 
+07:50:10: GetMyPasture:437-408 7:50:11
+07:50:10: 自动休息
+07:47:34: GetMyPasture:453-420 7:47:34
+07:47:27: MCGetBag:359-387 
+07:47:27: 收获 副产品 [冠企鹅崽]×11只 经验+7 金币+957
+07:47:22: HarvestP:391-415 
+07:47:16: GetMyPasture:453-440 7:47:17
+07:47:16: 触发自家刷新:Animals-sid:17-2022/8/19 7:47:16
+07:46:56: {"poptype":3,"addExp":0,"animal":"","ecode":-11003,"errorCode":-11003,"errorType":"1007","errorContent":"system","direction":"system"} farmTime=1660866416,farmKey=null,pastureKey=4836339c6a578eae522af2b0c7844c3bec7a1276,uIdx=646527948,serial=-1
+07:46:56: Post:359-428 
+07:46:50: GetMyPasture:454-497 7:46:51
+07:46:50: 触发自家刷新:Animals-sid:17-2022/8/19 7:46:50
+07:46:49: 总计好友：3个
+07:46:49: 读取校友好友：0个（校友已关停，无法读取）
+07:46:49: 读取空间好友：3个
+07:46:44: GetMCFriend:594-541 
+07:46:40: 自动校验服务器时间
+07:42:50: GetMyPasture:独孤悠然7:421-406 7:42:50
+07:42:48: 在 【独孤悠然7】 的牧场抓取 [山魈崽] ×1只 金币+91
+07:42:43: Steal:独孤悠然7:375-391 
+07:42:38: GetMyPasture:独孤悠然7:421-407 7:42:38
+07:42:37: 触发 [独孤悠然7] 9偷取
+07:42:22: 在 【独孤悠然7】 的牧场 赶 [山魈] 生产 经验+2
+07:42:17: Post:独孤悠然7:375-393 
+07:42:12: GetMyPasture:独孤悠然7:422-411 7:42:12
+07:42:11: 触发 [独孤悠然7] 9赶产-2022/8/19 7:42:12-2022/8/19 7:42:12-44792.3209733102
+07:41:51: 正在对时 [独孤悠然7] 的牧场2022/8/19 7:42:12
+07:37:01: GetMyPasture:453-409 7:37:02
+07:36:55: MCGetBag:344-366 
+07:36:55: 收获 副产品 [鲸头鹳崽]×16只 经验+11 金币+1360
+07:36:49: HarvestP:375-388 
+07:36:44: GetMyPasture:437-402 7:36:44
+07:36:44: 触发自家刷新:Animals-sid:15-2022/8/19 7:36:43
+07:36:28: 在 【独孤悠然6】 的牧场 赶 [鲸头鹳] 生产 经验+5
+07:36:23: Post:328-368 
+07:36:18: GetMyPasture:469-408 7:36:18
+07:36:18: 触发自家刷新:Animals-sid:15-2022/8/19 7:36:18
+07:35:49: GetMCHelp:328-348 
+07:35:48: 牧场小手
+07:31:11: GetMyPasture:453-427 7:31:12
+07:21:27: GetMCXunBaoHome:1109-429 
+07:21:21: MCSpriteBag:344-429 
+07:21:16: MCGetSpritePKHome:484-515 
+07:21:10: MCGetSprite:312-467 
+07:21:05: MCSpriteRank:515-538 
+07:20:59: BirdBag:343-455 
+07:20:54: GetTreeHome:344-396 
+07:20:54: GetMCHelp:328-448 
+07:20:48: GetMyHigh:375-469 
+07:20:48: {"code":-5,"direction":"动物收获数量不足~","poptype":3,"ret":-5}
+07:20:43: MCHBookOpenBox:344-366 
+07:20:43: GetMCHelp:297-388 
+07:20:42: {"code":-5,"direction":"动物收获数量不足~","poptype":3,"ret":-5}
+07:20:42: 牧场小手
+07:20:37: MCHBookOpenBox:344-449 
+07:20:37: {"code":-5,"direction":"动物收获数量不足~","poptype":3,"ret":-5}
+07:20:32: MCHBookOpenBox:328-473 
+07:20:32: {"code":-5,"direction":"动物收获数量不足~","poptype":3,"ret":-5}
+07:20:27: MCHBookOpenBox:344-431 
+07:20:26: {"code":-5,"direction":"动物收获数量不足~","poptype":3,"ret":-5}
+07:20:21: MCHBookOpenBox:328-469 
+07:20:16: MCHBookHome:313-446 
+07:20:10: GetMyPasture:468-539 7:20:11
+07:14:20: GetMyPasture:453-404 7:14:21
+07:05:37: GetMCHelp:312-335 
+07:05:37: 牧场小手
+07:03:19: GetMyPasture:453-423 7:03:20
+07:00:24: MCSpriteBag:344-414 
+07:00:18: MCGetSpritePKHome:578-484 
+07:00:13: MCGetSprite:1500-391 
+07:00:06: MCSpriteRank:1516-391 
+07:00:05: 与[菊花兔]玩耍 经验+30  (小:2100 中:148 大:3)
+07:00:00: MCSpritePlay:375-391 
+06:52:19: GetMyPasture:独孤悠然7:437-407 6:52:20
+06:52:18: 在 【独孤悠然7】 的牧场抓取 [绿尾虹雉崽] ×1只 金币+86
+06:52:13: Steal:独孤悠然7:360-378 
+06:52:07: GetMyPasture:独孤悠然7:437-397 6:52:08
+06:52:07: 触发 [独孤悠然7] 18偷取
+06:51:47: {"poptype":3,"addExp":0,"animal":"","ecode":-11003,"errorCode":-11003,"errorType":"1007","errorContent":"system","direction":"system"} farmTime=1660863107,farmKey=null,pastureKey=4332a7b578869da25d66299fcbbd7007de401712,uIdx=646527948,uId=786727825,nick=独孤悠然6,serial=-1
+06:51:47: Post:独孤悠然7:328-357 
+06:51:41: GetMyPasture:独孤悠然7:437-387 6:51:42
+06:51:41: 触发 [独孤悠然7] 18赶产-2022/8/19 6:51:41-2022/8/19 6:51:41-44792.2858921065
+06:51:33: GetMCXunBaoHome:1109-338 
+06:51:27: MCSpriteBag:328-338 
+06:51:21: MCGetSpritePKHome:375-375 
+06:51:21: 正在对时 [独孤悠然7] 的牧场2022/8/19 6:51:41
+06:51:15: MCGetSprite:344-375 
+06:51:10: MCSpriteRank:500-407 
+06:51:04: BirdBag:312-314 
+06:50:59: GetTreeHome:313-317 
+06:50:59: GetMCHelp:313-321 
+06:50:54: GetMyHigh:329-330 
+06:50:53: {"code":-5,"direction":"动物收获数量不足~","poptype":3,"ret":-5}
+06:50:48: MCHBookOpenBox:328-332 
+06:50:48: {"code":-5,"direction":"动物收获数量不足~","poptype":3,"ret":-5}
+06:50:43: MCHBookOpenBox:344-337 
+06:50:42: {"code":-5,"direction":"动物收获数量不足~","poptype":3,"ret":-5}
+06:50:37: MCHBookOpenBox:328-330 
+06:50:37: {"code":-5,"direction":"动物收获数量不足~","poptype":3,"ret":-5}
+06:50:32: MCHBookOpenBox:328-332 
+06:50:32: GetMCHelp:328-336 
+06:50:32: {"code":-5,"direction":"动物收获数量不足~","poptype":3,"ret":-5}
+06:50:32: 牧场小手
+06:50:27: MCHBookOpenBox:344-344 
+06:50:21: MCHBookHome:313-345 
+06:50:21: 在 【独孤悠然6】 的牧场 打蚊子×1 经验+3
+06:50:16: KillMosquito:360-378 
+06:50:10: GetMyPasture:437-396 6:50:11
+06:45:58: GetMyPasture:469-435 6:45:59
+06:45:57: 开始科研 [90后果冰]
+06:45:52: MCReSearch:359-402 
+06:45:46: GetMyPasture:500-446 6:45:47
+06:45:45: 收获所有窝内科研动物
+06:45:40: MCReSearch:360-392 
+06:45:34: GetMyPasture:469-424 6:45:35
+06:45:34: 触发自家刷新:Research
+06:43:39: GetMyPasture:437-471 6:43:39
+06:35:27: GetMCHelp:297-333 
+06:35:26: 牧场小手
+06:32:38: GetMyPasture:独孤悠然:437-413 6:32:38
+06:32:36: 在 【独孤悠然】 的牧场抓取 [粉色羊驼崽] ×1只 金币+87
+06:32:31: Steal:独孤悠然:375-390 
+06:32:26: GetMyPasture:独孤悠然:407-406 6:32:26
+06:32:25: 触发 [独孤悠然] 7偷取
+06:32:10: 在 【独孤悠然】 的牧场 赶 [粉色羊驼] 生产 经验+2
+06:32:05: Post:独孤悠然:375-405 
+06:32:00: GetMyPasture:独孤悠然:438-435 6:32:00
+06:31:59: 触发 [独孤悠然] 7赶产-2022/8/19 6:32:00-2022/8/19 6:32:00-44792.2722229398
+06:31:39: 正在对时 [独孤悠然] 的牧场2022/8/19 6:32:00
+06:31:11: GetMyPasture:422-432 6:31:12
+06:22:35: BirdBag:313-322 
+06:22:30: GetTreeHome:328-332 
+06:22:29: 派遣飞鸟 [S]金丝雀(9级) 去觅食 金币-98000
+06:22:24: BirdWork:343-336 
+06:22:19: BirdBag:328-330 
+06:22:14: GetTreeHome:328-332 
+06:21:27: GetMCXunBaoHome:1078-336 
+06:21:21: MCSpriteBag:313-336 
+06:21:15: MCGetSpritePKHome:359-359 
+06:21:10: MCGetSprite:328-360 
+06:21:05: MCSpriteRank:469-393 
+06:20:59: BirdBag:313-318 
+06:20:54: GetMCHelp:328-324 
+06:20:54: GetTreeHome:312-321 
+06:20:48: GetMyHigh:328-330 
+06:20:48: {"code":-5,"direction":"动物收获数量不足~","poptype":3,"ret":-5}
+06:20:43: MCHBookOpenBox:328-333 
+06:20:43: {"code":-5,"direction":"动物收获数量不足~","poptype":3,"ret":-5}
+06:20:37: MCHBookOpenBox:344-339 
+06:20:37: {"code":-5,"direction":"动物收获数量不足~","poptype":3,"ret":-5}
+06:20:32: MCHBookOpenBox:328-335 
+06:20:32: {"code":-5,"direction":"动物收获数量不足~","poptype":3,"ret":-5}
+06:20:27: MCHBookOpenBox:343-343 
+06:20:26: {"code":-5,"direction":"动物收获数量不足~","poptype":3,"ret":-5}
+06:20:21: GetMCHelp:328-343 
+06:20:21: MCHBookOpenBox:360-359 
+06:20:21: 牧场小手
+06:20:16: MCHBookHome:328-359 
+06:20:10: GetMyPasture:437-390 6:20:11
+06:13:17: GetMyPasture:453-416 6:13:18
+06:13:11: MCGetBag:359-380 
+06:13:10: 收获 副产品 [大象崽]×18只 经验+12 金币+1692
+06:13:05: HarvestP:375-402 
+06:13:00: GetMyPasture:484-430 6:13:00
+06:12:59: 触发自家刷新:Animals-sid:1-2022/8/19 6:12:59
+06:12:44: 在 【独孤悠然6】 的牧场 赶 [大象] 生产 经验+5
+06:12:39: Post:328-376 
+06:12:34: GetMyPasture:453-425 6:12:34
+06:12:33: 触发自家刷新:Animals-sid:1-2022/8/19 6:12:34
+06:10:15: GetMyPasture:独:437-421 6:10:15
+06:10:14: 触发 [独] 20赶产-2022/8/19 6:10:14-2022/8/19 6:10:14-44792.2571073843
+06:09:54: 正在对时 [独] 的牧场2022/8/19 6:10:14
+06:07:11: GetMyPasture:453-405 6:07:11
+06:07:05: MCGetBag:328-358 
+06:07:04: 收获 副产品 [海狗崽]×14只 经验+10 金币+1288
+06:06:59: HarvestP:375-389 
+06:06:54: GetMyPasture:437-404 6:06:54
+06:06:53: 触发自家刷新:Animals-sid:10-2022/8/19 6:06:53
+06:06:33: {"poptype":3,"addExp":0,"animal":"","ecode":-11003,"errorCode":-11003,"errorType":"1007","errorContent":"system","direction":"system"} farmTime=1660860393,farmKey=null,pastureKey=da145aeeb1bb5ca2551eb28dd790e2aab2de1147,uIdx=646527948,serial=-1
+06:06:33: Post:344-371 
+06:06:28: GetMyPasture:453-398 6:06:28
+06:06:27: 触发自家刷新:Animals-sid:10-2022/8/19 6:06:27
+06:05:17: GetMCHelp:328-343 
+06:05:16: 牧场小手
+06:00:06: GetMyPasture:独孤悠然:422-406 6:00:06
+06:00:05: 在 【独孤悠然】 的牧场抓取 [鲸头鹳崽] ×1只 金币+85
+06:00:00: Steal:独孤悠然:343-390 
+05:59:54: GetMyPasture:独孤悠然:453-438 5:59:54
+05:59:54: 触发 [独孤悠然] 14偷取
+05:59:48: GetMyPasture:独孤悠然:469-423 5:59:48
+05:59:47: 触发 [独孤悠然] 14赶产-2022/8/19 5:59:28-2022/8/19 5:59:47-44792.2496305324
+05:59:07: 正在对时 [独孤悠然] 的牧场2022/8/19 5:59:28
+05:53:48: GetMyPasture:独孤悠然:422-396 5:53:49
+05:53:47: {"errorCode":"-11006","errorContent":"手下留情,给主人留一点吧","errorType":"logic"}
+05:53:41: Steal:独孤悠然:344-371 
+05:53:36: GetMyPasture:独孤悠然:438-398 5:53:37
+05:53:36: 触发 [独孤悠然] 12偷取
+05:53:16: {"poptype":3,"addExp":0,"animal":"","ecode":-11003,"errorCode":-11003,"errorType":"1007","errorContent":"system","direction":"system"} farmTime=1660859596,farmKey=null,pastureKey=8a3a3b982a5aa6cb5d0a733901efadf0ce03a101,uIdx=646527948,uId=2502702211,nick=独孤悠然6,serial=-1
+05:53:16: Post:独孤悠然:328-359 
+05:53:10: GetMyPasture:独孤悠然:438-390 5:53:11
+05:53:10: 触发 [独孤悠然] 12赶产-2022/8/19 5:53:10-2022/8/19 5:53:10-44792.2452555324
+05:52:50: 正在对时 [独孤悠然] 的牧场2022/8/19 5:53:10
+05:51:27: GetMCXunBaoHome:1203-342 
+05:51:21: MCSpriteBag:328-342 
+05:51:16: MCGetSpritePKHome:343-356 
+05:51:10: MCGetSprite:328-369 
+05:51:05: MCSpriteRank:500-410 
+05:50:59: BirdBag:312-320 
+05:50:54: GetMCHelp:328-328 
+05:50:54: GetTreeHome:328-328 
+05:50:48: GetMyHigh:328-328 
+05:50:48: {"code":-5,"direction":"动物收获数量不足~","poptype":3,"ret":-5}
+05:50:43: MCHBookOpenBox:329-329 
+05:50:43: {"code":-5,"direction":"动物收获数量不足~","poptype":3,"ret":-5}
+05:50:38: MCHBookOpenBox:328-330 
+05:50:37: {"code":-5,"direction":"动物收获数量不足~","poptype":3,"ret":-5}
+05:50:32: MCHBookOpenBox:312-332 
+05:50:32: {"code":-5,"direction":"动物收获数量不足~","poptype":3,"ret":-5}
+05:50:27: MCHBookOpenBox:343-353 
+05:50:26: {"code":-5,"direction":"动物收获数量不足~","poptype":3,"ret":-5}
+05:50:21: MCHBookOpenBox:344-363 
+05:50:16: MCHBookHome:344-382 
+05:50:11: GetMyPasture:独孤悠然7:437-421 5:50:11
+05:50:11: GetMyPasture:468-405 5:50:11
+05:50:10: GetMCHelp:328-342 
+05:50:10: 休息完毕，开启工作
+05:46:49: 总计好友：3个
+05:46:49: 读取校友好友：0个（校友已关停，无法读取）
+05:46:49: 读取空间好友：3个
+05:46:44: GetMCFriend:546-483 
+05:46:40: 自动校验服务器时间
+05:42:38: 触发 [独孤悠然7] 6赶产-2022/8/19 5:42:39-2022/8/19 5:42:39-44792.2379521065
+05:42:18: 正在对时 [独孤悠然7] 的牧场2022/8/19 5:42:39
+05:40:30: GetMyPasture:453-400 5:40:31
+05:40:24: MCGetBag:328-347 
+05:40:23: 收获 副产品 [雪貂崽]×14只 经验+9 金币+1162
+05:40:18: HarvestP:359-392 
+05:40:13: GetMyPasture:469-426 5:40:13
+05:40:13: 触发自家刷新:Animals-sid:7-2022/8/19 5:40:12
+05:39:57: 在 【独孤悠然6】 的牧场 赶 [雪貂] 生产 经验+5
+05:39:52: Post:328-383 
+05:39:47: GetMyPasture:437-438 5:39:47
+05:39:47: 触发自家刷新:Animals-sid:7-2022/8/19 5:39:47
+05:31:11: GetMyPasture:437-405 5:31:12
+05:21:32: GetMCXunBaoHome:1047-371 
+05:21:26: MCSpriteBag:360-371 
+05:21:21: MCGetSpritePKHome:390-383 
+05:21:15: MCGetSprite:344-376 
+05:21:10: MCSpriteRank:485-408 
+05:21:04: BirdBag:328-332 
+05:20:59: GetTreeHome:344-336 
+05:20:59: GetMCHelp:328-328 
+05:20:54: GetMyHigh:328-329 
+05:20:53: {"code":-5,"direction":"动物收获数量不足~","poptype":3,"ret":-5}
+05:20:48: MCHBookOpenBox:328-331 
+05:20:48: {"code":-5,"direction":"动物收获数量不足~","poptype":3,"ret":-5}
+05:20:43: MCHBookOpenBox:329-335 
+05:20:42: {"code":-5,"direction":"动物收获数量不足~","poptype":3,"ret":-5}
+05:20:37: MCHBookOpenBox:343-341 
+05:20:37: {"code":-5,"direction":"动物收获数量不足~","poptype":3,"ret":-5}
+05:20:32: MCHBookOpenBox:343-340 
+05:20:32: {"code":-5,"direction":"动物收获数量不足~","poptype":3,"ret":-5}
+05:20:27: MCHBookOpenBox:344-337 
+05:20:21: MCHBookHome:297-331 
+05:20:21: 在 【独孤悠然6】 的牧场 收集便便×1 金币+30
+05:20:16: ClearDejecta:344-366 
+05:20:10: GetMyPasture:437-388 5:20:11
+05:20:10: 自动休息
+05:10:54: GetMyPasture:453-427 5:10:55
+05:05:49: GetMCHelp:312-321 
+05:05:49: 牧场小手
+04:59:54: GetMyPasture:独孤悠然:422-396 4:59:54
+04:59:52: 在 【独孤悠然】 的牧场抓取 [骑行猫崽] ×1只 金币+142
+04:59:47: Steal:独孤悠然:344-371 
+04:59:42: GetMyPasture:独孤悠然:422-398 4:59:42
+04:59:41: 触发 [独孤悠然] 15偷取
+04:59:21: {"poptype":3,"addExp":0,"animal":"","ecode":-11003,"errorCode":-11003,"errorType":"1007","errorContent":"system","direction":"system"} farmTime=1660856361,farmKey=null,pastureKey=d0e747f7c017c944b530fdac23219d75b8b898f9,uIdx=646527948,uId=2502702211,nick=独孤悠然6,serial=-1
+04:59:21: Post:独孤悠然:344-374 
+04:59:16: GetMyPasture:独孤悠然:406-404 4:59:16
+04:59:15: 触发 [独孤悠然] 15赶产-2022/8/19 4:59:16-2022/8/19 4:59:16-44792.2078249769
+04:58:55: 正在对时 [独孤悠然] 的牧场2022/8/19 4:59:16
+04:57:54: GetMyPasture:438-402 4:57:55
+04:57:48: MCGetBag:329-367 
+04:57:47: 收获 副产品 [山魈崽]×14只 经验+11 金币+1274
+04:57:42: HarvestP:390-405 
+04:57:37: GetMyPasture:469-421 4:57:37
+04:57:30: MCGetBag:344-373 
+04:57:25: {"ecode":-20000,"code":0,"poptype":3,"errorType":"system","errorContent":"系统繁忙，请稍候重试。","direction":"1. NOT FOUND KEY Busy IN TYPE 0, KEY-VALUES SIZE 0"} farmTime=1660856245,farmKey=null,pastureKey=13a8001c1d6e03c9f8e8b9700401e425ce0085b3,uIdx=646527948,type=-1,harvesttype=1,version=1
+04:57:25: HarvestP:359-402 
+04:57:19: GetMyPasture:469-446 4:57:20
+04:57:19: 触发自家刷新:Animals-sid:16-2022/8/19 4:57:19
+04:56:59: GetMyPasture:438-423 4:56:59
+04:56:58: 触发自家刷新:Animals-sid:16-2022/8/19 4:56:53
+04:56:53: GetMyPasture:485-408 
+04:56:53: 触发自家刷新:Animals-sid:16-2022/8/19 4:56:53
+04:55:20: GetMyPasture:437-401 4:55:21
+04:55:14: MCGetBag:343-366 
+04:55:13: 收获 副产品 [考拉崽]×14只 经验+11 金币+1176
+04:55:08: HarvestP:375-389 
+04:55:03: GetMyPasture:453-404 4:55:04
+04:55:02: 触发自家刷新:Animals-sid:11-2022/8/19 4:55:03
+04:54:42: {"poptype":3,"addExp":0,"animal":"","ecode":-11003,"errorCode":-11003,"errorType":"1007","errorContent":"system","direction":"system"} farmTime=1660856083,farmKey=null,pastureKey=348feafadfaa17b6f7af5d8e597ac40dced01473,uIdx=646527948,serial=-1
+04:54:42: Post:312-356 
+04:54:37: GetMyPasture:454-400 4:54:38
+04:54:37: 触发自家刷新:Animals-sid:11-2022/8/19 4:54:37
+04:51:56: GetMyPasture:438-385 4:51:56
+04:51:55: FisLock疑似卡死结束
+04:51:49: GetMCXunBaoHome:969-442 
+04:51:43: MCSpriteBag:359-381 
+04:51:38: MCGetSpritePKHome:360-349 
+04:51:32: MCGetSprite:375-374 
+04:51:26: MCSpriteRank:453-389 
+04:51:21: BirdBag:313-326 
+04:51:15: GetTreeHome:344-340 
+04:51:15: GetMCHelp:344-336 
+04:51:10: GetMyHigh:312-329 
+04:51:10: {"code":-5,"direction":"动物收获数量不足~","poptype":3,"ret":-5}
+04:51:05: MCHBookOpenBox:360-346 
+04:51:04: {"code":-5,"direction":"动物收获数量不足~","poptype":3,"ret":-5}
+04:50:59: MCHBookOpenBox:328-333 
+04:50:59: {"code":-5,"direction":"动物收获数量不足~","poptype":3,"ret":-5}
+04:50:54: MCHBookOpenBox:344-339 
+04:50:53: {"code":-5,"direction":"动物收获数量不足~","poptype":3,"ret":-5}
+04:50:48: MCHBookOpenBox:344-335 
+04:50:48: {"code":-5,"direction":"动物收获数量不足~","poptype":3,"ret":-5}
+04:50:43: GetMCHelp:313-327 
+04:50:43: 牧场小手
+04:50:39: MCHBookOpenBox:329-341 
+04:50:34: MCHBookHome:328-353 
+04:50:28: MCGetBag:328-378 
+04:50:28: 收获 副产品 [白鹤崽]×8白鹤崽 经验+6 金币+688
+04:50:23: GetMyPasture:469-428 4:50:24
+04:50:22: HarvestP:375-387 
+04:50:16: GetMyPasture:437-399 4:50:17
+04:50:16: FisLock疑似卡死
+04:50:16: MCGetBag:344-362 
+04:50:10: {"ecode":-20000,"code":0,"poptype":3,"errorType":"system","errorContent":"系统繁忙，请稍候重试。","direction":"1. NOT FOUND KEY Busy IN TYPE 0, KEY-VALUES SIZE 0"} farmTime=1660855811,farmKey=null,pastureKey=b250f68d1da1372bfe67e2d53f3afe9379a49949,uIdx=646527948,type=-1,harvesttype=1,version=1
+04:50:10: HarvestP:359-381 
+04:50:05: GetMyPasture:454-403 4:50:06
+04:50:04: 触发自家刷新:Animals-sid:9-2022/8/19 4:50:05
+04:49:44: {"poptype":3,"addExp":0,"animal":"","ecode":-11003,"errorCode":-11003,"errorType":"1007","errorContent":"system","direction":"system"} farmTime=1660855785,farmKey=null,pastureKey=fa578c63565a4b599387070f17cd5eb570017e32,uIdx=646527948,serial=-1
+04:49:44: Post:313-352 
+04:49:39: GetMyPasture:421-392 4:49:40
+04:49:38: 触发自家刷新:Animals-sid:9-2022/8/19 4:49:39
+04:40:48: GetMyPasture:438-402 4:40:48
+04:40:42: MCGetBag:344-367 
+04:40:41: 收获 副产品 [金丝猴崽]×7只 经验+5 金币+623
+04:40:36: HarvestP:375-391 
+04:40:31: GetMyPasture:438-408 4:40:31
+04:40:30: 触发自家刷新:Animals-sid:18-2022/8/19 4:40:30
+04:40:10: {"poptype":3,"addExp":0,"animal":"","ecode":-11003,"errorCode":-11003,"errorType":"1007","errorContent":"system","direction":"system"} farmTime=1660855210,farmKey=null,pastureKey=8211b9828bff9399a4fe395b8e62cab859bae912,uIdx=646527948,serial=-1
+04:40:10: Post:329-379 
+04:40:05: GetMyPasture:453-429 4:40:05
+04:40:04: 触发自家刷新:Animals-sid:18-2022/8/19 4:40:04
+04:37:55: GetMyPasture:独孤悠然:421-405 4:37:55
+04:37:54: 在 【独孤悠然】 的牧场抓取 [袋食蚁兽崽] ×1只 金币+94
+04:37:49: Steal:独孤悠然:375-390 
+04:37:43: GetMyPasture:独孤悠然:422-405 4:37:43
+04:37:43: 触发 [独孤悠然] 1偷取
+04:37:28: 在 【独孤悠然】 的牧场 赶 [袋食蚁兽] 生产 经验+2
+04:37:23: Post:独孤悠然:391-388 
+04:37:17: GetMyPasture:独孤悠然:422-385 4:37:17
+04:37:17: 触发 [独孤悠然] 1赶产-2022/8/19 4:37:17-2022/8/19 4:37:17-44792.1925578704
+04:36:57: 正在对时 [独孤悠然] 的牧场2022/8/19 4:37:17
+04:35:38: GetMCHelp:329-349 
+04:35:38: 牧场小手
+04:31:11: GetMyPasture:438-444 4:31:12
+04:22:34: BirdBag:297-312 
+04:22:29: GetTreeHome:328-327 
+04:22:28: 卖出金苹果×110  金钻+440
+04:22:23: BirdSale:328-327 
+04:22:18: BirdBag:313-327 
+04:22:17: 在栖息大树收获 [S]金丝雀(9级) 金苹果+110 精力值+30
+04:22:12: BirdHarvest:344-342 
+04:22:07: GetTreeHome:328-341 
+04:21:28: GetMCXunBaoHome:1000-332 
+04:21:22: MCSpriteBag:328-332 
+04:21:22: BirdBag:328-337 
+04:21:16: MCGetSpritePKHome:360-346 
+04:21:16: GetTreeHome:312-332 
+04:21:11: MCGetSprite:344-352 
+04:21:11: BirdBag:312-360 
+04:21:10: 在栖息大树收获好友协助 金币×49999 精力点+5
+04:21:05: MCSpriteRank:485-409 
+04:21:05: HelpBirdHarvest:344-334 
+04:21:00: GetTreeHome:328-325 
+04:20:59: BirdBag:296-322 
+04:20:54: GetTreeHome:360-348 
+04:20:54: GetMCHelp:344-336 
+04:20:48: GetMyHigh:328-328 
+04:20:48: {"code":-5,"direction":"动物收获数量不足~","poptype":3,"ret":-5}
+04:20:43: MCHBookOpenBox:328-329 
+04:20:43: {"code":-5,"direction":"动物收获数量不足~","poptype":3,"ret":-5}
+04:20:37: MCHBookOpenBox:313-331 
+04:20:37: {"code":-5,"direction":"动物收获数量不足~","poptype":3,"ret":-5}
+04:20:32: MCHBookOpenBox:359-350 
+04:20:32: GetMCHelp:328-342 
+04:20:32: 牧场小手
+04:20:32: {"code":-5,"direction":"动物收获数量不足~","poptype":3,"ret":-5}
+04:20:27: MCHBookOpenBox:359-356 
+04:20:26: {"code":-5,"direction":"动物收获数量不足~","poptype":3,"ret":-5}
+04:20:21: MCHBookOpenBox:344-353 
+04:20:16: MCHBookHome:312-362 
+04:20:10: GetMyPasture:453-412 4:20:11
+04:18:58: GetMyPasture:独孤悠然7:438-400 4:18:58
+04:18:57: 触发 [独孤悠然7] 12赶产-2022/8/19 4:17:21-2022/8/19 4:18:58-44792.1787161806
+04:17:00: 正在对时 [独孤悠然7] 的牧场2022/8/19 4:17:21
+04:12:59: GetMyPasture:独孤悠然7:437-402 4:13:00
+04:12:57: {"errorCode":"-11006","errorContent":"手下留情,给主人留一点吧","errorType":"logic"}
+04:12:52: Steal:独孤悠然7:328-367 
+04:12:47: GetMyPasture:独孤悠然7:437-406 4:12:48
+04:12:47: 触发 [独孤悠然7] 17偷取
+04:12:26: {"poptype":3,"addExp":0,"animal":"","ecode":-11003,"errorCode":-11003,"errorType":"1007","errorContent":"system","direction":"system"} farmTime=1660853547,farmKey=null,pastureKey=a7e591fb0ac73f675241e0768490f9269f8a6789,uIdx=646527948,uId=786727825,nick=独孤悠然6,serial=-1
+04:12:26: Post:独孤悠然7:328-376 
+04:12:21: GetMyPasture:独孤悠然7:422-424 4:12:22
+04:12:21: 触发 [独孤悠然7] 17赶产-2022/8/19 4:12:21-2022/8/19 4:12:21-44792.1752439583
+04:12:11: GetMyPasture:422-427 4:12:12
+04:12:00: 正在对时 [独孤悠然7] 的牧场2022/8/19 4:12:21
+04:05:27: GetMCHelp:312-328 
+04:05:27: 牧场小手
+04:01:11: GetMyPasture:454-427 4:01:12
+03:51:38: GetMCXunBaoHome:937-357 
+03:51:32: MCSpriteBag:328-357 
+03:51:26: MCGetSpritePKHome:375-386 
+03:51:21: MCGetSprite:344-397 
+03:51:15: MCSpriteRank:532-451 
+03:51:10: BirdBag:328-370 
+03:51:04: GetMCHelp:343-356 
+03:51:04: GetTreeHome:312-370 
+03:50:59: GetMyHigh:328-388 
+03:50:59: {"code":-5,"direction":"动物收获数量不足~","poptype":3,"ret":-5}
+03:50:54: MCHBookOpenBox:328-391 
+03:50:53: {"code":-5,"direction":"动物收获数量不足~","poptype":3,"ret":-5}
+03:50:48: MCHBookOpenBox:328-429 
+03:50:48: {"code":-5,"direction":"动物收获数量不足~","poptype":3,"ret":-5}
+03:50:43: MCHBookOpenBox:328-376 
+03:50:42: {"code":-5,"direction":"动物收获数量不足~","poptype":3,"ret":-5}
+03:50:37: MCHBookOpenBox:344-392 
+03:50:37: {"code":-5,"direction":"动物收获数量不足~","poptype":3,"ret":-5}
+03:50:32: MCHBookOpenBox:360-405 
+03:50:27: MCHBookHome:312-385 
+03:50:26: 在 【独孤悠然6】 的牧场 打蚊子×3 经验+9
+03:50:21: GetMCHelp:328-359 
+03:50:21: KillMosquito:344-391 
+03:50:21: 牧场小手
+03:50:21: 在 【独孤悠然6】 的牧场 打蚊子×3 经验+9
+03:50:16: KillMosquito:344-410 
+03:50:10: GetMyPasture:453-483 3:50:11
+03:46:50: 总计好友：3个
+03:46:50: 读取校友好友：0个（校友已关停，无法读取）
+03:46:50: 读取空间好友：3个
+03:46:44: GetMCFriend:500-513 
+03:46:41: 自动校验服务器时间
+03:40:13: GetMyPasture:独孤悠然:422-402 3:40:13
+03:40:11: {"errorCode":"-11006","errorContent":"手下留情,给主人留一点吧","errorType":"logic"}
+03:40:06: Steal:独孤悠然:344-383 
+03:40:01: GetMyPasture:独孤悠然:437-423 3:40:01
+03:40:00: 触发 [独孤悠然] 17偷取
+03:39:40: {"poptype":3,"addExp":0,"animal":"","ecode":-11003,"errorCode":-11003,"errorType":"1007","errorContent":"system","direction":"system"} farmTime=1660851580,farmKey=null,pastureKey=16762cc83931503634741aca92b6b4a3e8398af6,uIdx=646527948,uId=2502702211,nick=独孤悠然6,serial=-1
+03:39:40: Post:独孤悠然:344-410 
+03:39:35: GetMyPasture:独孤悠然:437-476 3:39:35
+03:39:34: 触发 [独孤悠然] 17赶产-2022/8/19 3:39:34-2022/8/19 3:39:34-44792.1524779282
+03:39:14: 正在对时 [独孤悠然] 的牧场2022/8/19 3:39:34
+03:35:16: GetMCHelp:312-429 
+03:35:16: 牧场小手
+03:31:23: GetMyPasture:独孤悠然7:453-403 3:31:23
+03:31:21: 在 【独孤悠然7】 的牧场抓取 [火烈鸟崽] ×1只 金币+81
+03:31:16: Steal:独孤悠然7:391-407 
+03:31:11: GetMyPasture:独孤悠然7:422-423 3:31:11
+03:31:10: 触发 [独孤悠然7] 16偷取
+03:30:55: 在 【独孤悠然7】 的牧场 赶 [火烈鸟] 生产 经验+2
+03:30:50: Post:独孤悠然7:375-425 
+03:30:45: GetMyPasture:独孤悠然7:422-475 3:30:45
+03:30:44: 触发 [独孤悠然7] 16赶产-2022/8/19 3:30:45-2022/8/19 3:30:45-44792.146355081
+03:30:24: 正在对时 [独孤悠然7] 的牧场2022/8/19 3:30:45
+03:21:28: GetMCXunBaoHome:1110-343 
+03:21:22: MCSpriteBag:328-343 
+03:21:16: MCGetSpritePKHome:343-358 
+03:21:11: MCGetSprite:344-373 
+03:21:06: MCSpriteRank:469-402 
+03:21:01: BirdBag:328-328 
+03:20:55: GetTreeHome:328-334 
+03:20:55: GetMCHelp:328-340 
+03:20:50: GetMyHigh:297-330 
+03:20:50: {"code":-5,"direction":"动物收获数量不足~","poptype":3,"ret":-5}
+03:20:44: MCHBookOpenBox:328-399 
+03:20:44: {"code":-5,"direction":"动物收获数量不足~","poptype":3,"ret":-5}
+03:20:39: MCHBookOpenBox:328-384 
+03:20:39: {"code":-5,"direction":"动物收获数量不足~","poptype":3,"ret":-5}
+03:20:34: MCHBookOpenBox:328-340 
+03:20:34: {"code":-5,"direction":"动物收获数量不足~","poptype":3,"ret":-5}
+03:20:29: MCHBookOpenBox:329-353 
+03:20:28: {"code":-5,"direction":"动物收获数量不足~","poptype":3,"ret":-5}
+03:20:23: MCHBookOpenBox:343-378 
+03:20:18: GetMyPasture:独孤悠然7:453-413 3:20:18
+03:20:17: MCHBookHome:328-374 
+03:20:11: GetMyPasture:独:438-421 3:20:11
+03:20:11: GetMyPasture:468-405 3:20:11
+03:20:11: GetMCHelp:328-342 
+03:20:11: 休息完毕，开启工作
+03:12:41: GetMyPasture:469-476 3:12:42
+03:03:58: 触发 [独孤悠然7] 3赶产-2022/8/19 3:03:58-2022/8/19 3:03:58-44792.1277555324
+03:03:38: 正在对时 [独孤悠然7] 的牧场2022/8/19 3:03:58
+03:01:41: GetMyPasture:437-411 3:01:41
+03:01:40: 开始科研 [70后冰棍]
+03:01:34: MCReSearch:344-386 
+03:01:29: GetMyPasture:468-428 3:01:29
+03:01:28: 收获所有窝内科研动物
+03:01:23: MCReSearch:359-388 
+03:01:17: GetMyPasture:438-417 3:01:17
+03:01:17: 触发自家刷新:Research
+03:01:10: GetMyPasture:453-396 3:01:10
+03:01:03: MCGetBag:343-340 
+03:01:03: CheckWoPe:328-338 
+03:01:03: {"code":0,"direction":"1. NOT FOUND KEY invalid param  IN TYPE 0, KEY-VALUES SIZE 496","ecode":-20003} farmTime=1660849262,farmKey=null,pastureKey=9b5b936104b6eac1cf1a214b3f2a07ef79351b47,uIdx=646527948,type=3
+03:01:03: MCFullBag:344-348 
+03:01:03: 收获 副产品 [鸭嘴兽崽]×13只 经验+9 金币+1066
+03:00:58: HarvestP:359-353 
+03:00:58: CheckWoPe:328-348 
+03:00:58: {"code":0,"direction":"1. NOT FOUND KEY invalid param  IN TYPE 0, KEY-VALUES SIZE 496","ecode":-20003} farmTime=1660849257,farmKey=null,pastureKey=470311a0831127cb4d62d5d4b8a7e270b087f806,uIdx=646527948,type=2
+03:00:58: MCFullBag:343-369 
+03:00:52: GetMyPasture:437-395 3:00:52
+03:00:52: 触发自家刷新:Animals-sid:19-2022/8/19 3:00:51
+03:00:48: {"code":0,"direction":"1. NOT FOUND KEY invalid param  IN TYPE 0, KEY-VALUES SIZE 496","ecode":-20003} farmTime=1660849247,farmKey=null,pastureKey=fa84e01ae43329a070f1436154b39eaa2814986e,uIdx=646527948,type=1
+03:00:48: MCFullBag:359-353 
+03:00:48: MCSpriteBag:344-347 
+03:00:42: {"code":0,"direction":"1. NOT FOUND KEY invalid param  IN TYPE 0, KEY-VALUES SIZE 496","ecode":-20003} farmTime=1660849242,farmKey=null,pastureKey=054c0326dea5fcd0739acc7b8e7fc53fd028d33e,uIdx=646527948,type=0
+03:00:42: MCFullBag:359-350 
+03:00:42: {"code":1,"direction":"达到今日购买上限","ecode":-103} farmTime=1660849242,farmKey=null,pastureKey=054c0326dea5fcd0739acc7b8e7fc53fd028d33e,uIdx=646527948,toolid=400,payid=2
+03:00:42: MCSpriteBuyTool:328-342 
+03:00:42: [每月签到板]自动签到 本月累计签到 19 次
+03:00:37: SignDayMC:360-357 
+03:00:37: 在 【独孤悠然6】 的牧场 赶 [鸭嘴兽] 生产 经验+5
+03:00:32: SignHomeMC:344-354 
+03:00:32: Post:344-364 
+03:00:31: 今日签到成功，领取[金兔子]×1，连续[67]天
+03:00:26: GetMyPasture:437-385 3:00:26
+03:00:26: 触发自家刷新:Animals-sid:19-2022/8/19 3:00:26
+03:00:23: MCSign:2329-334 
+03:00:21: 连续签到[67]天，额外领取[拳击帅豹]×1，连续[67]天
+03:00:16: GetMyPasture:453-389 3:00:16
+03:00:15: MCSign:672-336 
+03:00:09: MCBeforeSign:344-336 
+03:00:07: MCGetBag:344-376 
+03:00:07: 收获 副产品 [斑马崽]×13只 经验+9 金币+1066
+03:00:02: MCCheckBooksList:1672-430 
+03:00:00: 触发 [独] 16赶产-2022/8/19 0:20:51-2022/8/19 3:00:00-44792.0144793519
+02:59:59: HarvestP:391-409 
+02:59:54: GetMyPasture:453-428 2:59:54
+02:59:53: 触发自家刷新:Animals-sid:4-2022/8/19 2:59:53
+02:59:38: 在 【独孤悠然6】 的牧场 赶 [斑马] 生产 经验+5
+02:59:33: Post:343-404 
+02:59:28: GetMyPasture:453-465 2:59:28
+02:59:27: 触发自家刷新:Animals-sid:4-2022/8/19 2:59:27
+02:51:27: GetMCXunBaoHome:1141-377 
+02:51:21: MCSpriteBag:359-377 
+02:51:15: MCGetSpritePKHome:375-396 
+02:51:10: MCGetSprite:344-417 
+02:51:04: MCSpriteRank:500-490 
+02:50:59: BirdBag:297-321 
+02:50:54: GetTreeHome:359-345 
+02:50:54: GetMCHelp:343-332 
+02:50:48: GetMyHigh:313-321 
+02:50:48: {"code":-5,"direction":"动物收获数量不足~","poptype":3,"ret":-5}
+02:50:43: MCHBookOpenBox:328-330 
+02:50:42: {"code":-5,"direction":"动物收获数量不足~","poptype":3,"ret":-5}
+02:50:37: MCHBookOpenBox:328-333 
+02:50:37: {"code":-5,"direction":"动物收获数量不足~","poptype":3,"ret":-5}
+02:50:32: MCHBookOpenBox:344-339 
+02:50:32: {"code":-5,"direction":"动物收获数量不足~","poptype":3,"ret":-5}
+02:50:27: MCHBookOpenBox:313-335 
+02:50:26: {"code":-5,"direction":"动物收获数量不足~","poptype":3,"ret":-5}
+02:50:21: MCHBookOpenBox:343-357 
+02:50:16: MCHBookHome:328-372 
+02:50:10: GetMyPasture:453-416 2:50:11
+02:50:10: 自动休息
+02:48:13: GetMyPasture:454-508 2:48:13
+02:37:13: GetMyPasture:438-438 2:37:13
+02:37:06: MCGetBag:360-438 
+02:37:06: 收获 副产品 [中美貘崽]×15只 经验+10 金币+1350
+02:37:01: HarvestP:391-517 
+02:36:55: GetMyPasture:453-521 2:36:55
+02:36:55: 触发自家刷新:Animals-sid:2-2022/8/19 2:36:54
+02:36:40: 在 【独孤悠然6】 的牧场 赶 [中美貘] 生产 经验+5
+02:36:35: Post:344-377 
+02:36:29: GetMyPasture:453-410 2:36:29
+02:36:29: 触发自家刷新:Animals-sid:2-2022/8/19 2:36:29
+02:35:43: GetMCHelp:312-391 
+02:35:43: 牧场小手
+02:32:40: GetMyPasture:438-598 2:32:41
+02:21:39: GetMyPasture:独孤悠然:422-395 2:21:40
+02:21:38: 在 【独孤悠然】 的牧场抓取 [三叶草河马崽] ×1只 金币+70
+02:21:33: GetMCXunBaoHome:1078-368 
+02:21:32: Steal:独孤悠然:344-368 
+02:21:27: GetMyPasture:独孤悠然:422-393 2:21:28
+02:21:26: 触发 [独孤悠然] 5偷取
+02:21:23: MCSpriteBag:344-365 
+02:21:17: MCGetSpritePKHome:375-387 
+02:21:12: MCGetSprite:359-399 
+02:21:11: 在 【独孤悠然】 的牧场 赶 [三叶草河马] 生产 经验+2
+02:21:06: MCSpriteRank:516-440 
+02:21:06: Post:独孤悠然:359-364 
+02:21:01: GetMyPasture:独孤悠然:421-370 2:21:02
+02:21:00: 触发 [独孤悠然] 5赶产-2022/8/19 2:21:01-2022/8/19 2:21:01-44792.0979291551
+02:20:59: BirdBag:328-319 
+02:20:54: GetMCHelp:312-311 
+02:20:54: GetTreeHome:296-311 
+02:20:48: GetMyHigh:328-326 
+02:20:48: {"code":-5,"direction":"动物收获数量不足~","poptype":3,"ret":-5}
+02:20:43: MCHBookOpenBox:328-325 
+02:20:42: {"code":-5,"direction":"动物收获数量不足~","poptype":3,"ret":-5}
+02:20:41: 正在对时 [独孤悠然] 的牧场2022/8/19 2:21:01
+02:20:37: GetMCHelp:297-322 
+02:20:37: MCHBookOpenBox:360-348 
+02:20:37: 牧场小手
+02:20:37: {"code":-5,"direction":"动物收获数量不足~","poptype":3,"ret":-5}
+02:20:32: MCHBookOpenBox:328-337 
+02:20:32: {"code":-5,"direction":"动物收获数量不足~","poptype":3,"ret":-5}
+02:20:27: MCHBookOpenBox:344-347 
+02:20:26: {"code":-5,"direction":"动物收获数量不足~","poptype":3,"ret":-5}
+02:20:21: MCHBookOpenBox:344-350 
+02:20:16: MCHBookHome:312-357 
+02:20:10: GetMyPasture:453-403 2:20:11
+02:10:39: GetMyPasture:453-403 2:10:40
+02:10:39: 触发自家刷新:Empty WoMaxNum:0-10 PeMaxNum:1-9
+02:10:34: MCGetBag:328-354 
+02:10:34: 购买 [火烈鸟] ×1只 金币-18290 经验+5
+02:10:29: BuyAnimal:360-381 
+02:10:28: 您选择了 [点亮图鉴]或[点亮3星]，正在放养 [未点亮]或[未3星] 幼崽
+02:10:23: GetMyPasture:453-403 2:10:23
+02:10:17: MCCheckBooksList:328-353 
+02:10:11: MCMyHistory:328-379 
+02:10:11: 收获 动物 [河马]×1 经验+10 金币+18950
+02:10:06: HarvestA:438-430 
+02:10:00: GetMyPasture:453-422 2:10:00
+02:10:00: 触发自家刷新:Animals-sid:20-2022/8/19 2:10:00
+02:05:45: GetMyPasture:独孤悠然7:422-391 2:05:45
+02:05:43: {"errorCode":"-11006","errorContent":"手下留情,给主人留一点吧","errorType":"logic"}
+02:05:38: Steal:独孤悠然7:344-360 
+02:05:33: GetMCHelp:329-377 
+02:05:32: 牧场小手
+02:05:31: GetMyPasture:独孤悠然7:437-426 2:05:31
+02:05:30: 触发 [独孤悠然7] 11偷取
+02:05:14: GetMyPasture:独孤悠然7:422-416 2:05:14
+02:05:08: GetMyPasture:独孤悠然:437-410 2:05:08
+02:05:06: 在 【独孤悠然】 的牧场抓取 [考拉崽] ×1只 金币+84
+02:05:04: 触发 [独孤悠然7] 11赶产-2022/8/19 2:05:04-2022/8/19 2:05:04-44792.0868527546
+02:05:01: Steal:独孤悠然:375-384 
+02:04:56: GetMyPasture:独孤悠然:421-394 2:04:56
+02:04:55: 触发 [独孤悠然] 10偷取
+02:04:44: 正在对时 [独孤悠然7] 的牧场2022/8/19 2:05:04
+02:04:35: {"poptype":3,"addExp":0,"animal":"","ecode":-11003,"errorCode":-11003,"errorType":"1007","errorContent":"system","direction":"system"} farmTime=1660845875,farmKey=null,pastureKey=ba583cc28abbe89e2b0757d5fae3feb0e43c3f1f,uIdx=646527948,uId=2502702211,nick=独孤悠然6,serial=-1
+02:04:35: Post:独孤悠然:343-420 
+02:04:29: GetMyPasture:独孤悠然:437-427 2:04:30
+02:04:29: 触发 [独孤悠然] 10赶产-2022/8/19 2:04:29-2022/8/19 2:04:29-44792.086447662
+02:04:09: 正在对时 [独孤悠然] 的牧场2022/8/19 2:04:29
+02:02:50: GetMyPasture:独孤悠然7:422-400 2:02:50
+02:02:49: 在 【独孤悠然7】 的牧场抓取 [肉鸡崽] ×1只 金币+23
+02:02:44: Steal:独孤悠然7:344-378 
+02:02:38: GetMyPasture:独孤悠然7:453-413 2:02:38
+02:02:38: 触发 [独孤悠然7] 5偷取
+02:02:23: 在 【独孤悠然7】 的牧场 赶 [肉鸡] 生产 经验+2
+02:02:18: Post:独孤悠然7:375-374 
+02:02:12: GetMyPasture:独孤悠然7:422-374 2:02:12
+02:02:12: 触发 [独孤悠然7] 5赶产-2022/8/19 2:02:12-2022/8/19 2:02:12-44792.0848620255
+02:01:52: 正在对时 [独孤悠然7] 的牧场2022/8/19 2:02:12
+01:53:49: GetMyPasture:独孤悠然:422-388 1:53:49
+01:53:47: {"errorCode":"-11006","errorContent":"手下留情,给主人留一点吧","errorType":"logic"}
+01:53:42: Steal:独孤悠然:344-366 
+01:53:36: GetMyPasture:独孤悠然:438-388 1:53:37
+01:53:36: 触发 [独孤悠然] 16偷取
+01:53:21: 在 【独孤悠然】 的牧场 赶 [金丝猴] 生产 经验+2
+01:53:16: Post:独孤悠然:359-369 
+01:53:11: GetMyPasture:独孤悠然:422-383 1:53:11
+01:53:10: 触发 [独孤悠然] 16赶产-2022/8/19 1:53:10-2022/8/19 1:53:10-44792.0785888773
+01:52:49: 正在对时 [独孤悠然] 的牧场2022/8/19 1:53:10
+01:51:38: GetMCXunBaoHome:984-342 
+01:51:32: MCSpriteBag:328-342 
+01:51:26: MCGetSpritePKHome:359-357 
+01:51:21: MCGetSprite:313-356 
+01:51:15: MCSpriteRank:484-400 
+01:51:10: BirdBag:297-317 
+01:51:05: GetTreeHome:344-337 
+01:51:05: GetMCHelp:328-331 
+01:50:59: GetMyHigh:328-334 
+01:50:59: {"code":-5,"direction":"动物收获数量不足~","poptype":3,"ret":-5}
+01:50:54: MCHBookOpenBox:344-340 
+01:50:53: {"code":-5,"direction":"动物收获数量不足~","poptype":3,"ret":-5}
+01:50:48: MCHBookOpenBox:344-336 
+01:50:48: {"code":-5,"direction":"动物收获数量不足~","poptype":3,"ret":-5}
+01:50:43: MCHBookOpenBox:328-328 
+01:50:43: {"code":-5,"direction":"动物收获数量不足~","poptype":3,"ret":-5}
+01:50:37: MCHBookOpenBox:328-329 
+01:50:32: MCHBookHome:313-330 
+01:50:32: 在 【独孤悠然6】 的牧场 收集便便×1 金币+30
+01:50:27: ClearDejecta:359-348 
+01:50:27: GetMCHelp:312-337 
+01:50:26: 牧场小手
+01:50:26: 在 【独孤悠然6】 的牧场 收集便便×1 金币+30
+01:50:21: ClearDejecta:344-363 
+01:50:21: 在 【独孤悠然6】 的牧场 收集便便×1 金币+30
+01:50:16: ClearDejecta:359-383 
+01:50:10: GetMyPasture:453-408 1:50:11
+01:46:50: 总计好友：3个
+01:46:50: 读取校友好友：0个（校友已关停，无法读取）
+01:46:50: 读取空间好友：3个
+01:46:45: GetMCFriend:781-313 
+01:46:41: 自动校验服务器时间
+01:40:58: GetMyPasture:独孤悠然7:421-405 1:40:59
+01:40:57: 在 【独孤悠然7】 的牧场抓取 [粉色羊驼崽] ×1只 金币+87
+01:40:52: Steal:独孤悠然7:360-389 
+01:40:47: GetMyPasture:独孤悠然7:437-419 1:40:47
+01:40:46: 触发 [独孤悠然7] 1偷取
+01:40:31: 在 【独孤悠然7】 的牧场 赶 [粉色羊驼] 生产 经验+2
+01:40:26: Post:独孤悠然7:390-402 
+01:40:20: GetMyPasture:独孤悠然7:421-414 1:40:21
+01:40:20: 触发 [独孤悠然7] 1赶产-2022/8/19 1:40:21-2022/8/19 1:40:21-44792.0696884028
+01:40:00: 正在对时 [独孤悠然7] 的牧场2022/8/19 1:40:21
+01:35:48: GetMyPasture:453-407 1:35:49
+01:35:21: GetMCHelp:297-362 
+01:35:21: 牧场小手
+01:25:13: 正在挖[4级]地 坐标：(13411)  镐头：0
+01:25:08: MCXunBaoDig:672-641 
+01:25:07: 打开中级宝箱：红色玛瑙×3 
+01:25:02: MCXunBaoHarvest:797-610 
+01:24:48: GetMyPasture:468-424 1:24:48
+01:24:41: MCGetBag:344-380 
+01:24:41: 收获 副产品 [汗血宝马崽]×12只 经验+8 金币+1056
+01:24:36: HarvestP:391-417 
+01:24:30: GetMyPasture:438-444 1:24:31
+01:24:30: 触发自家刷新:Animals-sid:14-2022/8/19 1:24:30
+01:24:10: {"poptype":3,"addExp":0,"animal":"","ecode":-11003,"errorCode":-11003,"errorType":"1007","errorContent":"system","direction":"system"} farmTime=1660843450,farmKey=null,pastureKey=440abddfba36e4c3f60fb6f9104d7e24ca3de2d2,uIdx=646527948,serial=-1
+01:24:10: Post:343-451 
+01:24:04: GetMyPasture:437-560 1:24:05
+01:24:04: 触发自家刷新:Animals-sid:14-2022/8/19 1:24:04
+01:22:30: 正在开启中级宝箱 需要：150秒
+01:22:25: MCXunBaoDig:766-360 
+01:22:24: 发现中级宝箱坐标：(13153)  镐头：2
+01:22:24: 正在挖[4级]地 坐标：(13053)  镐头：2
+01:22:19: MCXunBaoDig:750-360 
+01:22:18: 发现中级宝箱坐标：(13153)  镐头：3
+01:22:18: 正在挖[4级]地 坐标：(13353)  镐头：3
+01:22:13: MCXunBaoDig:796-360 
+01:22:12: 正在挖[4级]地 坐标：(13015)  镐头：4
+01:22:07: MCXunBaoDig:797-360 
+01:22:06: 打开中级宝箱：红松宝石×3 
+01:22:01: MCXunBaoHarvest:828-360 
+01:21:22: GetMCXunBaoHome:1203-360 
+01:21:16: MCSpriteBag:344-360 
+01:21:10: MCGetSpritePKHome:375-377 
+01:21:05: MCGetSprite:359-380 
+01:20:59: MCSpriteRank:484-401 
+01:20:54: BirdBag:297-319 
+01:20:48: GetTreeHome:343-342 
+01:20:48: GetMCHelp:343-342 
+01:20:43: GetMyHigh:343-341 
+01:20:42: {"code":-5,"direction":"动物收获数量不足~","poptype":3,"ret":-5}
+01:20:37: MCHBookOpenBox:329-339 
+01:20:37: {"code":-5,"direction":"动物收获数量不足~","poptype":3,"ret":-5}
+01:20:32: MCHBookOpenBox:343-349 
+01:20:32: {"code":-5,"direction":"动物收获数量不足~","poptype":3,"ret":-5}
+01:20:27: MCHBookOpenBox:359-355 
+01:20:26: {"code":-5,"direction":"动物收获数量不足~","poptype":3,"ret":-5}
+01:20:21: MCHBookOpenBox:344-351 
+01:20:16: GetMCHelp:313-359 
+01:20:16: MCHBookHome:312-405 
+01:20:15: 牧场小手
+01:20:10: GetMyPasture:437-499 1:20:11
+01:19:34: 正在开启中级宝箱 需要：150秒
+01:19:29: MCXunBaoDig:640-562 
+01:19:29: 发现中级宝箱坐标：(12926)  镐头：6
+01:19:29: 正在挖[4级]地 坐标：(12826)  镐头：6
+01:19:23: MCXunBaoDig:594-484 
+01:19:23: 打开高级宝箱：飞鸟神羽×2 
+01:19:18: MCXunBaoHarvest:750-375 
+01:12:12: GetMyPasture:469-404 1:12:12
+01:09:16: 正在开启高级宝箱 需要：300秒
+01:09:11: MCXunBaoDig:781-322 
+01:09:10: 发现高级宝箱坐标：(12406)  镐头：8
+01:09:10: 正在挖[4级]地 坐标：(12506)  镐头：8
+01:09:05: MCXunBaoDig:656-322 
+01:09:05: 打开中级宝箱：飞鸟神羽×1 
+01:08:59: MCXunBaoHarvest:797-322 
+01:06:28: 发现高级宝箱坐标：(12406)  镐头：9
+01:06:28: 正在开启中级宝箱 需要：150秒
+01:06:23: MCXunBaoDig:750-322 
+01:06:22: 发现中级宝箱坐标：(12606)  镐头：10
+01:06:22: 正在挖[4级]地 坐标：(12706)  镐头：10
+01:06:17: MCXunBaoDig:687-322 
+01:06:16: 发现中级宝箱坐标：(12606)  镐头：11
+01:06:16: 正在挖[4级]地 坐标：(12806)  镐头：11
+01:06:11: MCXunBaoDig:703-322 
+01:06:10: 打开高级宝箱：高级训练糖果×5 
+01:06:05: MCXunBaoHarvest:781-322 
+01:05:16: 牧场小手
+01:01:12: GetMyPasture:468-499 1:01:12
+00:56:03: 正在开启高级宝箱 需要：300秒
+00:55:58: MCXunBaoDig:766-688 
+00:55:57: 发现高级宝箱坐标：(13109)  镐头：13
+00:55:57: 正在挖[4级]地 坐标：(13108)  镐头：13
+00:55:52: MCXunBaoDig:734-610 
+00:55:51: 打开高级宝箱：中级精灵道具×2 
+00:55:46: MCXunBaoHarvest:609-487 
+00:51:38: 发现高级宝箱坐标：(13109)  镐头：14
+00:51:33: GetMCXunBaoHome:1016-366 
+00:51:26: MCSpriteBag:359-366 
+00:51:21: MCGetSpritePKHome:359-374 
+00:51:16: MCGetSprite:359-390 
+00:51:10: MCSpriteRank:516-421 
+00:51:05: BirdBag:328-327 
+00:50:59: GetTreeHome:328-327 
+00:50:59: GetMCHelp:328-327 
+00:50:54: GetMyHigh:313-323 
+00:50:53: {"code":-5,"direction":"动物收获数量不足~","poptype":3,"ret":-5}
+00:50:48: MCHBookOpenBox:328-334 
+00:50:48: {"code":-5,"direction":"动物收获数量不足~","poptype":3,"ret":-5}
+00:50:43: MCHBookOpenBox:344-340 
+00:50:43: {"code":-5,"direction":"动物收获数量不足~","poptype":3,"ret":-5}
+00:50:38: MCHBookOpenBox:344-336 
+00:50:37: {"code":-5,"direction":"动物收获数量不足~","poptype":3,"ret":-5}
+00:50:32: MCHBookOpenBox:328-329 
+00:50:27: MCHBookHome:312-330 
+00:50:26: 在 【独孤悠然6】 的牧场 打蚊子×2 经验+6
+00:50:21: KillMosquito:328-349 
+00:50:21: 在 【独孤悠然6】 的牧场 打蚊子×3 经验+9
+00:50:16: KillMosquito:328-370 
+00:50:11: GetMyPasture:独孤悠然:437-413 0:50:11
+00:50:11: GetMyPasture:437-390 0:50:11
+00:50:10: GetMCHelp:312-343 
+00:50:10: 休息完毕，开启工作
+00:45:49: 正在开启高级宝箱 需要：300秒
+00:45:44: MCXunBaoDig:765-680 
+00:45:43: 发现高级宝箱坐标：(13301)  镐头：15
+00:45:43: 正在挖[4级]地 坐标：(13302)  镐头：15
+00:45:38: MCXunBaoDig:640-596 
+00:45:37: 打开高级宝箱：飞鸟精力×100 
+00:45:32: MCXunBaoHarvest:687-552 
+00:42:11: GetMyPasture:437-418 0:42:12
+00:35:31: 发现高级宝箱坐标：(13301)  镐头：16
+00:35:31: 正在开启高级宝箱 需要：300秒
+00:35:26: MCXunBaoDig:765-729 
+00:35:25: 发现高级宝箱坐标：(13303)  镐头：17
+00:35:25: 正在挖[4级]地 坐标：(13304)  镐头：17
+00:35:20: MCXunBaoDig:719-694 
+00:35:19: 打开中级宝箱：红色玛瑙×3 
+00:35:14: MCXunBaoHarvest:750-669 
+00:32:42: 正在开启中级宝箱 需要：150秒
+00:32:37: MCXunBaoDig:813-694 
+00:32:36: 打开高级宝箱：飞鸟精力×100 
+00:32:31: MCXunBaoHarvest:750-575 
+00:31:11: GetMyPasture:484-401 0:31:12
+00:31:11: 触发 [独孤悠然] 2赶产-2022/8/19 0:31:11-2022/8/19 0:31:11-44792.0216559954
+00:30:51: 正在对时 [独孤悠然] 的牧场2022/8/19 0:31:11
+00:22:29: 发现高级宝箱坐标：(13303)  镐头：19
+00:22:29: 发现中级宝箱坐标：(13405)  镐头：19
+00:22:29: 正在开启高级宝箱 需要：300秒
+00:22:24: MCXunBaoDig:687-676 
+00:22:18: BirdBag:297-543 
+00:22:13: GetTreeHome:312-540 
+00:22:13: 派遣飞鸟 [S]金丝雀(9级) 去觅食 金币-98000
+00:22:08: GetMCXunBaoHome:1313-618 
+00:22:07: BirdWork:359-534 
+00:22:06: 昨日获得第129名 经验+40 金钻+300 人气+100
+00:22:01: BirdBag:313-440 
+00:22:01: MCSpriteBag:328-568 
+00:22:01: 自动处理精灵对抗赛：魔力棒×1 精灵升级药水（小）×1 飞鸟碎片×1 有机罐头×1 
+00:21:56: GetTreeHome:328-506 
+00:21:54: MCDoSpritePKHome:359-574 
+00:21:54: 自动处理精灵对抗赛：魔力棒×1 精灵升级药水（小）×1 飞鸟碎片×1 有机罐头×1 
+00:21:49: MCDoSpritePKHome:437-635 
+00:21:48: 自动处理精灵对抗赛：魔力棒×1 精灵升级药水（小）×1 飞鸟碎片×1 有机罐头×1 
+00:21:43: MCDoSpritePKHome:360-618 
+00:21:38: MCSpritePKRank:343-580 
+00:21:32: MCGetSpritePKHome:375-579 
+00:21:27: MCGetSprite:484-646 
+00:21:21: MCSpriteRank:546-637 
+00:21:16: BirdBag:328-501 
+00:21:10: GetTreeHome:328-560 
+00:21:05: BirdBag:313-555 
+00:21:04: 请求最高级飞鸟协助成功
+00:20:59: HelpBirdWork:343-563 
+00:20:54: BirdHelpList:312-523 
+00:20:49: GetMCHelp:343-437 
+00:20:48: GetTreeHome:328-531 
+00:20:43: GetMyHigh:313-480 
+00:20:43: {"code":-5,"direction":"动物收获数量不足~","poptype":3,"ret":-5}
+00:20:38: MCHBookOpenBox:359-519 
+00:20:37: {"code":-5,"direction":"动物收获数量不足~","poptype":3,"ret":-5}
+00:20:32: MCHBookOpenBox:344-534 
+00:20:32: {"code":-5,"direction":"动物收获数量不足~","poptype":3,"ret":-5}
+00:20:27: MCHBookOpenBox:328-530 
+00:20:27: {"code":-5,"direction":"动物收获数量不足~","poptype":3,"ret":-5}
+00:20:21: MCHBookOpenBox:328-504 
+00:20:16: MCHBookHome:328-492 
+00:20:11: GetMyPasture:437-379 0:20:11
+00:20:10: 自动休息
+00:15:23: {"ecode":-10002,"code":0,"poptype":3,"direction":"你不在他的好友列表里。"}
+00:15:23: 你不是 [独] 的好友
+00:15:18: {"ecode":-10002,"code":0,"poptype":3,"direction":"你不在他的好友列表里。"} farmTime=1660839318,farmKey=null,pastureKey=07dc2ae27fe9d001661ac8573f63a7823cc16aae,uIdx=646527948,uId=792634362,nick=独孤悠然6,type=-1,version=1
+00:15:18: Steal:独:344-354 
+00:15:18: 你不是 [独] 的好友
+00:15:13: {"ecode":-10002,"code":0,"poptype":3,"direction":"你不在他的好友列表里。"} farmTime=1660839313,farmKey=null,pastureKey=e3cf18d722804ca8e69692b9c14927aabfee67b2,uIdx=646527948,uId=792634362,nick=独孤悠然6,type=-1,version=1
+00:15:13: Steal:独:344-364 
+00:15:07: GetMyPasture:独:406-385 0:15:08
+00:15:07: 触发 [独] 7偷取
+00:14:47: {"poptype":3,"addExp":0,"animal":"","ecode":-11003,"errorCode":-11003,"errorType":"1007","errorContent":"system","direction":"system"} farmTime=1660839287,farmKey=null,pastureKey=71c83ae59ace9552fe93b94381c8821b992c0eb7,uIdx=646527948,uId=792634362,nick=独孤悠然6,serial=-1
+00:14:47: Post:独:344-365 
+00:14:41: GetMyPasture:独:437-387 0:14:42
+00:14:41: 触发 [独] 7赶产-2022/8/19 0:14:41-2022/8/19 0:14:41-44792.010197662
+00:14:21: 正在对时 [独] 的牧场2022/8/19 0:14:41
+00:10:05: MCSpriteBag:344-338 
+00:09:59: {"code":1,"direction":"达到今日购买上限","ecode":-103} farmTime=1660839000,farmKey=null,pastureKey=4d3be377d013f60b97462faabb3196ff22292076,uIdx=646527948,toolid=400,payid=2
+00:09:59: MCSpriteBuyTool:328-332 
+00:05:48: GetMCHelp:312-315 
+00:05:48: 牧场小手
+00:05:05: GetMyPasture:独孤悠然:438-416 0:05:06
+00:05:04: 在 【独孤悠然】 的牧场抓取 [喜马拉雅麝崽] ×1只 金币+85
+00:04:59: Steal:独孤悠然:391-395 
+00:04:53: GetMyPasture:独孤悠然:422-399 0:04:54
+00:04:53: 触发 [独孤悠然] 8偷取
+00:04:38: 在 【独孤悠然】 的牧场 赶 [喜马拉雅麝] 生产 经验+2
+00:04:33: Post:独孤悠然:360-376 
+00:04:27: GetMyPasture:独孤悠然:453-392 0:04:28
+00:04:27: 触发 [独孤悠然] 8赶产-2022/8/19 0:04:28-2022/8/19 0:04:28-44792.0031027546
+00:04:07: 正在对时 [独孤悠然] 的牧场2022/8/19 0:04:28
+00:00:28: GetMyPasture:454-393 0:00:28
+00:00:21: MCGetBag:328-333 
+00:00:21: 收获 副产品 [粉色羊驼崽]×9只 经验+12 金币+783
+00:00:15: HarvestP:391-366 
+00:00:10: GetMyPasture:453-407 0:00:10
+00:00:10: 触发自家刷新:Animals-sid:3-2022/8/19 0:00:09
+00:00:00: GetMyPasture:独:406-392 0:00:00
+23:59:59: 触发 [独] 22偷取
+23:59:59: 清空昨日统计数据
+23:59:49: {"poptype":3,"addExp":0,"animal":"","ecode":-11003,"errorCode":-11003,"errorType":"1007","errorContent":"system","direction":"system"} farmTime=1660838389,farmKey=null,pastureKey=aaf0dacb6c2f9c94bec74f24211c68d6bcb12278,uIdx=646527948,serial=-1
+23:59:49: Post:328-379 
+23:59:43: GetMyPasture:453-430 23:59:44
+23:59:43: 触发自家刷新:Animals-sid:3-2022/8/18 23:59:43
+23:55:15: GetMyPasture:独孤悠然:422-408 23:55:16
+23:55:14: 在 【独孤悠然】 的牧场抓取 [雪貂崽] ×1只 金币+83
+23:55:09: Steal:独孤悠然:391-395 
+23:55:04: GetMyPasture:独孤悠然:422-400 23:55:04
+23:55:03: 触发 [独孤悠然] 3偷取
+23:54:48: 在 【独孤悠然】 的牧场 赶 [雪貂] 生产 经验+2
+23:54:43: Post:独孤悠然:360-378 
+23:54:38: GetMyPasture:独孤悠然:453-396 23:54:38
+23:54:37: 触发 [独孤悠然] 3赶产-2022/8/18 23:54:38-2022/8/18 23:54:38-44791.9962740509
+23:54:17: 正在对时 [独孤悠然] 的牧场2022/8/18 23:54:38
+23:52:08: GetMyPasture:独孤悠然7:422-400 23:52:09
+23:52:06: 在 【独孤悠然7】 的牧场抓取 [绿尾虹雉崽] ×1只 金币+86
+23:52:01: Steal:独孤悠然7:359-379 
+23:51:56: GetMyPasture:独孤悠然7:438-399 23:51:57
+23:51:55: 触发 [独孤悠然7] 18偷取
+23:51:35: {"poptype":3,"addExp":0,"animal":"","ecode":-11003,"errorCode":-11003,"errorType":"1007","errorContent":"system","direction":"system"} farmTime=1660837896,farmKey=null,pastureKey=678af40a7e51851fa785ec2cf5fc087541ac2a79,uIdx=646527948,uId=786727825,nick=独孤悠然6,serial=-1
+23:51:35: Post:独孤悠然7:328-360 
+23:51:30: GetMyPasture:独孤悠然7:438-393 23:51:31
+23:51:29: 触发 [独孤悠然7] 18赶产-2022/8/18 23:51:30-2022/8/18 23:51:30-44791.9940972222
+23:51:21: GetMCXunBaoHome:906-348 
+23:51:15: MCSpriteBag:328-348 
+23:51:10: MCGetSpritePKHome:360-368 
+23:51:09: 正在对时 [独孤悠然7] 的牧场2022/8/18 23:51:30
+23:51:05: MCGetSprite:343-376 
+23:50:59: MCSpriteRank:500-410 
+23:50:54: BirdBag:313-321 
+23:50:48: GetTreeHome:328-329 
+23:50:48: GetMCHelp:328-331 
+23:50:43: GetMCHelp:344-335 
+23:50:43: GetMyHigh:313-327 
+23:50:43: 牧场小手
+23:50:42: {"code":-5,"direction":"动物收获数量不足~","poptype":3,"ret":-5}
+23:50:37: MCHBookOpenBox:344-341 
+23:50:37: {"code":-5,"direction":"动物收获数量不足~","poptype":3,"ret":-5}
+23:50:32: MCHBookOpenBox:344-338 
+23:50:32: {"code":-5,"direction":"动物收获数量不足~","poptype":3,"ret":-5}
+23:50:27: MCHBookOpenBox:328-332 
+23:50:26: {"code":-5,"direction":"动物收获数量不足~","poptype":3,"ret":-5}
+23:50:21: MCHBookOpenBox:312-336 
+23:50:16: MCHBookHome:328-361 
+23:50:10: GetMyPasture:437-395 23:50:11
+23:47:27: GetMyPasture:453-411 23:47:28
+23:47:21: MCGetBag:328-369 
+23:47:20: 收获 副产品 [冠企鹅崽]×10只 经验+7 金币+870
+23:47:15: HarvestP:375-411 
+23:47:10: GetMyPasture:453-447 23:47:10
+23:47:09: 触发自家刷新:Animals-sid:17-2022/8/18 23:47:10
+23:46:49: {"poptype":3,"addExp":0,"animal":"","ecode":-11003,"errorCode":-11003,"errorType":"1007","errorContent":"system","direction":"system"} farmTime=1660837610,farmKey=null,pastureKey=7c70061033a6ecb0c04b6a78ddcb1c41e4c4092a,uIdx=646527948,serial=-1
+23:46:49: Post:313-442 
+23:46:49: 总计好友：3个
+23:46:49: 读取校友好友：0个（校友已关停，无法读取）
+23:46:49: 读取空间好友：3个
+23:46:44: GetMCFriend:735-571 
+23:46:40: 自动校验服务器时间
+23:46:39: GetMyPasture:453-427 23:46:40
+23:46:39: 触发自家刷新:Animals-sid:17-2022/8/18 23:46:39
+23:39:04: GetMyPasture:453-428 23:39:04
+23:38:58: GetMyPasture:独孤悠然7:437-404 23:38:58
+23:38:56: MCGetBag:344-371 
+23:38:56: 在 【独孤悠然7】 的牧场抓取 [考拉崽] ×1只 金币+84
+23:38:56: 收获 副产品 [穿山甲崽]×11只 经验+10 金币+858
+23:38:51: Steal:独孤悠然7:390-398 
+23:38:51: HarvestP:390-407 
+23:38:46: GetMyPasture:独孤悠然7:437-424 23:38:46
+23:38:45: 触发 [独孤悠然7] 7偷取
+23:38:40: GetMyPasture:453-412 23:38:41
+23:38:40: 触发自家刷新:Animals-sid:13-2022/8/18 23:38:40
+23:38:31: 在 【独孤悠然7】 的牧场 赶 [考拉] 生产 经验+2
+23:38:25: Post:独孤悠然7:359-372 
+23:38:20: GetMyPasture:独孤悠然7:421-386 23:38:20
+23:38:20: 触发 [独孤悠然7] 7赶产-2022/8/18 23:38:20-2022/8/18 23:38:20-44791.9849544329
+23:38:16: {"poptype":3,"addExp":0,"animal":"","ecode":-11003,"errorCode":-11003,"errorType":"1007","errorContent":"system","direction":"system"} farmTime=1660837096,farmKey=null,pastureKey=4f41ce62c9b17cf6c83d863daf35e706a867a95d,uIdx=646527948,serial=-1
+23:38:16: Post:328-352 
+23:38:10: GetMyPasture:422-377 23:38:11
+23:38:10: 触发自家刷新:Animals-sid:13-2022/8/18 23:38:10
+23:38:00: 正在对时 [独孤悠然7] 的牧场2022/8/18 23:38:20
+23:35:38: GetMCHelp:296-333 
+23:35:38: 牧场小手
+23:31:56: GetMyPasture:独孤悠然:438-411 23:31:56
+23:31:54: 在 【独孤悠然】 的牧场抓取 [斑马崽] ×1只 金币+82
+23:31:49: Steal:独孤悠然:360-385 
+23:31:44: GetMyPasture:独孤悠然:422-411 23:31:44
+23:31:44: 触发 [独孤悠然] 6偷取
+23:31:28: 在 【独孤悠然】 的牧场 赶 [斑马] 生产 经验+2
+23:31:23: Post:独孤悠然:375-401 
+23:31:18: GetMyPasture:独孤悠然:438-427 23:31:18
+23:31:18: 触发 [独孤悠然] 6赶产-2022/8/18 23:31:18-2022/8/18 23:31:18-44791.9800703472
+23:31:11: GetMyPasture:469-416 23:31:12
+23:30:58: 正在对时 [独孤悠然] 的牧场2022/8/18 23:31:18
+23:21:22: GetMCXunBaoHome:984-353 
+23:21:16: MCSpriteBag:329-353 
+23:21:10: MCGetSpritePKHome:375-378 
+23:21:05: MCGetSprite:344-382 
+23:20:59: MCSpriteRank:515-420 
+23:20:54: BirdBag:313-326 
+23:20:48: GetMCHelp:344-339 
+23:20:48: GetTreeHome:328-334 
+23:20:43: GetMyHigh:344-341 
+23:20:43: {"code":-5,"direction":"动物收获数量不足~","poptype":3,"ret":-5}
+23:20:37: MCHBookOpenBox:344-338 
+23:20:37: {"code":-5,"direction":"动物收获数量不足~","poptype":3,"ret":-5}
+23:20:32: GetMCHelp:328-332 
+23:20:32: MCHBookOpenBox:328-336 
+23:20:32: 牧场小手
+23:20:32: {"code":-5,"direction":"动物收获数量不足~","poptype":3,"ret":-5}
+23:20:27: MCHBookOpenBox:344-344 
+23:20:26: {"code":-5,"direction":"动物收获数量不足~","poptype":3,"ret":-5}
+23:20:21: MCHBookOpenBox:328-345 
+23:20:16: MCHBookHome:313-362 
+23:20:10: GetMyPasture:437-412 23:20:11
+23:13:59: {"poptype":3,"addExp":0,"animal":"","ecode":-11003,"errorCode":-11003,"errorType":"1007","errorContent":"system","direction":"system"} farmTime=1660835639,farmKey=null,pastureKey=819330ee6dfa727f9a75f87de48d5210d04cb807,uIdx=646527948,uId=792634362,nick=独孤悠然6,serial=-1
+23:13:59: Post:独:329-332 
+23:13:59: {"ecode":-10002,"code":0,"poptype":3,"direction":"你不在他的好友列表里。"}
+23:13:59: 你不是 [独] 的好友
+23:13:54: {"ecode":-10002,"code":0,"poptype":3,"direction":"你不在他的好友列表里。"} farmTime=1660835633,farmKey=null,pastureKey=cd3b1f696ebcf559673456d3444987003866bb90,uIdx=646527948,uId=792634362,nick=独孤悠然6,type=-1,version=1
+23:13:54: Steal:独:312-335 
+23:13:53: 你不是 [独] 的好友
+23:13:48: {"ecode":-10002,"code":0,"poptype":3,"direction":"你不在他的好友列表里。"} farmTime=1660835628,farmKey=null,pastureKey=6d33b874886fe35515643c731e2206f588922683,uIdx=646527948,uId=792634362,nick=独孤悠然6,type=-1,version=1
+23:13:48: Steal:独:313-358 
+23:13:43: GetMyPasture:独:437-404 23:13:43
+23:13:42: 触发 [独] 13偷取
+23:13:22: {"poptype":3,"addExp":0,"animal":"","ecode":-11003,"errorCode":-11003,"errorType":"1007","errorContent":"system","direction":"system"} farmTime=1660835602,farmKey=null,pastureKey=aef96d02f7600d34a613397ca80945f7629cd6f5,uIdx=646527948,uId=792634362,nick=独孤悠然6,serial=-1
+23:13:22: Post:独:344-372 
+23:13:17: GetMyPasture:独:406-401 23:13:17
+23:13:16: 触发 [独] 13赶产-2022/8/18 23:13:16-2022/8/18 23:13:16-44791.9675470139
+23:12:56: 正在对时 [独] 的牧场2022/8/18 23:13:16
+23:05:46: GetMyPasture:独孤悠然7:422-397 23:05:46
+23:05:45: {"errorCode":"-11006","errorContent":"手下留情,给主人留一点吧","errorType":"logic"}
+23:05:40: Steal:独孤悠然7:360-373 
+23:05:34: GetMyPasture:独孤悠然7:438-387 23:05:34
+23:05:34: 触发 [独孤悠然7] 4偷取
+23:05:27: GetMCHelp:312-337 
+23:05:27: 牧场小手
+23:05:14: {"poptype":3,"addExp":0,"animal":"","ecode":-11003,"errorCode":-11003,"errorType":"1007","errorContent":"system","direction":"system"} farmTime=1660835113,farmKey=null,pastureKey=a3c52598e7b2a3f485bf5cab94d1295c79c579c2,uIdx=646527948,uId=786727825,nick=独孤悠然6,serial=-1
+23:05:14: Post:独孤悠然7:328-362 
+23:05:08: GetMyPasture:独孤悠然7:438-396 23:05:08
+23:05:08: 触发 [独孤悠然7] 4赶产-2022/8/18 23:05:08-2022/8/18 23:05:08-44791.9618990509
+23:04:48: 正在对时 [独孤悠然7] 的牧场2022/8/18 23:05:08
+23:02:08: GetMyPasture:独孤悠然:437-421 23:02:09
+23:02:02: GetMyPasture:独孤悠然7:421-405 23:02:02
+23:02:00: 在 【独孤悠然7】 的牧场抓取 [雪貂崽] ×1只 金币+83
+23:01:55: Steal:独孤悠然7:360-390 
+23:01:53: 触发 [独孤悠然] 9偷取
+23:01:50: GetMyPasture:独孤悠然7:437-421 23:01:50
+23:01:49: 触发 [独孤悠然7] 20偷取
+23:01:36: GetMyPasture:独孤悠然:422-406 23:01:36
+23:01:34: 在 【独孤悠然7】 的牧场 赶 [雪貂] 生产 经验+2
+23:01:29: Post:独孤悠然7:375-391 
+23:01:27: 触发 [独孤悠然] 9赶产-2022/8/18 23:01:27-2022/8/18 23:01:27-44791.959341007
+23:01:24: GetMyPasture:独孤悠然7:421-408 23:01:24
+23:01:23: 触发 [独孤悠然7] 20赶产-2022/8/18 23:01:24-2022/8/18 23:01:24-44791.9593062847
+23:01:11: GetMyPasture:454-395 23:01:12
+23:01:07: 正在对时 [独孤悠然] 的牧场2022/8/18 23:01:27
+23:01:04: 正在对时 [独孤悠然7] 的牧场2022/8/18 23:01:24
+22:51:22: GetMCXunBaoHome:937-361 
+22:51:16: MCSpriteBag:344-361 
+22:51:10: MCGetSpritePKHome:375-378 
+22:51:05: MCGetSprite:344-381 
+22:50:59: MCSpriteRank:515-418 
+22:50:54: BirdBag:312-321 
+22:50:48: GetTreeHome:328-330 
+22:50:48: GetMCHelp:328-333 
+22:50:43: GetMyHigh:344-339 
+22:50:43: {"code":-5,"direction":"动物收获数量不足~","poptype":3,"ret":-5}
+22:50:38: MCHBookOpenBox:343-335 
+22:50:37: {"code":-5,"direction":"动物收获数量不足~","poptype":3,"ret":-5}
+22:50:32: MCHBookOpenBox:328-328 
+22:50:32: {"code":-5,"direction":"动物收获数量不足~","poptype":3,"ret":-5}
+22:50:27: MCHBookOpenBox:344-354 
+22:50:27: {"code":-5,"direction":"动物收获数量不足~","poptype":3,"ret":-5}
+22:50:22: GetMCHelp:328-365 
+22:50:22: MCHBookOpenBox:328-402 
+22:50:22: 牧场小手
+22:50:16: MCHBookHome:328-385 
+22:50:11: GetMyPasture:437-395 22:50:11
+22:44:16: GetMyPasture:独孤悠然7:437-396 22:44:16
+22:44:15: 触发 [独孤悠然7] 19偷取
+22:43:55: {"poptype":3,"addExp":0,"animal":"","ecode":-11003,"errorCode":-11003,"errorType":"1007","errorContent":"system","direction":"system"} farmTime=1660833835,farmKey=null,pastureKey=874eedfeebb6d52c35147aa693f69491aacfb699,uIdx=646527948,uId=786727825,nick=独孤悠然6,serial=-1
+22:43:55: Post:独孤悠然7:343-356 
+22:43:49: {"ecode":-10000,"code":0,"poptype":3,"direction":"系统繁忙，请稍候重试","errorCode":-10000,"errorType":"system","errorContent":"系统繁忙，请稍候重试"} farmTime=1660833828,farmKey=null,pastureKey=2284a6c2d0f23e428df7811118cce67c458df05a,uIdx=646527948,uId=786727825,nick=独孤悠然6,serial=-1
+22:43:49: Post:独孤悠然7:344-370 
+22:43:43: GetMyPasture:独孤悠然7:438-397 22:43:43
+22:43:43: 触发 [独孤悠然7] 19赶产-2022/8/18 22:43:43-2022/8/18 22:43:43-44791.9470263657
+22:43:23: 正在对时 [独孤悠然7] 的牧场2022/8/18 22:43:43
+22:40:37: GetMyPasture:453-401 22:40:37
+22:40:30: MCGetBag:328-349 
+22:40:30: 收获 副产品 [金丝猴崽]×8只 经验+5 金币+712
+22:40:25: HarvestP:343-370 
+22:40:19: GetMyPasture:438-397 22:40:19
+22:40:19: 触发自家刷新:Animals-sid:18-2022/8/18 22:40:18
+22:39:59: {"poptype":3,"addExp":0,"animal":"","ecode":-11003,"errorCode":-11003,"errorType":"1007","errorContent":"system","direction":"system"} farmTime=1660833598,farmKey=null,pastureKey=7a78ac416c5062282a57a21e3e6fad85041eed11,uIdx=646527948,serial=-1
+22:39:59: Post:328-356 
+22:39:53: GetMyPasture:437-385 22:39:53
+22:39:53: 触发自家刷新:Animals-sid:18-2022/8/18 22:39:53
+22:35:17: GetMCHelp:329-333 
+22:35:16: 牧场小手
+22:31:24: GetMyPasture:453-396 22:31:25
+22:22:17: BirdBag:312-319 
+22:22:12: GetTreeHome:312-326 
+22:22:11: 卖出金苹果×110  金钻+440
+22:22:06: BirdSale:344-341 
+22:22:01: BirdBag:328-338 
+22:22:00: 在栖息大树收获 [S]金丝雀(9级) 金苹果+110 精力值+30
+22:21:55: BirdHarvest:359-349 
+22:21:50: GetTreeHome:329-340 
+22:21:29: GetMCXunBaoHome:1063-351 
+22:21:23: MCSpriteBag:329-351 
+22:21:18: MCGetSpritePKHome:360-374 
+22:21:12: MCGetSprite:359-389 
+22:21:07: MCSpriteRank:516-420 
+22:21:01: BirdBag:328-325 
+22:20:56: GetTreeHome:328-322 
+22:20:56: GetMCHelp:312-317 
+22:20:50: GetMyHigh:313-323 
+22:20:50: {"code":-5,"direction":"动物收获数量不足~","poptype":3,"ret":-5}
+22:20:45: MCHBookOpenBox:329-334 
+22:20:45: {"code":-5,"direction":"动物收获数量不足~","poptype":3,"ret":-5}
+22:20:40: MCHBookOpenBox:328-340 
+22:20:39: {"code":-5,"direction":"动物收获数量不足~","poptype":3,"ret":-5}
+22:20:34: MCHBookOpenBox:328-352 
+22:20:34: {"code":-5,"direction":"动物收获数量不足~","poptype":3,"ret":-5}
+22:20:29: MCHBookOpenBox:359-377 
+22:20:23: GetMyPasture:独孤悠然7:422-395 22:20:24
+22:20:22: MCHBookHome:328-368 
+22:20:22: 在 【独孤悠然6】 的牧场 收集便便×1 金币+30
+22:20:17: GetMyPasture:独孤悠然:437-408 22:20:18
+22:20:16: ClearDejecta:344-380 
+22:20:10: GetMyPasture:独:438-417 22:20:11
+22:20:10: GetMyPasture:453-397 22:20:11
+22:20:10: GetMCHelp:328-342 
+22:20:10: 休息完毕，开启工作
+22:12:29: GetMyPasture:469-404 22:12:29
+22:10:04: 触发 [独] 20赶产-2022/8/18 22:10:04-2022/8/18 22:10:04-44791.9236581366
+22:09:44: 正在对时 [独] 的牧场2022/8/18 22:10:04
+22:01:28: GetMyPasture:469-440 22:01:28
+22:01:22: MCGetBag:343-367 
+22:01:21: 收获 副产品 [喜马拉雅麝崽]×16只 经验+11 金币+1360
+22:01:16: HarvestP:375-392 
+22:01:11: GetMyPasture:437-409 22:01:11
+22:01:10: 触发自家刷新:Animals-sid:12-2022/8/18 22:01:10
+22:00:55: 在 【独孤悠然6】 的牧场 赶 [喜马拉雅麝] 生产 经验+5
+22:00:50: Post:344-381 
+22:00:45: GetMyPasture:453-419 22:00:45
+22:00:44: 触发自家刷新:Animals-sid:12-2022/8/18 22:00:44
+21:59:50: 触发 [独孤悠然7] 14赶产-2022/8/18 21:59:50-2022/8/18 21:59:50-44791.9165518403
+21:59:30: 正在对时 [独孤悠然7] 的牧场2022/8/18 21:59:50
+21:58:04: GetMyPasture:453-412 21:58:05
+21:57:58: MCGetBag:344-372 
+21:57:58: 收获 副产品 [袋食蚁兽崽]×18只 经验+12 金币+1692
+21:57:53: HarvestP:391-400 
+21:57:47: GetMyPasture:453-410 21:57:48
+21:57:47: 触发自家刷新:Animals-sid:6-2022/8/18 21:57:47
+21:57:32: 在 【独孤悠然6】 的牧场 赶 [袋食蚁兽] 生产 经验+5
+21:57:26: Post:329-368 
+21:57:21: GetMyPasture:468-407 21:57:22
+21:57:21: 触发自家刷新:Animals-sid:6-2022/8/18 21:57:21
+21:52:59: 触发 [独孤悠然] 12赶产-2022/8/18 21:52:59-2022/8/18 21:52:59-44791.9117946991
+21:52:39: 正在对时 [独孤悠然] 的牧场2022/8/18 21:52:59
+21:51:23: GetMCXunBaoHome:984-346 
+21:51:17: MCSpriteBag:328-346 
+21:51:12: MCGetSpritePKHome:344-364 
+21:51:06: MCGetSprite:359-384 
+21:51:01: MCSpriteRank:500-409 
+21:50:55: BirdBag:313-319 
+21:50:50: GetTreeHome:328-325 
+21:50:50: GetMCHelp:312-322 
+21:50:45: GetMyHigh:328-333 
+21:50:44: {"code":-5,"direction":"动物收获数量不足~","poptype":3,"ret":-5}
+21:50:39: MCHBookOpenBox:328-338 
+21:50:39: {"code":-5,"direction":"动物收获数量不足~","poptype":3,"ret":-5}
+21:50:34: MCHBookOpenBox:344-348 
+21:50:33: {"code":-5,"direction":"动物收获数量不足~","poptype":3,"ret":-5}
+21:50:28: MCHBookOpenBox:344-352 
+21:50:28: {"code":-5,"direction":"动物收获数量不足~","poptype":3,"ret":-5}
+21:50:23: MCHBookOpenBox:312-360 
+21:50:23: FisLock疑似卡死结束
+21:50:17: GetMyPasture:453-408 21:50:18
+21:50:17: FisLock疑似卡死
+21:50:16: MCHBookHome:329-364 
+21:50:11: GetMyPasture:437-400 21:50:11
+21:50:10: 自动休息
+21:50:05: MCGetBag:360-363 
+21:50:05: 收获 副产品 [白鹤崽]×8白鹤崽 经验+6 金币+688
+21:50:00: HarvestP:343-367 
+21:49:54: GetMyPasture:438-392 21:49:55
+21:49:54: 触发自家刷新:Animals-sid:9-2022/8/18 21:49:54
+21:49:44: 在 【独孤悠然6】 的牧场 打蚊子×2 经验+6
+21:49:39: KillMosquito:328-346 
+21:49:34: {"poptype":3,"addExp":0,"animal":"","ecode":-11003,"errorCode":-11003,"errorType":"1007","errorContent":"system","direction":"system"} farmTime=1660830574,farmKey=null,pastureKey=732fa1fb780b9d9cc30af2ccaafea647cbcf8150,uIdx=646527948,serial=-1
+21:49:34: Post:328-364 
+21:49:28: GetMyPasture:454-401 21:49:29
+21:49:28: 触发自家刷新:Animals-sid:9-2022/8/18 21:49:28
+21:46:49: 总计好友：3个
+21:46:49: 读取校友好友：0个（校友已关停，无法读取）
+21:46:49: 读取空间好友：3个
+21:46:44: GetMCFriend:453-462 
+21:46:40: 自动校验服务器时间
+21:45:28: GetMyPasture:独孤悠然7:421-401 21:45:28
+21:45:26: 在 【独孤悠然7】 的牧场抓取 [小熊猫崽] ×1只 金币+79
+21:45:21: Steal:独孤悠然7:359-381 
+21:45:16: GetMyPasture:独孤悠然7:437-403 21:45:17
+21:45:15: 触发 [独孤悠然7] 2偷取
+21:44:55: {"poptype":3,"addExp":0,"animal":"","ecode":-11003,"errorCode":-11003,"errorType":"1007","errorContent":"system","direction":"system"} farmTime=1660830296,farmKey=null,pastureKey=568cdc965b96b28003178afd6160b86e497d838a,uIdx=646527948,uId=786727825,nick=独孤悠然6,serial=-1
+21:44:55: Post:独孤悠然7:328-370 
+21:44:50: GetMyPasture:独孤悠然7:422-412 21:44:51
+21:44:49: 触发 [独孤悠然7] 2赶产-2022/8/18 21:44:50-2022/8/18 21:44:50-44791.9061349884
+21:44:29: 正在对时 [独孤悠然7] 的牧场2022/8/18 21:44:50
+21:44:07: GetMyPasture:453-403 21:44:08
+21:44:07: 触发自家刷新:Empty WoMaxNum:1-9 PeMaxNum:0-10
+21:44:02: MCGetBag:328-353 
+21:44:01: 购买 [绿尾虹雉] ×1只 金币-18750 经验+0
+21:43:56: BuyAnimal:359-379 
+21:43:56: 您选择了 [点亮图鉴]或[点亮3星]，正在放养 [未点亮]或[未3星] 幼崽
+21:43:51: GetMyPasture:453-400 21:43:52
+21:43:44: MCCheckBooksList:312-347 
+21:43:39: MCMyHistory:360-382 
+21:43:39: 收获 动物 [绿尾虹雉]×1 经验+9 金币+19380
+21:43:34: HarvestA:391-404 
+21:43:28: GetMyPasture:438-417 21:43:29
+21:43:28: 触发自家刷新:Animals-sid:8-2022/8/18 21:43:28
+21:42:12: GetMyPasture:437-397 21:42:12
+21:35:49: GetMCHelp:344-357 
+21:35:49: 牧场小手
+21:31:11: GetMyPasture:438-397 21:31:12
+21:21:23: GetMCXunBaoHome:1094-356 
+21:21:16: MCSpriteBag:344-356 
+21:21:11: MCGetSpritePKHome:359-368 
+21:21:06: MCGetSprite:344-378 
+21:21:00: MCSpriteRank:500-413 
+21:20:55: BirdBag:328-326 
+21:20:49: GetTreeHome:328-325 
+21:20:49: GetMCHelp:312-322 
+21:20:44: GetMCHelp:328-332 
+21:20:44: GetMyHigh:328-336 
+21:20:44: 牧场小手
+21:20:43: {"code":-5,"direction":"动物收获数量不足~","poptype":3,"ret":-5}
+21:20:38: MCHBookOpenBox:343-344 
+21:20:38: {"code":-5,"direction":"动物收获数量不足~","poptype":3,"ret":-5}
+21:20:33: MCHBookOpenBox:344-345 
+21:20:33: {"code":-5,"direction":"动物收获数量不足~","poptype":3,"ret":-5}
+21:20:28: MCHBookOpenBox:343-347 
+21:20:27: {"code":-5,"direction":"动物收获数量不足~","poptype":3,"ret":-5}
+21:20:22: MCHBookOpenBox:344-351 
+21:20:17: MCHBookHome:312-358 
+21:20:11: GetMyPasture:437-405 21:20:11
+21:11:48: GetMyPasture:独:422-394 21:11:48
+21:11:48: 触发 [独] 9偷取
+21:11:28: {"poptype":3,"addExp":0,"animal":"","ecode":-11003,"errorCode":-11003,"errorType":"1007","errorContent":"system","direction":"system"} farmTime=1660828288,farmKey=null,pastureKey=0e1a8b074e7c1062328a26a95f38c01f564c0e00,uIdx=646527948,uId=792634362,nick=独孤悠然6,serial=-1
+21:11:28: Post:独:329-367 
+21:11:23: GetMyPasture:独:422-405 21:11:23
+21:11:22: 触发 [独] 9赶产-2022/8/18 21:11:22-2022/8/18 21:11:22-44791.8828942477
+21:11:02: 正在对时 [独] 的牧场2022/8/18 21:11:22
+21:06:19: GetMyPasture:独:437-402 21:06:19
+21:06:18: 触发 [独] 8偷取
+21:05:58: {"poptype":3,"addExp":0,"animal":"","ecode":-11003,"errorCode":-11003,"errorType":"1007","errorContent":"system","direction":"system"} farmTime=1660827958,farmKey=null,pastureKey=39fd2b17fce2ca061d78e704547fa815cbc9dc9a,uIdx=646527948,uId=792634362,nick=独孤悠然6,serial=-1
+21:05:58: Post:独:344-367 
+21:05:53: GetMyPasture:独:422-390 21:05:53
+21:05:52: 触发 [独] 14赶产-2022/8/18 21:05:53-2022/8/18 21:05:53-44791.8790867361
+21:05:38: GetMCHelp:328-359 
+21:05:37: 牧场小手
+21:05:32: 正在对时 [独] 的牧场2022/8/18 21:05:53
+21:04:27: GetMyPasture:437-390 21:04:28
+20:53:26: GetMyPasture:469-415 20:53:27
+20:53:20: MCGetBag:328-361 
+20:53:19: 收获 副产品 [龙猫崽]×16只 经验+12 金币+1488
+20:53:14: HarvestP:375-394 
+20:53:09: GetMyPasture:454-414 20:53:10
+20:53:08: 触发自家刷新:Animals-sid:5-2022/8/18 20:53:09
+20:52:48: {"poptype":3,"addExp":0,"animal":"","ecode":-11003,"errorCode":-11003,"errorType":"1007","errorContent":"system","direction":"system"} farmTime=1660827169,farmKey=null,pastureKey=15c940eb8e0f56efbc6736b4ff25dc1b6e7dbfa4,uIdx=646527948,serial=-1
+20:52:48: Post:313-375 
+20:52:43: GetMyPasture:437-437 20:52:44
+20:52:42: 触发自家刷新:Animals-sid:5-2022/8/18 20:52:43
+20:51:22: GetMCXunBaoHome:1078-438 
+20:51:15: MCSpriteBag:328-438 
+20:51:10: MCGetSpritePKHome:359-459 
+20:51:05: MCGetSprite:343-463 
+20:50:59: MCSpriteRank:516-523 
+20:50:54: BirdBag:312-437 
+20:50:48: GetTreeHome:328-388 
+20:50:48: GetMCHelp:312-448 
+20:50:43: GetMyHigh:328-459 
+20:50:43: {"code":-5,"direction":"动物收获数量不足~","poptype":3,"ret":-5}
+20:50:37: MCHBookOpenBox:360-430 
+20:50:37: {"code":-5,"direction":"动物收获数量不足~","poptype":3,"ret":-5}
+20:50:32: GetMCHelp:329-396 
+20:50:32: MCHBookOpenBox:329-463 
+20:50:32: 牧场小手
+20:50:32: {"code":-5,"direction":"动物收获数量不足~","poptype":3,"ret":-5}
+20:50:27: MCHBookOpenBox:312-419 
+20:50:26: {"code":-5,"direction":"动物收获数量不足~","poptype":3,"ret":-5}
+20:50:21: MCHBookOpenBox:328-419 
+20:50:16: MCHBookHome:312-438 
+20:50:10: GetMyPasture:453-573 20:50:11
+20:40:19: GetMyPasture:454-410 20:40:20
+20:40:12: MCGetBag:343-367 
+20:40:12: 收获 副产品 [雪貂崽]×14只 经验+9 金币+1162
+20:40:07: HarvestP:375-392 
+20:40:02: GetMyPasture:453-409 20:40:02
+20:40:01: 触发自家刷新:Animals-sid:7-2022/8/18 20:40:01
+20:39:46: 在 【独孤悠然6】 的牧场 赶 [雪貂] 生产 经验+5
+20:39:41: Post:328-366 
+20:39:36: GetMyPasture:468-404 20:39:36
+20:39:35: 触发自家刷新:Animals-sid:7-2022/8/18 20:39:36
+20:35:27: GetMCHelp:313-321 
+20:35:27: 牧场小手
+20:31:11: GetMyPasture:437-465 20:31:12
+20:21:22: GetMCXunBaoHome:1157-351 
+20:21:15: MCSpriteBag:344-351 
+20:21:10: MCGetSpritePKHome:344-358 
+20:21:05: MCGetSprite:328-373 
+20:20:59: MCSpriteRank:515-419 
+20:20:54: BirdBag:312-323 
+20:20:48: GetTreeHome:343-335 
+20:20:48: GetMCHelp:328-328 
+20:20:43: GetMyHigh:313-329 
+20:20:42: {"code":-5,"direction":"动物收获数量不足~","poptype":3,"ret":-5}
+20:20:37: MCHBookOpenBox:360-345 
+20:20:37: {"code":-5,"direction":"动物收获数量不足~","poptype":3,"ret":-5}
+20:20:32: MCHBookOpenBox:328-330 
+20:20:32: {"code":-5,"direction":"动物收获数量不足~","poptype":3,"ret":-5}
+20:20:27: MCHBookOpenBox:328-333 
+20:20:26: {"code":-5,"direction":"动物收获数量不足~","poptype":3,"ret":-5}
+20:20:21: GetMCHelp:328-338 
+20:20:21: MCHBookOpenBox:344-349 
+20:20:21: 牧场小手
+20:20:16: MCHBookHome:328-355 
+20:20:10: GetMyPasture:422-383 20:20:11
+20:17:48: GetMyPasture:独孤悠然7:437-415 20:17:48
+20:17:47: 在 【独孤悠然7】 的牧场抓取 [汗血宝马崽] ×1只 金币+88
+20:17:42: Steal:独孤悠然7:375-393 
+20:17:36: GetMyPasture:独孤悠然7:437-412 20:17:36
+20:17:36: 触发 [独孤悠然7] 12偷取
+20:17:21: 在 【独孤悠然7】 的牧场 赶 [汗血宝马] 生产 经验+2
+20:17:16: Post:独孤悠然7:359-388 
+20:17:10: GetMyPasture:独孤悠然7:422-417 20:17:10
+20:17:10: 触发 [独孤悠然7] 12赶产-2022/8/18 20:17:10-2022/8/18 20:17:10-44791.8452553472
+20:16:50: 正在对时 [独孤悠然7] 的牧场2022/8/18 20:17:10
+20:06:59: GetMyPasture:468-419 20:07:00
+20:06:53: MCGetBag:328-370 
+20:06:52: 收获 副产品 [海狗崽]×14只 经验+10 金币+1288
+20:06:47: HarvestP:391-412 
+20:06:42: GetMyPasture:453-434 20:06:42
+20:06:41: 触发自家刷新:Animals-sid:10-2022/8/18 20:06:42
+20:06:21: GetMyPasture:438-415 20:06:22
+20:06:21: 触发自家刷新:Animals-sid:10-2022/8/18 20:06:16
+20:06:16: GetMyPasture:453-393 
+20:06:15: 触发自家刷新:Animals-sid:10-2022/8/18 20:06:16
+20:05:16: GetMCHelp:312-333 
+20:05:16: 牧场小手
+19:59:55: GetMyPasture:独孤悠然:438-398 19:59:56
+19:59:54: {"errorCode":"-11006","errorContent":"手下留情,给主人留一点吧","errorType":"logic"}
+19:59:49: Steal:独孤悠然:328-358 
+19:59:43: GetMyPasture:独孤悠然:422-389 19:59:44
+19:59:43: 触发 [独孤悠然] 14偷取
+19:59:23: {"poptype":3,"addExp":0,"animal":"","ecode":-11003,"errorCode":-11003,"errorType":"1007","errorContent":"system","direction":"system"} farmTime=1660823963,farmKey=null,pastureKey=84596212b2fe42d1e4166d270c8d6b25dbdbadb2,uIdx=646527948,uId=2502702211,nick=独孤悠然6,serial=-1
+19:59:23: Post:独孤悠然:328-357 
+19:59:18: GetMyPasture:独孤悠然:422-415 19:59:18
+19:59:17: 触发 [独孤悠然] 14赶产-2022/8/18 19:59:17-2022/8/18 19:59:17-44791.8328365509
+19:58:57: 正在对时 [独孤悠然] 的牧场2022/8/18 19:59:17
+19:53:37: GetMyPasture:独孤悠然:437-408 19:53:37
+19:53:36: 在 【独孤悠然】 的牧场抓取 [金丝猴崽] ×1只 金币+89
+19:53:31: Steal:独孤悠然:360-380 
+19:53:25: GetMyPasture:独孤悠然:453-400 19:53:25
+19:53:25: 触发 [独孤悠然] 16偷取
+19:53:05: {"poptype":3,"addExp":0,"animal":"","ecode":-11003,"errorCode":-11003,"errorType":"1007","errorContent":"system","direction":"system"} farmTime=1660823584,farmKey=null,pastureKey=f2ee52b9e992de419961a3df250a7b0170526c62,uIdx=646527948,uId=2502702211,nick=独孤悠然6,serial=-1
+19:53:05: Post:独孤悠然:312-348 
+19:52:59: GetMyPasture:独孤悠然:422-384 19:52:59
+19:52:59: 触发 [独孤悠然] 16赶产-2022/8/18 19:52:59-2022/8/18 19:52:59-44791.8284615509
+19:52:39: 正在对时 [独孤悠然] 的牧场2022/8/18 19:52:59
+19:51:45: MCSpriteBag:312-346 
+19:51:40: MCGetSpritePKHome:375-381 
+19:51:34: MCGetSprite:344-388 
+19:51:29: MCSpriteRank:516-433 
+19:51:29: 与[菊花兔]玩耍 金币+15000  (小:2088 中:146 大:3)
+19:51:24: GetMCXunBaoHome:1062-350 
+19:51:23: MCSpritePlay:359-350 
+19:51:17: MCSpriteBag:313-342 
+19:51:12: MCGetSpritePKHome:359-372 
+19:51:07: MCGetSprite:343-385 
+19:51:01: MCSpriteRank:531-428 
+19:50:56: BirdBag:312-325 
+19:50:50: GetMCHelp:344-338 
+19:50:50: GetTreeHome:312-332 
+19:50:45: GetMyHigh:359-353 
+19:50:44: {"code":-5,"direction":"动物收获数量不足~","poptype":3,"ret":-5}
+19:50:39: MCHBookOpenBox:344-347 
+19:50:39: {"code":-5,"direction":"动物收获数量不足~","poptype":3,"ret":-5}
+19:50:34: MCHBookOpenBox:344-350 
+19:50:34: {"code":-5,"direction":"动物收获数量不足~","poptype":3,"ret":-5}
+19:50:29: MCHBookOpenBox:344-356 
+19:50:28: {"code":-5,"direction":"动物收获数量不足~","poptype":3,"ret":-5}
+19:50:23: MCHBookOpenBox:344-368 
+19:50:18: GetMyPasture:独孤悠然7:422-393 19:50:18
+19:50:17: MCHBookHome:329-365 
+19:50:11: GetMyPasture:独孤悠然:422-401 19:50:11
+19:50:11: GetMyPasture:422-380 19:50:11
+19:50:11: GetMCHelp:312-338 
+19:50:11: 休息完毕，开启工作
+19:46:49: 总计好友：3个
+19:46:49: 读取校友好友：0个（校友已关停，无法读取）
+19:46:49: 读取空间好友：3个
+19:46:44: GetMCFriend:609-507 
+19:46:41: 自动校验服务器时间
+19:42:11: GetMyPasture:453-411 19:42:12
+19:38:54: 触发 [独孤悠然7] 10赶产-2022/8/18 19:38:55-2022/8/18 19:38:55-44791.8186928472
+19:38:34: 正在对时 [独孤悠然7] 的牧场2022/8/18 19:38:55
+19:31:48: 触发 [独孤悠然] 7赶产-2022/8/18 19:31:49-2022/8/18 19:31:49-44791.8137624768
+19:31:29: 正在对时 [独孤悠然] 的牧场2022/8/18 19:31:49
+19:31:11: GetMyPasture:438-399 19:31:12
+19:21:22: GetMCXunBaoHome:1016-362 
+19:21:16: MCSpriteBag:344-362 
+19:21:11: MCGetSpritePKHome:391-381 
+19:21:05: MCGetSprite:328-372 
+19:21:00: MCSpriteRank:500-416 
+19:20:54: BirdBag:328-333 
+19:20:49: GetMCHelp:343-339 
+19:20:49: GetTreeHome:328-335 
+19:20:44: GetMyHigh:344-343 
+19:20:43: {"code":-5,"direction":"动物收获数量不足~","poptype":3,"ret":-5}
+19:20:38: MCHBookOpenBox:360-342 
+19:20:38: {"code":-5,"direction":"动物收获数量不足~","poptype":3,"ret":-5}
+19:20:33: MCHBookOpenBox:313-325 
+19:20:33: {"code":-5,"direction":"动物收获数量不足~","poptype":3,"ret":-5}
+19:20:27: MCHBookOpenBox:328-337 
+19:20:27: {"code":-5,"direction":"动物收获数量不足~","poptype":3,"ret":-5}
+19:20:22: MCHBookOpenBox:328-347 
+19:20:17: MCHBookHome:328-366 
+19:20:11: GetMyPasture:453-404 19:20:11
+19:20:11: 自动休息
+19:13:06: GetMyPasture:437-399 19:13:07
+19:13:00: MCGetBag:344-361 
+19:13:00: 收获 副产品 [大象崽]×18只 经验+12 金币+1692
+19:12:54: HarvestP:360-379 
+19:12:49: GetMyPasture:437-398 19:12:49
+19:12:49: 触发自家刷新:Animals-sid:1-2022/8/18 19:12:48
+19:12:33: 在 【独孤悠然6】 的牧场 赶 [大象] 生产 经验+5
+19:12:28: Post:328-360 
+19:12:23: GetMyPasture:454-392 19:12:23
+19:12:23: 触发自家刷新:Animals-sid:1-2022/8/18 19:12:23
+19:05:49: GetMCHelp:312-357 
+19:05:48: 牧场小手
+19:04:25: GetMyPasture:独孤悠然7:438-403 19:04:26
+19:04:24: {"errorCode":"-10000","errorContent":"系统繁忙，请稍候重试。","errorType":"system"}
+19:04:19: Steal:独孤悠然7:328-369 
+19:04:13: GetMyPasture:独孤悠然7:453-411 19:04:14
+19:04:13: 触发 [独孤悠然7] 3偷取
+19:03:53: {"poptype":3,"addExp":0,"animal":"","ecode":-11003,"errorCode":-11003,"errorType":"1007","errorContent":"system","direction":"system"} farmTime=1660820633,farmKey=null,pastureKey=644ff01204c1e99d891431788283f5e051709fdd,uIdx=646527948,uId=786727825,nick=独孤悠然6,serial=-1
+19:03:53: Post:独孤悠然7:328-369 
+19:03:47: GetMyPasture:独孤悠然7:438-410 19:03:48
+19:03:47: 触发 [独孤悠然7] 3赶产-2022/8/18 19:03:47-2022/8/18 19:03:47-44791.7942948843
+19:03:27: 正在对时 [独孤悠然7] 的牧场2022/8/18 19:03:47
+18:55:10: GetMyPasture:453-409 18:55:10
+18:55:04: MCGetBag:328-366 
+18:55:03: 收获 副产品 [考拉崽]×14只 经验+11 金币+1176
+18:54:58: HarvestP:406-405 
+18:54:53: GetMyPasture:453-405 18:54:53
+18:54:52: 触发自家刷新:Animals-sid:11-2022/8/18 18:54:52
+18:54:32: {"poptype":3,"addExp":0,"animal":"","ecode":-11003,"errorCode":-11003,"errorType":"1007","errorContent":"system","direction":"system"} farmTime=1660820072,farmKey=null,pastureKey=dbf73be73155b7bbb51a84f81647bfdffad65448,uIdx=646527948,serial=-1
+18:54:32: Post:313-358 
+18:54:27: GetMyPasture:453-403 18:54:27
+18:54:26: 触发自家刷新:Animals-sid:11-2022/8/18 18:54:26
+18:51:28: GetMCXunBaoHome:844-353 
+18:51:22: MCSpriteBag:328-353 
+18:51:16: MCGetSpritePKHome:360-378 
+18:51:11: MCGetSprite:359-397 
+18:51:06: MCSpriteRank:547-436 
+18:51:00: BirdBag:328-325 
+18:50:55: GetTreeHome:329-322 
+18:50:55: GetMCHelp:313-315 
+18:50:49: GetMyHigh:313-318 
+18:50:49: {"code":-5,"direction":"动物收获数量不足~","poptype":3,"ret":-5}
+18:50:44: GetMCHelp:313-323 
+18:50:44: MCHBookOpenBox:328-334 
+18:50:43: 牧场小手
+18:50:43: {"code":-5,"direction":"动物收获数量不足~","poptype":3,"ret":-5}
+18:50:38: MCHBookOpenBox:344-340 
+18:50:38: {"code":-5,"direction":"动物收获数量不足~","poptype":3,"ret":-5}
+18:50:33: MCHBookOpenBox:328-337 
+18:50:33: {"code":-5,"direction":"动物收获数量不足~","poptype":3,"ret":-5}
+18:50:28: MCHBookOpenBox:344-346 
+18:50:22: MCHBookHome:328-348 
+18:50:22: 在 【独孤悠然6】 的牧场 收集便便×1 金币+30
+18:50:17: ClearDejecta:344-368 
+18:50:11: GetMyPasture:437-393 18:50:11
+18:49:01: 在 【独孤悠然6】 的牧场 打蚊子×2 经验+6
+18:48:56: KillMosquito:344-350 
+18:48:55: 在 【独孤悠然6】 的牧场 打蚊子×3 经验+9
+18:48:50: KillMosquito:343-352 
+18:48:45: GetMyPasture:454-408 18:48:45
+18:37:44: GetMyPasture:独孤悠然:437-414 18:37:44
+18:37:43: 在 【独孤悠然】 的牧场抓取 [袋食蚁兽崽] ×1只 金币+94
+18:37:38: Steal:独孤悠然:375-392 
+18:37:32: GetMyPasture:独孤悠然:437-410 18:37:32
+18:37:32: 触发 [独孤悠然] 1偷取
+18:37:17: 在 【独孤悠然】 的牧场 赶 [袋食蚁兽] 生产 经验+2
+18:37:12: Post:独孤悠然:391-383 
+18:37:06: GetMyPasture:独孤悠然:422-376 18:37:06
+18:37:06: 触发 [独孤悠然] 1赶产-2022/8/18 18:37:06-2022/8/18 18:37:06-44791.7757647917
+18:36:46: 正在对时 [独孤悠然] 的牧场2022/8/18 18:37:06
+18:35:38: GetMCHelp:328-330 
+18:35:38: 牧场小手
+18:31:11: GetMyPasture:422-429 18:31:12
+18:22:00: BirdBag:344-334 
+18:21:55: GetTreeHome:313-324 
+18:21:55: 派遣飞鸟 [S]金丝雀(9级) 去觅食 金币-98000
+18:21:49: BirdWork:344-335 
+18:21:44: BirdBag:328-326 
+18:21:39: GetTreeHome:312-325 
+18:21:21: GetMCXunBaoHome:859-338 
+18:21:15: MCSpriteBag:312-338 
+18:21:10: MCGetSpritePKHome:360-364 
+18:21:05: MCGetSprite:328-369 
+18:20:59: MCSpriteRank:500-410 
+18:20:54: BirdBag:313-320 
+18:20:48: GetTreeHome:328-327 
+18:20:48: GetMCHelp:312-327 
+18:20:43: GetMyHigh:359-343 
+18:20:43: {"code":-5,"direction":"动物收获数量不足~","poptype":3,"ret":-5}
+18:20:37: MCHBookOpenBox:329-328 
+18:20:37: {"code":-5,"direction":"动物收获数量不足~","poptype":3,"ret":-5}
+18:20:32: GetMCHelp:313-327 
+18:20:32: MCHBookOpenBox:344-341 
+18:20:32: 牧场小手
+18:20:32: {"code":-5,"direction":"动物收获数量不足~","poptype":3,"ret":-5}
+18:20:27: MCHBookOpenBox:328-339 
+18:20:26: {"code":-5,"direction":"动物收获数量不足~","poptype":3,"ret":-5}
+18:20:21: MCHBookOpenBox:344-351 
+18:20:16: MCHBookHome:313-358 
+18:20:10: GetMyPasture:437-403 18:20:11
+18:12:48: GetMyPasture:独孤悠然7:406-379 18:12:49
+18:12:47: {"errorCode":"-11006","errorContent":"手下留情,给主人留一点吧","errorType":"logic"}
+18:12:42: Steal:独孤悠然7:312-352 
+18:12:37: GetMyPasture:独孤悠然7:437-393 18:12:37
+18:12:36: 触发 [独孤悠然7] 17偷取
+18:12:16: {"poptype":3,"addExp":0,"animal":"","ecode":-11003,"errorCode":-11003,"errorType":"1007","errorContent":"system","direction":"system"} farmTime=1660817536,farmKey=null,pastureKey=1ef2c1a722853a088ecf9b64185f0c9b57c517e9,uIdx=646527948,uId=786727825,nick=独孤悠然6,serial=-1
+18:12:16: Post:独孤悠然7:344-370 
+18:12:11: GetMyPasture:独孤悠然7:437-397 18:12:11
+18:12:10: 触发 [独孤悠然7] 17赶产-2022/8/18 18:12:10-2022/8/18 18:12:10-44791.7584498032
+18:11:49: 正在对时 [独孤悠然7] 的牧场2022/8/18 18:12:10
+18:05:27: GetMCHelp:312-340 
+18:05:26: 牧场小手
+18:02:38: GetMyPasture:独孤悠然7:437-409 18:02:39
+18:02:37: 在 【独孤悠然7】 的牧场抓取 [肉鸡崽] ×1只 金币+23
+18:02:32: Steal:独孤悠然7:375-381 
+18:02:26: GetMyPasture:独孤悠然7:421-387 18:02:27
+18:02:26: 触发 [独孤悠然7] 5偷取
+18:02:06: {"poptype":3,"addExp":0,"animal":"","ecode":-11003,"errorCode":-11003,"errorType":"1007","errorContent":"system","direction":"system"} farmTime=1660816926,farmKey=null,pastureKey=8a802b694bd31297b9bd301fbb49b9ae9d8905da,uIdx=646527948,uId=786727825,nick=独孤悠然6,serial=-1
+18:02:06: Post:独孤悠然7:328-364 
+18:02:01: GetMyPasture:独孤悠然7:453-400 18:02:01
+18:02:00: 触发 [独孤悠然7] 5赶产-2022/8/18 18:02:01-2022/8/18 18:02:01-44791.7514013657
+18:01:40: 正在对时 [独孤悠然7] 的牧场2022/8/18 18:02:01
+18:00:58: GetMyPasture:437-403 18:00:59
+18:00:52: MCGetBag:343-367 
+18:00:52: 收获 副产品 [鸭嘴兽崽]×13只 经验+9 金币+1066
+18:00:47: HarvestP:375-391 
+18:00:41: GetMyPasture:453-408 18:00:41
+18:00:41: 触发自家刷新:Animals-sid:19-2022/8/18 18:00:40
+18:00:26: 在 【独孤悠然6】 的牧场 赶 [鸭嘴兽] 生产 经验+5
+18:00:21: Post:344-364 
+18:00:16: GetMyPasture:437-384 18:00:15
+18:00:15: 触发自家刷新:Animals-sid:19-2022/8/18 18:00:15
+17:59:59: GetMyPasture:453-394 18:00:00
+17:59:53: MCGetBag:312-335 
+17:59:53: 收获 副产品 [斑马崽]×11只 经验+9 金币+902
+17:59:48: HarvestP:360-358 
+17:59:42: GetMyPasture:422-429 17:59:43
+17:59:42: 触发自家刷新:Animals-sid:4-2022/8/18 17:59:42
+17:59:22: {"poptype":3,"addExp":0,"animal":"","ecode":-11003,"errorCode":-11003,"errorType":"1007","errorContent":"system","direction":"system"} farmTime=1660816762,farmKey=null,pastureKey=77ec3e44e6accb4278de9d564113d65064cbac02,uIdx=646527948,serial=-1
+17:59:22: Post:344-366 
+17:59:16: GetMyPasture:438-397 17:59:17
+17:59:16: 触发自家刷新:Animals-sid:4-2022/8/18 17:59:16
+17:51:21: GetMCXunBaoHome:922-353 
+17:51:15: MCSpriteBag:328-353 
+17:51:10: MCGetSpritePKHome:359-378 
+17:51:05: MCGetSprite:360-397 
+17:50:59: MCSpriteRank:532-434 
+17:50:54: BirdBag:344-336 
+17:50:48: GetTreeHome:328-328 
+17:50:48: GetMCHelp:328-329 
+17:50:43: GetMyHigh:328-330 
+17:50:42: {"code":-5,"direction":"动物收获数量不足~","poptype":3,"ret":-5}
+17:50:37: MCHBookOpenBox:328-332 
+17:50:37: {"code":-5,"direction":"动物收获数量不足~","poptype":3,"ret":-5}
+17:50:32: MCHBookOpenBox:344-337 
+17:50:32: {"code":-5,"direction":"动物收获数量不足~","poptype":3,"ret":-5}
+17:50:27: MCHBookOpenBox:328-330 
+17:50:26: {"code":-5,"direction":"动物收获数量不足~","poptype":3,"ret":-5}
+17:50:21: GetMCHelp:312-333 
+17:50:21: MCHBookOpenBox:328-354 
+17:50:21: 牧场小手
+17:50:16: MCHBookHome:344-380 
+17:50:10: GetMyPasture:453-416 17:50:11
+17:46:49: 总计好友：3个
+17:46:49: 读取校友好友：0个（校友已关停，无法读取）
+17:46:49: 读取空间好友：3个
+17:46:44: GetMCFriend:344-341 
+17:46:41: 自动校验服务器时间
+17:46:38: GetMyPasture:437-386 17:46:38
+17:35:37: GetMyPasture:438-389 17:35:38
+17:35:16: GetMCHelp:343-340 
+17:35:16: 牧场小手
+17:24:37: GetMyPasture:453-405 17:24:37
+17:24:31: MCGetBag:328-358 
+17:24:30: 收获 副产品 [汗血宝马崽]×11只 经验+8 金币+968
+17:24:25: HarvestP:375-389 
+17:24:20: GetMyPasture:453-404 17:24:20
+17:24:19: 触发自家刷新:Animals-sid:14-2022/8/18 17:24:19
+17:23:59: {"poptype":3,"addExp":0,"animal":"","ecode":-11003,"errorCode":-11003,"errorType":"1007","errorContent":"system","direction":"system"} farmTime=1660814639,farmKey=null,pastureKey=9ad5881cca6ab75bef8859f5149424dab3dd1ed9,uIdx=646527948,serial=-1
+17:23:59: Post:313-356 
+17:23:54: GetMyPasture:422-399 17:23:54
+17:23:53: 触发自家刷新:Animals-sid:14-2022/8/18 17:23:53
+17:21:22: GetMCXunBaoHome:781-376 
+17:21:16: MCSpriteBag:312-376 
+17:21:11: MCGetSpritePKHome:391-438 
+17:21:06: MCGetSprite:344-416 
+17:21:00: MCSpriteRank:516-482 
+17:20:55: BirdBag:328-392 
+17:20:49: GetTreeHome:328-356 
+17:20:49: GetMCHelp:312-385 
+17:20:44: GetMyHigh:328-400 
+17:20:43: {"code":-5,"direction":"动物收获数量不足~","poptype":3,"ret":-5}
+17:20:38: MCHBookOpenBox:344-391 
+17:20:38: {"code":-5,"direction":"动物收获数量不足~","poptype":3,"ret":-5}
+17:20:33: MCHBookOpenBox:328-395 
+17:20:33: {"code":-5,"direction":"动物收获数量不足~","poptype":3,"ret":-5}
+17:20:28: MCHBookOpenBox:344-395 
+17:20:27: {"code":-5,"direction":"动物收获数量不足~","poptype":3,"ret":-5}
+17:20:22: MCHBookOpenBox:359-429 
+17:20:17: MCHBookHome:344-437 
+17:20:11: GetMyPasture:独孤悠然7:422-427 17:20:11
+17:20:11: GetMyPasture:453-433 17:20:11
+17:20:11: GetMCHelp:312-414 
+17:20:11: 休息完毕，开启工作
+17:12:11: GetMyPasture:562-466 17:12:12
+17:12:04: MCGetBag:344-370 
+17:12:04: 收获 副产品 [河马崽]×13只 经验+10 金币+1040
+17:11:59: HarvestP:391-396 
+17:11:53: GetMyPasture:422-401 17:11:54
+17:11:53: 触发自家刷新:Animals-sid:20-2022/8/18 17:11:53
+17:11:38: 在 【独孤悠然6】 的牧场 赶 [河马] 生产 经验+5
+17:11:33: Post:344-381 
+17:11:28: GetMyPasture:453-418 17:11:28
+17:11:27: 触发自家刷新:Animals-sid:20-2022/8/18 17:11:28
+17:01:11: GetMyPasture:453-408 17:01:12
+16:51:22: GetMCXunBaoHome:938-352 
+16:51:19: 触发 [独孤悠然7] 18赶产-2022/8/18 16:51:19-2022/8/18 16:51:19-44791.7023039583
+16:51:16: MCSpriteBag:328-352 
+16:51:11: MCGetSpritePKHome:375-377 
+16:51:05: MCGetSprite:328-380 
+16:51:00: MCSpriteRank:532-432 
+16:50:59: 正在对时 [独孤悠然7] 的牧场2022/8/18 16:51:19
+16:50:55: BirdBag:328-332 
+16:50:49: GetMCHelp:344-337 
+16:50:49: GetTreeHome:328-330 
+16:50:44: GetMyHigh:328-332 
+16:50:43: {"code":-5,"direction":"动物收获数量不足~","poptype":3,"ret":-5}
+16:50:38: MCHBookOpenBox:328-336 
+16:50:38: {"code":-5,"direction":"动物收获数量不足~","poptype":3,"ret":-5}
+16:50:33: MCHBookOpenBox:328-344 
+16:50:33: {"code":-5,"direction":"动物收获数量不足~","poptype":3,"ret":-5}
+16:50:28: MCHBookOpenBox:359-360 
+16:50:27: {"code":-5,"direction":"动物收获数量不足~","poptype":3,"ret":-5}
+16:50:22: MCHBookOpenBox:344-361 
+16:50:17: MCHBookHome:344-378 
+16:50:11: GetMyPasture:468-412 16:50:11
+16:50:11: 自动休息
+16:41:54: GetMyPasture:独孤悠然7:438-403 16:41:54
+16:41:52: {"errorCode":"-11006","errorContent":"手下留情,给主人留一点吧","errorType":"logic"}
+16:41:47: Steal:独孤悠然7:328-368 
+16:41:42: GetMyPasture:独孤悠然7:437-408 16:41:42
+16:41:41: 触发 [独孤悠然7] 15偷取
+16:41:21: {"poptype":3,"addExp":0,"animal":"","ecode":-11003,"errorCode":-11003,"errorType":"1007","errorContent":"system","direction":"system"} farmTime=1660812081,farmKey=null,pastureKey=0e60fd36953677ba63be4f61f73adc0981fcce6b,uIdx=646527948,uId=786727825,nick=独孤悠然6,serial=-1
+16:41:21: Post:独孤悠然7:328-379 
+16:41:16: GetMyPasture:独孤悠然7:453-431 16:41:16
+16:41:15: 触发 [独孤悠然7] 15赶产-2022/8/18 16:41:15-2022/8/18 16:41:15-44791.6953132176
+16:40:55: 正在对时 [独孤悠然7] 的牧场2022/8/18 16:41:15
+16:40:28: GetMyPasture:453-410 16:40:28
+16:40:22: MCGetBag:328-368 
+16:40:21: 收获 副产品 [金丝猴崽]×8只 经验+5 金币+712
+16:40:16: HarvestP:390-409 
+16:40:11: GetMyPasture:454-428 16:40:11
+16:40:10: 触发自家刷新:Animals-sid:18-2022/8/18 16:40:10
+16:40:02: GetMyPasture:独孤悠然:437-402 16:40:02
+16:40:01: {"errorCode":"-11006","errorContent":"手下留情,给主人留一点吧","errorType":"logic"}
+16:39:56: Steal:独孤悠然:344-367 
+16:39:50: GetMyPasture:独孤悠然:422-390 16:39:50
+16:39:50: 触发 [独孤悠然] 17偷取
+16:39:48: {"poptype":3,"addExp":0,"animal":"","ecode":-11003,"errorCode":-11003,"errorType":"1007","errorContent":"system","direction":"system"} farmTime=1660811987,farmKey=null,pastureKey=4ea3eb99a6ec6134fd0bff3447b02296a1c505c7,uIdx=646527948,serial=-1
+16:39:48: Post:312-359 
+16:39:42: GetMyPasture:437-406 16:39:42
+16:39:42: 触发自家刷新:Animals-sid:18-2022/8/18 16:39:42
+16:39:29: {"poptype":3,"addExp":0,"animal":"","ecode":-11003,"errorCode":-11003,"errorType":"1007","errorContent":"system","direction":"system"} farmTime=1660811969,farmKey=null,pastureKey=1e705d1506b3eb7a901b9cdf541e20ed35686b27,uIdx=646527948,uId=2502702211,nick=独孤悠然6,serial=-1
+16:39:29: Post:独孤悠然:328-376 
+16:39:24: GetMyPasture:独孤悠然:438-424 16:39:24
+16:39:23: 触发 [独孤悠然] 17赶产-2022/8/18 16:39:23-2022/8/18 16:39:23-44791.6940165625
+16:39:03: 正在对时 [独孤悠然] 的牧场2022/8/18 16:39:23
+16:36:35: GetMyPasture:453-410 16:36:35
+16:36:35: 触发自家刷新:Empty WoMaxNum:0-10 PeMaxNum:1-9
+16:36:30: MCGetBag:344-368 
+16:36:29: 购买 [中美貘] ×1只 金币-18900 经验+0
+16:36:24: BuyAnimal:391-393 
+16:36:24: 您选择了 [点亮图鉴]或[点亮3星]，正在放养 [未点亮]或[未3星] 幼崽
+16:36:19: GetMyPasture:453-395 16:36:19
+16:36:12: MCCheckBooksList:313-338 
+16:36:07: MCMyHistory:343-363 
+16:36:07: 收获 动物 [中美貘]×1 经验+10 金币+19750
+16:36:02: HarvestA:375-384 
+16:35:56: GetMyPasture:453-393 16:35:56
+16:35:56: 触发自家刷新:Animals-sid:2-2022/8/18 16:35:56
+16:35:49: GetMCHelp:313-333 
+16:35:49: 牧场小手
+16:32:32: GetMyPasture:独孤悠然:438-394 16:32:32
+16:32:30: {"errorCode":"-11006","errorContent":"手下留情,给主人留一点吧","errorType":"logic"}
+16:32:25: Steal:独孤悠然:328-351 
+16:32:20: GetMyPasture:独孤悠然:421-375 16:32:20
+16:32:19: 触发 [独孤悠然] 19偷取
+16:31:59: {"poptype":3,"addExp":0,"animal":"","ecode":-11003,"errorCode":-11003,"errorType":"1007","errorContent":"system","direction":"system"} farmTime=1660811519,farmKey=null,pastureKey=0762030d33ac30b759e072b501b9be53823106fa,uIdx=646527948,uId=2502702211,nick=独孤悠然6,serial=-1
+16:31:59: Post:独孤悠然:312-348 
+16:31:54: GetMyPasture:独孤悠然:422-385 16:31:54
+16:31:53: 触发 [独孤悠然] 19赶产-2022/8/18 16:31:53-2022/8/18 16:31:53-44791.6888131134
+16:31:33: 正在对时 [独孤悠然] 的牧场2022/8/18 16:31:53
+16:21:59: BirdBag:313-323 
+16:21:54: GetTreeHome:328-333 
+16:21:54: 卖出金苹果×110  金钻+440
+16:21:48: BirdSale:344-338 
+16:21:43: BirdBag:312-332 
+16:21:43: 在栖息大树收获 [S]金丝雀(9级) 金苹果+110 精力值+30 飞鸟神羽+1
+16:21:38: BirdHarvest:328-352 
+16:21:32: GetTreeHome:344-377 
+16:21:28: GetMyPasture:独孤悠然:438-410 16:21:29
+16:21:26: 在 【独孤悠然】 的牧场抓取 [三叶草河马崽] ×1只 金币+70
+16:21:21: Steal:独孤悠然:375-382 
+16:21:16: GetMyPasture:独孤悠然:437-390 16:21:17
+16:21:15: 触发 [独孤悠然] 5偷取
+16:21:12: GetMCXunBaoHome:953-344 
+16:21:06: MCSpriteBag:328-344 
+16:21:01: MCGetSpritePKHome:359-360 
+16:20:55: {"poptype":3,"addExp":0,"animal":"","ecode":-11003,"errorCode":-11003,"errorType":"1007","errorContent":"system","direction":"system"} farmTime=1660810856,farmKey=null,pastureKey=bf08ba927a437be58da7cd499cc54dc10b77289e,uIdx=646527948,uId=2502702211,nick=独孤悠然6,serial=-1
+16:20:55: Post:独孤悠然:344-361 
+16:20:55: MCGetSprite:329-379 
+16:20:50: GetMyPasture:独孤悠然:438-430 16:20:51
+16:20:50: 触发 [独孤悠然] 5赶产-2022/8/18 16:20:50-2022/8/18 16:20:50-44791.681135162
+16:20:49: MCSpriteRank:516-422 
+16:20:43: GetMCHelp:328-329 
+16:20:43: 牧场小手
+16:20:43: BirdBag:328-331 
+16:20:37: GetTreeHome:344-335 
+16:20:37: GetMCHelp:328-326 
+16:20:32: GetMyHigh:313-324 
+16:20:31: {"code":-5,"direction":"动物收获数量不足~","poptype":3,"ret":-5}
+16:20:30: 正在对时 [独孤悠然] 的牧场2022/8/18 16:20:50
+16:20:26: MCHBookOpenBox:328-335 
+16:20:26: {"code":-5,"direction":"动物收获数量不足~","poptype":3,"ret":-5}
+16:20:21: MCHBookOpenBox:312-342 
+16:20:16: MCHBookHome:344-372 
+16:20:10: GetMyPasture:453-401 16:20:11
+16:11:47: GetMyPasture:独孤悠然:438-410 16:11:47
+16:11:45: {"errorCode":"-11006","errorContent":"手下留情,给主人留一点吧","errorType":"logic"}
+16:11:40: Steal:独孤悠然:375-383 
+16:11:35: GetMyPasture:独孤悠然:437-477 16:11:35
+16:11:34: 触发 [独孤悠然] 11偷取
+16:11:14: {"poptype":3,"addExp":0,"animal":"","ecode":-11003,"errorCode":-11003,"errorType":"1007","errorContent":"system","direction":"system"} farmTime=1660810274,farmKey=null,pastureKey=5e8db21c9f96ad93be51ab8cb9dc7713c511b4ed,uIdx=646527948,uId=2502702211,nick=独孤悠然6,serial=-1
+16:11:14: Post:独孤悠然:328-327 
+16:11:08: GetMyPasture:独孤悠然:422-479 16:11:09
+16:11:08: 触发 [独孤悠然] 11赶产-2022/8/18 16:11:08-2022/8/18 16:11:08-44791.6743988773
+16:10:48: 正在对时 [独孤悠然] 的牧场2022/8/18 16:11:08
+16:05:38: GetMCHelp:312-367 
+16:05:38: 牧场小手
+16:04:56: GetMyPasture:独孤悠然:422-407 16:04:56
+16:04:55: 在 【独孤悠然】 的牧场抓取 [考拉崽] ×1只 金币+84
+16:04:50: Steal:独孤悠然:375-392 
+16:04:44: GetMyPasture:独孤悠然:422-409 16:04:44
+16:04:44: 触发 [独孤悠然] 10偷取
+16:04:35: GetMyPasture:独孤悠然:438-396 16:04:35
+16:04:33: 在 【独】 的牧场 打蚊子×1 经验+3
+16:04:28: KillMosquito:独:344-355 
+16:04:28: 在 【独】 的牧场 打蚊子×2 经验+6
+16:04:23: KillMosquito:独:343-367 
+16:04:19: 触发 [独孤悠然] 10赶产-2022/8/18 16:04:18-2022/8/18 16:04:18-44791.6696535069
+16:04:17: GetMyPasture:独:406-392 16:04:17
+16:04:17: 触发 [独] 5赶产-2022/8/18 16:04:17-2022/8/18 16:04:17-44791.6696422917
+16:03:58: 正在对时 [独孤悠然] 的牧场2022/8/18 16:04:18
+16:03:57: 正在对时 [独] 的牧场2022/8/18 16:04:17
+16:01:12: GetMyPasture:468-431 16:01:12
+15:51:12: GetMCXunBaoHome:1140-350 
+15:51:06: MCSpriteBag:328-350 
+15:51:00: MCGetSpritePKHome:375-373 
+15:50:55: MCGetSprite:328-372 
+15:50:49: MCSpriteRank:500-416 
+15:50:44: BirdBag:328-332 
+15:50:39: GetMCHelp:344-336 
+15:50:39: GetTreeHome:328-329 
+15:50:33: GetMCHelp:313-331 
+15:50:33: GetMyHigh:328-350 
+15:50:33: 牧场小手
+15:50:33: {"code":-5,"direction":"动物收获数量不足~","poptype":3,"ret":-5}
+15:50:28: MCHBookOpenBox:329-373 
+15:50:27: {"code":-5,"direction":"动物收获数量不足~","poptype":3,"ret":-5}
+15:50:22: MCHBookOpenBox:343-418 
+15:50:17: MCHBookHome:578-493 
+15:50:11: GetMyPasture:437-409 15:50:11
+15:48:28: 在 【独孤悠然6】 的牧场 打蚊子×2 经验+6
+15:48:23: KillMosquito:375-366 
+15:48:23: 在 【独孤悠然6】 的牧场 打蚊子×2 经验+6
+15:48:18: KillMosquito:344-438 
+15:48:12: GetMyPasture:437-533 15:48:12
+15:47:12: 总计好友：3个
+15:47:12: 读取校友好友：0个（校友已关停，无法读取）
+15:47:12: 读取空间好友：3个
+15:47:12: {"code":0,"direction":"系统繁忙，请稍候重试","ecode":-10000,"poptype":3,"ret":-10000} farmTime=1660808831,farmKey=null,pastureKey=14919c7d73ee87dbc1aed29fe30f46ca8343909e,uIdx=646527948,user=true,act=mc,g_tk=330098645
+15:47:12: GetMCFriend:641-629 
+15:47:05: {"code":0,"direction":"系统繁忙，请稍候重试","ecode":-10000,"poptype":3,"ret":-10000} farmTime=1660808824,farmKey=null,pastureKey=26c4d51fc77c82309bf4191b4ad1df8c7d5ac5b9,uIdx=646527948,user=true,act=mc,g_tk=330098645
+15:47:05: GetMCFriend:609-618 
+15:46:58: {"code":0,"direction":"系统繁忙，请稍候重试","ecode":-10000,"poptype":3,"ret":-10000} farmTime=1660808817,farmKey=null,pastureKey=53385ba021483e185d3b54a08759c372faef0ab0,uIdx=646527948,user=true,act=mc,g_tk=330098645
+15:46:58: GetMCFriend:641-628 
+15:46:52: {"code":0,"direction":"系统繁忙，请稍候重试","ecode":-10000,"poptype":3,"ret":-10000} farmTime=1660808811,farmKey=null,pastureKey=75eb090a94a0f258ee2553df4f50d81a5a8b6d4f,uIdx=646527948,user=true,act=mc,g_tk=330098645
+15:46:52: GetMCFriend:625-615 
+15:46:41: 自动校验服务器时间
+15:36:24: GetMyPasture:438-427 15:36:24
+15:36:23: 触发自家刷新:Empty WoMaxNum:0-10 PeMaxNum:1-9
+15:36:18: MCGetBag:344-416 
+15:36:17: 购买 [鲸头鹳] ×1只 金币-18700 经验+0
+15:36:12: BuyAnimal:4578-488 
+15:36:08: 您选择了 [点亮图鉴]或[点亮3星]，正在放养 [未点亮]或[未3星] 幼崽
+15:36:02: GetMyPasture:500-488 15:36:03
+15:35:50: MCCheckBooksList:547-477 
+15:35:45: MCMyHistory:406-407 
+15:35:44: 收获 动物 [鲸头鹳]×1 经验+12 金币+19350
+15:35:39: HarvestA:375-408 
+15:35:33: GetMyPasture:1657-441 15:35:33
+15:35:31: 触发自家刷新:Animals-sid:15-2022/8/18 15:35:31
+15:35:27: GetMCHelp:344-441 
+15:35:27: 牧场小手
+15:31:13: GetMyPasture:875-393 15:31:14
+15:21:17: GetMCXunBaoHome:921-384 
+15:21:11: MCSpriteBag:391-384 
+15:21:06: MCGetSpritePKHome:375-378 
+15:21:00: MCGetSprite:344-382 
+15:20:55: MCSpriteRank:515-420 
+15:20:49: BirdBag:313-325 
+15:20:44: GetTreeHome:344-337 
+15:20:44: GetMCHelp:328-331 
+15:20:39: GetMyHigh:344-335 
+15:20:38: {"code":-5,"direction":"动物收获数量不足~","poptype":3,"ret":-5}
+15:20:33: MCHBookOpenBox:328-327 
+15:20:28: MCHBookHome:313-326 
+15:20:27: 在 【独孤悠然6】 的牧场 收集便便×1 金币+30
+15:20:22: GetMCHelp:313-339 
+15:20:22: ClearDejecta:344-365 
+15:20:22: 牧场小手
+15:20:22: 在 【独孤悠然6】 的牧场 收集便便×1 金币+30
+15:20:17: ClearDejecta:359-386 
+15:20:11: GetMyPasture:453-413 15:20:11
+15:09:43: GetMyPasture:独孤悠然7:422-391 15:09:43
+15:09:42: 触发 [独孤悠然7] 11赶产-2022/8/18 15:04:53-2022/8/18 15:09:42-44791.6283919213
+15:05:16: GetMCHelp:328-360 
+15:05:16: 牧场小手
+15:04:33: 正在对时 [独孤悠然7] 的牧场2022/8/18 15:04:53
+15:03:44: GetMyPasture:独孤悠然7:422-392 15:03:44
+15:03:42: {"errorCode":"-11006","errorContent":"手下留情,给主人留一点吧","errorType":"logic"}
+15:03:37: Steal:独孤悠然7:343-363 
+15:03:32: GetMyPasture:独孤悠然7:422-384 15:03:32
+15:03:32: 触发 [独孤悠然7] 13偷取
+15:03:12: {"poptype":3,"addExp":0,"animal":"","ecode":-11003,"errorCode":-11003,"errorType":"1007","errorContent":"system","direction":"system"} farmTime=1660806192,farmKey=null,pastureKey=b7cda8c5d296c19fe3644977c659d915d9851efb,uIdx=646527948,uId=786727825,nick=独孤悠然6,serial=-1
+15:03:12: Post:独孤悠然7:328-380 
+15:03:06: GetMyPasture:独孤悠然7:453-433 15:03:07
+15:03:06: 触发 [独孤悠然7] 13赶产-2022/8/18 15:03:06-2022/8/18 15:03:06-44791.6271536806
+15:02:46: 正在对时 [独孤悠然7] 的牧场2022/8/18 15:03:06
+14:59:50: GetMyPasture:独孤悠然:453-413 14:59:50
+14:59:48: {"errorCode":"-11006","errorContent":"手下留情,给主人留一点吧","errorType":"logic"}
+14:59:43: Steal:独孤悠然:328-374 
+14:59:38: GetMyPasture:独孤悠然:422-420 14:59:38
+14:59:37: 触发 [独孤悠然] 20偷取
+14:59:14: {"poptype":3,"addExp":0,"animal":"","ecode":-11003,"errorCode":-11003,"errorType":"1007","errorContent":"system","direction":"system"} farmTime=1660805952,farmKey=null,pastureKey=00005f48335a2f79f6bd77e65d8bc1e01f0340ad,uIdx=646527948,uId=2502702211,nick=独孤悠然6,serial=-1
+14:59:14: Post:独孤悠然:907-418 
+14:59:07: GetMyPasture:独孤悠然:860-418 14:59:07
+14:59:06: 触发 [独孤悠然] 20赶产-2022/8/18 14:59:06-2022/8/18 14:59:06-44791.6243759028
+14:58:47: 正在对时 [独孤悠然] 的牧场2022/8/18 14:59:06
+14:55:05: GetMyPasture:独孤悠然:438-418 14:55:05
+14:55:04: 在 【独孤悠然】 的牧场抓取 [雪貂崽] ×1只 金币+83
+14:54:59: Steal:独孤悠然:390-398 
+14:54:53: GetMyPasture:独孤悠然:438-406 14:54:53
+14:54:53: 触发 [独孤悠然] 3偷取
+14:54:38: 在 【独孤悠然】 的牧场 赶 [雪貂] 生产 经验+2
+14:54:33: Post:独孤悠然:359-374 
+14:54:27: GetMyPasture:独孤悠然:422-389 14:54:27
+14:54:27: 触发 [独孤悠然] 3赶产-2022/8/18 14:54:27-2022/8/18 14:54:27-44791.6211465625
+14:54:07: 正在对时 [独孤悠然] 的牧场2022/8/18 14:54:27
+14:51:08: GetMCXunBaoHome:1156-356 
+14:51:01: MCSpriteBag:344-356 
+14:50:56: MCGetSpritePKHome:360-369 
+14:50:51: MCGetSprite:343-379 
+14:50:45: MCSpriteRank:500-415 
+14:50:40: BirdBag:328-331 
+14:50:34: GetTreeHome:312-335 
+14:50:34: GetMCHelp:312-358 
+14:50:29: GetMyPasture:独孤悠然7:453-404 14:50:29
+14:50:28: GetMyHigh:344-355 
+14:50:27: 在 【独孤悠然】 的牧场 收集便便×1 金币+30
+14:50:27: {"code":-5,"direction":"动物收获数量不足~","poptype":3,"ret":-5}
+14:50:22: ClearDejecta:独孤悠然:375-367 
+14:50:22: MCHBookOpenBox:344-359 
+14:50:22: 在 【独孤悠然】 的牧场 收集便便×1 金币+30
+14:50:17: ClearDejecta:独孤悠然:375-374 
+14:50:17: MCHBookHome:344-374 
+14:50:11: GetMyPasture:独孤悠然:422-404 14:50:11
+14:50:11: GetMyPasture:422-387 14:50:11
+14:50:11: GetMCHelp:328-352 
+14:50:11: 休息完毕，开启工作
+14:45:40: GetMyPasture:437-403 14:45:40
+14:45:33: MCGetBag:344-369 
+14:45:33: 收获 副产品 [绿尾虹雉崽]×11只 经验+6 金币+946
+14:45:28: HarvestP:375-394 
+14:45:22: GetMyPasture:437-414 14:45:23
+14:45:22: 触发自家刷新:Animals-sid:8-2022/8/18 14:45:22
+14:45:07: 在 【独孤悠然6】 的牧场 赶 [绿尾虹雉] 生产 经验+5
+14:45:02: Post:344-391 
+14:44:56: GetMyPasture:453-438 14:44:57
+14:44:56: 触发自家刷新:Animals-sid:8-2022/8/18 14:44:56
+14:42:12: GetMyPasture:453-424 14:42:12
+14:40:08: 触发 [独孤悠然7] 1赶产-2022/8/18 14:40:09-2022/8/18 14:40:09-44791.6112159954
+14:39:48: 正在对时 [独孤悠然7] 的牧场2022/8/18 14:40:09
+14:31:11: GetMyPasture:469-477 14:31:12
+14:31:00: 触发 [独孤悠然] 2赶产-2022/8/18 14:31:00-2022/8/18 14:31:00-44791.6048616551
+14:30:40: 正在对时 [独孤悠然] 的牧场2022/8/18 14:31:00
+14:21:06: GetMCXunBaoHome:1078-351 
+14:21:00: MCSpriteBag:329-351 
+14:20:55: MCGetSpritePKHome:359-374 
+14:20:49: MCGetSprite:359-389 
+14:20:44: MCSpriteRank:516-419 
+14:20:38: BirdBag:312-322 
+14:20:33: GetMCHelp:329-332 
+14:20:33: GetTreeHome:329-336 
+14:20:28: GetMyHigh:328-344 
+14:20:27: {"code":-5,"direction":"动物收获数量不足~","poptype":3,"ret":-5}
+14:20:22: MCHBookOpenBox:359-360 
+14:20:17: MCHBookHome:329-362 
+14:20:11: GetMyPasture:437-395 14:20:11
+14:20:11: 自动休息
+14:16:40: GetMyPasture:438-391 14:16:40
+14:05:49: GetMCHelp:328-363 
+14:05:49: 牧场小手
+14:05:40: GetMyPasture:独孤悠然7:422-398 14:05:40
+14:05:38: {"errorCode":"-11006","errorContent":"手下留情,给主人留一点吧","errorType":"logic"}
+14:05:33: Steal:独孤悠然7:343-375 
+14:05:28: GetMyPasture:独孤悠然7:437-407 14:05:28
+14:05:27: 触发 [独孤悠然7] 4偷取
+14:05:07: {"poptype":3,"addExp":0,"animal":"","ecode":-11003,"errorCode":-11003,"errorType":"1007","errorContent":"system","direction":"system"} farmTime=1660802707,farmKey=null,pastureKey=acb5535be797f9a2038b65c71f75994fd3ceee4e,uIdx=646527948,uId=786727825,nick=独孤悠然6,serial=-1
+14:05:07: Post:独孤悠然7:344-377 
+14:05:02: GetMyPasture:独孤悠然7:422-411 14:05:02
+14:04:56: 触发 [独孤悠然7] 4赶产-2022/8/18 14:04:57-2022/8/18 14:04:57-44791.5867715625
+14:04:55: GetMyPasture:独孤悠然:438-401 14:04:56
+14:04:54: {"errorCode":"-11006","errorContent":"手下留情,给主人留一点吧","errorType":"logic"}
+14:04:49: Steal:独孤悠然:343-364 
+14:04:43: GetMyPasture:独孤悠然:406-386 14:04:44
+14:04:43: 触发 [独孤悠然] 8偷取
+14:04:37: 正在对时 [独孤悠然7] 的牧场2022/8/18 14:04:57
+14:04:23: {"poptype":3,"addExp":0,"animal":"","ecode":-11003,"errorCode":-11003,"errorType":"1007","errorContent":"system","direction":"system"} farmTime=1660802663,farmKey=null,pastureKey=cef0fa2ef8bb1850aa65c343c598e620b1659374,uIdx=646527948,uId=2502702211,nick=独孤悠然6,serial=-1
+14:04:23: Post:独孤悠然:343-367 
+14:04:17: GetMyPasture:独孤悠然:437-391 14:04:18
+14:04:17: 触发 [独孤悠然] 8赶产-2022/8/18 14:04:17-2022/8/18 14:04:17-44791.5863085995
+14:03:57: 正在对时 [独孤悠然] 的牧场2022/8/18 14:04:17
+13:53:26: GetMyPasture:独孤悠然:422-403 13:53:26
+13:53:25: 在 【独孤悠然】 的牧场抓取 [金丝猴崽] ×1只 金币+89
+13:53:25: 在 【独孤悠然】 的牧场抓取 [汗血宝马崽] ×1只 金币+88
+13:53:20: Steal:独孤悠然:359-385 
+13:53:14: GetMyPasture:独孤悠然:406-411 13:53:14
+13:53:14: 触发 [独孤悠然] 16偷取
+13:53:00: GetMyPasture:独孤悠然:453-416 13:53:00
+13:52:59: 触发 [独孤悠然] 16赶产-2022/8/18 13:52:59-2022/8/18 13:52:59-44791.5784613773
+13:52:39: 正在对时 [独孤悠然] 的牧场2022/8/18 13:52:59
+13:51:28: MCSpriteBag:329-380 
+13:51:23: MCGetSpritePKHome:375-432 
+13:51:17: MCGetSprite:328-489 
+13:51:12: MCSpriteRank:563-573 
+13:51:11: 与[菊花兔]玩耍 金币+10000  (小:2089 中:146 大:3)
+13:51:06: GetMCXunBaoHome:1078-440 
+13:51:06: MCSpritePlay:343-440 
+13:51:00: MCSpriteBag:328-447 
+13:50:55: MCGetSpritePKHome:375-475 
+13:50:49: MCGetSprite:359-445 
+13:50:44: GetMCHelp:329-440 
+13:50:44: MCSpriteRank:500-526 
+13:50:44: 牧场小手
+13:50:38: BirdBag:328-413 
+13:50:33: GetTreeHome:344-385 
+13:50:33: GetMCHelp:329-426 
+13:50:28: GetMyHigh:359-427 
+13:50:27: {"code":-5,"direction":"动物收获数量不足~","poptype":3,"ret":-5}
+13:50:22: MCHBookOpenBox:328-425 
+13:50:17: MCHBookHome:328-432 
+13:50:11: GetMyPasture:453-495 13:50:11
+13:46:49: 总计好友：3个
+13:46:49: 读取校友好友：0个（校友已关停，无法读取）
+13:46:49: 读取空间好友：3个
+13:46:44: GetMyPasture:437-398 13:46:45
+13:46:44: GetMCFriend:360-359 
+13:46:44: 触发自家刷新:Empty WoMaxNum:1-9 PeMaxNum:0-10
+13:46:41: 自动校验服务器时间
+13:46:39: MCGetBag:328-357 
+13:46:38: 购买 [冠企鹅] ×1只 金币-18760 经验+0
+13:46:33: BuyAnimal:375-386 
+13:46:33: 您选择了 [点亮图鉴]或[点亮3星]，正在放养 [未点亮]或[未3星] 幼崽
+13:46:28: GetMyPasture:453-398 13:46:28
+13:46:21: MCCheckBooksList:313-343 
+13:46:16: MCMyHistory:344-374 
+13:46:16: 收获 动物 [紫貂]×1 经验+13 金币+19100
+13:46:11: HarvestA:407-405 
+13:46:05: GetMyPasture:468-404 13:46:05
+13:46:05: 触发自家刷新:Animals-sid:17-2022/8/18 13:46:05
+13:38:49: GetMyPasture:独孤悠然7:453-429 13:38:49
+13:38:47: {"errorCode":"-11006","errorContent":"手下留情,给主人留一点吧","errorType":"logic"}
+13:38:42: GetMyPasture:453-406 13:38:42
+13:38:41: Steal:独孤悠然7:329-360 
+13:38:36: GetMyPasture:独孤悠然7:422-391 13:38:36
+13:38:35: MCGetBag:328-360 
+13:38:35: 收获 副产品 [穿山甲崽]×13只 经验+10 金币+1014
+13:38:35: 触发 [独孤悠然7] 7偷取
+13:38:30: HarvestP:375-392 
+13:38:25: GetMyPasture:453-410 13:38:25
+13:38:24: 触发自家刷新:Animals-sid:13-2022/8/18 13:38:24
+13:38:15: {"poptype":3,"addExp":0,"animal":"","ecode":-11003,"errorCode":-11003,"errorType":"1007","errorContent":"system","direction":"system"} farmTime=1660801095,farmKey=null,pastureKey=eb826d3d8f13764d5d961e3c40c9600b6ccc6d04,uIdx=646527948,uId=786727825,nick=独孤悠然6,serial=-1
+13:38:15: Post:独孤悠然7:344-367 
+13:38:10: GetMyPasture:独孤悠然7:421-391 13:38:10
+13:38:09: 触发 [独孤悠然7] 7赶产-2022/8/18 13:38:09-2022/8/18 13:38:09-44791.5681604514
+13:38:05: {"poptype":3,"addExp":0,"animal":"","ecode":-11003,"errorCode":-11003,"errorType":"1007","errorContent":"system","direction":"system"} farmTime=1660801084,farmKey=null,pastureKey=5427ed48500e5dcdfb9fc665ce74fbcc98d1bfd9,uIdx=646527948,serial=-1
+13:38:05: Post:328-362 
+13:37:59: GetMyPasture:453-396 13:37:59
+13:37:59: 触发自家刷新:Animals-sid:13-2022/8/18 13:37:59
+13:37:49: 正在对时 [独孤悠然7] 的牧场2022/8/18 13:38:09
+13:35:38: GetMCHelp:328-339 
+13:35:38: 牧场小手
+13:31:11: GetMyPasture:453-408 13:31:12
+13:21:01: GetMCXunBaoHome:1125-359 
+13:20:55: MCSpriteBag:344-359 
+13:20:50: MCGetSpritePKHome:375-374 
+13:20:44: MCGetSprite:328-374 
+13:20:39: MCSpriteRank:516-420 
+13:20:33: GetMCHelp:313-324 
+13:20:33: BirdBag:328-335 
+13:20:33: 牧场小手
+13:20:28: GetTreeHome:343-342 
+13:20:28: GetMCHelp:328-342 
+13:20:22: GetMyHigh:359-357 
+13:20:17: MCHBookHome:297-355 
+13:20:11: GetMyPasture:453-413 13:20:11
+13:12:51: GetMyPasture:独孤悠然:437-404 13:12:51
+13:12:49: 在 【独孤悠然】 的牧场抓取 [龙猫崽] ×1只 金币+93
+13:12:44: Steal:独孤悠然:343-372 
+13:12:39: GetMyPasture:独孤悠然:422-402 13:12:39
+13:12:38: 触发 [独孤悠然] 4偷取
+13:12:18: {"poptype":3,"addExp":0,"animal":"","ecode":-11003,"errorCode":-11003,"errorType":"1007","errorContent":"system","direction":"system"} farmTime=1660799538,farmKey=null,pastureKey=bd563db5828e894b59082cb708434ecb01e3adaa,uIdx=646527948,uId=2502702211,nick=独孤悠然6,serial=-1
+13:12:18: Post:独孤悠然:344-382 
+13:12:13: GetMyPasture:独孤悠然:437-421 13:12:13
+13:12:12: 触发 [独孤悠然] 4赶产-2022/8/18 13:12:13-2022/8/18 13:12:13-44791.5501511806
+13:11:52: 正在对时 [独孤悠然] 的牧场2022/8/18 13:12:13
+13:05:27: GetMCHelp:313-406 
+13:05:27: 牧场小手
+13:01:55: GetMyPasture:独孤悠然:469-440 13:01:55
+13:01:53: {"errorCode":"-11006","errorContent":"手下留情,给主人留一点吧","errorType":"logic"}
+13:01:48: Steal:独孤悠然:344-411 
+13:01:43: GetMyPasture:独孤悠然:437-479 13:01:43
+13:01:42: 触发 [独孤悠然] 9偷取
+13:01:27: 在 【独孤悠然】 的牧场 赶 [海狗] 生产 经验+2
+13:01:22: Post:独孤悠然:609-521 
+13:01:16: GetMyPasture:独孤悠然:437-433 13:01:17
+13:01:16: 触发 [独孤悠然] 9赶产-2022/8/18 13:01:16-2022/8/18 13:01:16-44791.5425468403
+13:00:56: 正在对时 [独孤悠然] 的牧场2022/8/18 13:01:16
+13:00:16: GetMyPasture:453-429 13:00:16
+13:00:09: MCGetBag:391-406 
+13:00:09: 收获 副产品 [粉色羊驼崽]×9只 经验+12 金币+783
+13:00:04: HarvestP:422-422 
+12:59:58: GetMyPasture:485-423 12:59:59
+12:59:58: 触发自家刷新:Animals-sid:3-2022/8/18 12:59:58
+12:59:38: {"poptype":3,"addExp":0,"animal":"","ecode":-11003,"errorCode":-11003,"errorType":"1007","errorContent":"system","direction":"system"} farmTime=1660798778,farmKey=null,pastureKey=58fe550bde9d4e8bcfe1406943638d52d0221905,uIdx=646527948,serial=-1
+12:59:38: Post:329-362 
+12:59:32: GetMyPasture:438-395 12:59:33
+12:59:32: 触发自家刷新:Animals-sid:3-2022/8/18 12:59:32
+12:56:59: FisLock疑似卡死结束
+12:56:54: GetMyPasture:453-434 12:56:54
+12:56:54: FisLock疑似卡死
+12:56:53: MCGetBag:360-378 
+12:56:53: 购买 [山魈] ×1只 金币-19000 经验+0
+12:56:48: BuyAnimal:375-374 
+12:56:48: 触发自家刷新:Empty WoMaxNum:1-9 PeMaxNum:0-10
+12:56:48: 您选择了 [点亮图鉴]或[点亮3星]，正在放养 [未点亮]或[未3星] 幼崽
+12:56:43: GetMyPasture:453-402 12:56:43
+12:56:42: 捐赠 [肉鸡] 金币+300
+12:56:37: MCAnimalDonate:344-351 
+12:56:37: 今日捐赠经验已刷满
+12:56:37: 从背包放养 [肉鸡] ×1只 经验+0
+12:56:32: RaiseCub:359-359 
+12:56:32: 捐赠 [肉鸡] 金币+300
+12:56:27: MCAnimalDonate:359-360 
+12:56:26: 从背包放养 [肉鸡] ×1只 经验+5
+12:56:21: RaiseCub:360-362 
+12:56:21: 捐赠 [肉鸡] 金币+300
+12:56:16: MCAnimalDonate:360-364 
+12:56:15: 从背包放养 [肉鸡] ×1只 经验+5
+12:56:10: RaiseCub:375-368 
+12:56:10: 捐赠 [肉鸡] 金币+300
+12:56:05: MCAnimalDonate:360-361 
+12:56:05: 从背包放养 [肉鸡] ×1只 经验+5
+12:55:59: RaiseCub:375-363 
+12:55:59: 捐赠 [肉鸡] 金币+300
+12:55:54: MCAnimalDonate:328-351 
+12:55:54: 从背包放养 [肉鸡] ×1只 经验+5
+12:55:49: RaiseCub:391-375 
+12:55:48: 捐赠 [肉鸡] 金币+300
+12:55:43: MCAnimalDonate:343-359 
+12:55:43: 从背包放养 [肉鸡] ×1只 经验+5
+12:55:38: RaiseCub:391-376 
+12:55:37: 捐赠 [肉鸡] 金币+300
+12:55:32: MCAnimalDonate:344-361 
+12:55:32: 从背包放养 [肉鸡] ×1只 经验+5
+12:55:27: RaiseCub:391-378 
+12:55:27: 捐赠 [肉鸡] 金币+300
+12:55:21: MCAnimalDonate:344-366 
+12:55:21: 从背包放养 [肉鸡] ×1只 经验+5
+12:55:16: RaiseCub:407-389 
+12:55:16: 捐赠 [肉鸡] 金币+300
+12:55:11: MCAnimalDonate:375-371 
+12:55:10: 从背包放养 [肉鸡] ×1只 经验+5
+12:55:05: RaiseCub:375-367 
+12:55:05: 捐赠 [肉鸡] 金币+300
+12:55:00: MCAnimalDonate:359-360 
+12:54:54: MCGetBag:359-361 
+12:54:54: 购买 [肉鸡] ×30只 金币-18000 经验+5
+12:54:49: BuyAnimal:375-363 
+12:54:48: 捐赠 [肉鸡] 金币+300
+12:54:43: MCAnimalDonate:343-352 
+12:54:43: 从背包放养 [肉鸡] ×1只 经验+5
+12:54:38: RaiseCub:343-361 
+12:54:38: 捐赠 [肉鸡] 金币+300
+12:54:33: MCAnimalDonate:390-379 
+12:54:32: 从背包放养 [肉鸡] ×1只 经验+5
+12:54:27: RaiseCub:359-368 
+12:54:27: 捐赠 [肉鸡] 金币+300
+12:54:22: MCAnimalDonate:359-378 
+12:54:21: 从背包放养 [肉鸡] ×1只 经验+5
+12:54:16: RaiseCub:422-397 
+12:54:16: 捐赠 [肉鸡] 金币+300
+12:54:11: MCAnimalDonate:328-372 
+12:54:10: 从背包放养 [肉鸡] ×1只 经验+5
+12:54:05: RaiseCub:391-416 
+12:54:05: 捐赠 [肉鸡] 金币+300
+12:54:00: MCAnimalDonate:454-441 
+12:53:59: 从背包放养 [肉鸡] ×1只 经验+5
+12:53:54: RaiseCub:390-428 
+12:53:54: 捐赠 [肉鸡] 金币+300
+12:53:49: MCAnimalDonate:562-467 
+12:53:48: 从背包放养 [肉鸡] ×1只 经验+5
+12:53:43: RaiseCub:375-372 
+12:53:43: 捐赠 [肉鸡] 金币+300
+12:53:38: MCAnimalDonate:359-370 
+12:53:38: 从背包放养 [肉鸡] ×1只 经验+5
+12:53:32: RaiseCub:375-382 
+12:53:32: 捐赠 [肉鸡] 金币+300
+12:53:27: MCAnimalDonate:360-389 
+12:53:27: 从背包放养 [肉鸡] ×1只 经验+5
+12:53:22: RaiseCub:406-418 
+12:53:21: 捐赠 [肉鸡] 金币+300
+12:53:16: MCAnimalDonate:375-431 
+12:53:16: 从背包放养 [肉鸡] ×1只 经验+5
+12:53:11: RaiseCub:578-488 
+12:53:10: 捐赠 [肉鸡] 金币+300
+12:53:05: MCAnimalDonate:328-398 
+12:53:05: 从背包放养 [肉鸡] ×1只 经验+5
+12:53:00: RaiseCub:391-469 
+12:52:59: 捐赠 [肉鸡] 金币+300
+12:52:54: MCAnimalDonate:688-548 
+12:52:54: 从背包放养 [肉鸡] ×1只 经验+5
+12:52:48: RaiseCub:391-408 
+12:52:48: 捐赠 [肉鸡] 金币+300
+12:52:43: MCAnimalDonate:485-426 
+12:52:42: 从背包放养 [肉鸡] ×1只 经验+5
+12:52:37: RaiseCub:375-368 
+12:52:37: 捐赠 [肉鸡] 金币+300
+12:52:32: MCAnimalDonate:360-362 
+12:52:32: 从背包放养 [肉鸡] ×1只 经验+5
+12:52:27: RaiseCub:375-365 
+12:52:26: 捐赠 [肉鸡] 金币+300
+12:52:21: MCAnimalDonate:343-356 
+12:52:21: 从背包放养 [肉鸡] ×1只 经验+5
+12:52:16: RaiseCub:390-370 
+12:52:15: 捐赠 [肉鸡] 金币+300
+12:52:10: MCAnimalDonate:344-351 
+12:52:10: 从背包放养 [肉鸡] ×1只 经验+5
+12:52:05: RaiseCub:359-358 
+12:52:04: 捐赠 [肉鸡] 金币+300
+12:51:59: MCAnimalDonate:343-358 
+12:51:59: 从背包放养 [肉鸡] ×1只 经验+5
+12:51:54: RaiseCub:375-373 
+12:51:54: 捐赠 [肉鸡] 金币+300
+12:51:49: MCAnimalDonate:360-371 
+12:51:48: 从背包放养 [肉鸡] ×1只 经验+5
+12:51:43: RaiseCub:375-382 
+12:51:43: 捐赠 [肉鸡] 金币+300
+12:51:38: MCAnimalDonate:375-389 
+12:51:32: GetMyPasture:437-403 12:51:32
+12:51:25: MCGetBag:313-369 
+12:51:25: 从背包放养 [肉鸡] ×1只 经验+5
+12:51:20: RaiseCub:422-425 
+12:51:15: GetMyPasture:516-429 12:51:14
+12:51:13: FisLock疑似卡死结束
+12:51:08: MCCheckBooksList:312-343 
+12:51:03: GetMCXunBaoHome:1250-374 
+12:51:02: MCMyHistory:359-374 
+12:51:01: 收获 动物 [冠企鹅]×1 经验+10 金币+19390
+12:50:56: HarvestA:406-389 
+12:50:56: MCSpriteBag:344-373 
+12:50:51: GetMyPasture:437-403 12:50:51
+12:50:50: FisLock疑似卡死
+12:50:49: MCGetSpritePKHome:360-370 
+12:50:44: 触发自家刷新:Animals-sid:16-2022/8/18 12:50:44
+12:50:44: MCGetSprite:359-381 
+12:50:39: MCSpriteRank:485-404 
+12:50:33: BirdBag:328-323 
+12:50:28: GetTreeHome:313-319 
+12:50:28: GetMCHelp:313-325 
+12:50:22: GetMCHelp:328-337 
+12:50:22: GetMyHigh:312-346 
+12:50:22: 牧场小手
+12:50:17: MCHBookHome:328-381 
+12:50:11: GetMyPasture:453-435 12:50:11
+12:45:17: GetMyPasture:独孤悠然7:437-432 12:45:17
+12:45:15: 在 【独孤悠然7】 的牧场抓取 [小熊猫崽] ×1只 金币+79
+12:45:10: Steal:独孤悠然7:406-427 
+12:45:05: GetMyPasture:独孤悠然7:453-448 12:45:05
+12:45:04: 触发 [独孤悠然7] 2偷取
+12:44:44: {"poptype":3,"addExp":0,"animal":"","ecode":-11003,"errorCode":-11003,"errorType":"1007","errorContent":"system","direction":"system"} farmTime=1660797884,farmKey=null,pastureKey=6f6f1740b53026f52c54b35561d53849aad20537,uIdx=646527948,uId=786727825,nick=独孤悠然6,serial=-1
+12:44:44: Post:独孤悠然7:344-444 
+12:44:39: GetMyPasture:独孤悠然7:422-545 12:44:39
+12:44:38: 触发 [独孤悠然7] 2赶产-2022/8/18 12:44:39-2022/8/18 12:44:39-44791.5310076736
+12:44:18: 正在对时 [独孤悠然7] 的牧场2022/8/18 12:44:39
+12:42:29: 在 【独孤悠然6】 的牧场 打蚊子×1 经验+3
+12:42:23: KillMosquito:343-403 
+12:42:18: GetMyPasture:453-464 12:42:19
+12:35:16: GetMCHelp:312-338 
+12:35:16: 牧场小手
+12:31:18: GetMyPasture:468-513 12:31:18
+12:21:44: BirdBag:329-330 
+12:21:38: GetTreeHome:328-332 
+12:21:38: 派遣飞鸟 [S]金丝雀(9级) 去觅食 金币-98000
+12:21:33: BirdWork:343-337 
+12:21:28: BirdBag:328-332 
+12:21:22: GetTreeHome:312-337 
+12:21:02: GetMCXunBaoHome:1344-363 
+12:20:56: MCSpriteBag:344-363 
+12:20:51: MCGetSpritePKHome:375-383 
+12:20:45: MCGetSprite:344-391 
+12:20:40: MCSpriteRank:547-439 
+12:20:34: BirdBag:329-332 
+12:20:29: GetTreeHome:328-336 
+12:20:29: GetMCHelp:328-344 
+12:20:23: GetMyHigh:312-360 
+12:20:18: GetMyPasture:独孤悠然7:437-409 12:20:18
+12:20:17: MCHBookHome:312-382 
+12:20:11: GetMyPasture:515-453 12:20:11
+12:20:11: GetMyPasture:独孤悠然:438-392 12:20:11
+12:20:11: GetMCHelp:328-347 
+12:20:11: 休息完毕，开启工作
+12:12:17: GetMyPasture:703-550 12:12:18
+12:11:38: 触发 [独孤悠然] 13赶产-2022/8/18 12:11:39-2022/8/18 12:11:39-44791.5080909954
+12:11:18: 正在对时 [独孤悠然] 的牧场2022/8/18 12:11:39
+12:01:17: GetMyPasture:453-420 12:01:17
+12:01:10: MCGetBag:375-387 
+12:01:10: 收获 副产品 [喜马拉雅麝崽]×16只 经验+11 金币+1360
+12:01:05: HarvestP:375-399 
+12:00:59: GetMyPasture:438-424 12:01:00
+12:00:59: 触发自家刷新:Animals-sid:12-2022/8/18 12:00:59
+12:00:44: 在 【独孤悠然6】 的牧场 赶 [喜马拉雅麝] 生产 经验+5
+12:00:39: Post:359-411 
+12:00:33: GetMyPasture:453-464 12:00:34
+12:00:33: 触发自家刷新:Animals-sid:12-2022/8/18 12:00:33
+11:59:39: 触发 [独孤悠然7] 14赶产-2022/8/18 11:59:39-2022/8/18 11:59:39-44791.4997569444
+11:59:19: 正在对时 [独孤悠然7] 的牧场2022/8/18 11:59:39
+11:57:54: GetMyPasture:719-544 11:57:54
+11:57:47: MCGetBag:328-370 
+11:57:47: 收获 副产品 [袋食蚁兽崽]×18只 经验+12 金币+1692
+11:57:42: HarvestP:391-412 
+11:57:36: GetMyPasture:453-433 11:57:36
+11:57:36: 触发自家刷新:Animals-sid:6-2022/8/18 11:57:35
+11:57:21: 在 【独孤悠然6】 的牧场 赶 [袋食蚁兽] 生产 经验+5
+11:57:16: Post:390-414 
+11:57:10: GetMyPasture:500-439 11:57:10
+11:57:10: 触发自家刷新:Animals-sid:6-2022/8/18 11:57:10
+11:51:02: GetMCXunBaoHome:1406-378 
+11:50:55: MCSpriteBag:312-378 
+11:50:50: MCGetSpritePKHome:500-444 
+11:50:44: MCGetSprite:359-389 
+11:50:39: MCSpriteRank:516-419 
+11:50:33: BirdBag:313-322 
+11:50:28: GetMCHelp:344-331 
+11:50:28: GetTreeHome:312-319 
+11:50:23: GetMyHigh:313-326 
+11:50:17: MCHBookHome:312-339 
+11:50:12: GetMyPasture:843-367 11:50:12
+11:50:11: 自动休息
+11:46:49: 总计好友：3个
+11:46:49: 读取校友好友：0个（校友已关停，无法读取）
+11:46:49: 读取空间好友：3个
+11:46:44: GetMCFriend:360-370 
+11:46:41: 自动校验服务器时间
+11:40:08: GetMyPasture:579-473 11:40:09
+11:40:02: MCGetBag:343-368 
+11:40:02: 收获 副产品 [雪貂崽]×14只 经验+9 金币+1162
+11:39:57: HarvestP:375-394 
+11:39:51: GetMyPasture:453-413 11:39:51
+11:39:51: 触发自家刷新:Animals-sid:7-2022/8/18 11:39:50
+11:39:41: 在 【独孤悠然6】 的牧场 收集便便×1 金币+30
+11:39:36: ClearDejecta:375-373 
+11:39:36: 在 【独孤悠然6】 的牧场 赶 [雪貂] 生产 经验+5
+11:39:31: Post:343-372 
+11:39:25: GetMyPasture:454-402 11:39:25
+11:39:25: 触发自家刷新:Animals-sid:7-2022/8/18 11:39:25
+11:35:44: GetMCHelp:312-373 
+11:35:44: 牧场小手
+11:31:12: GetMyPasture:468-421 11:31:12
+11:21:02: GetMCXunBaoHome:1890-388 
+11:20:55: MCSpriteBag:797-635 
+11:20:49: MCGetSpritePKHome:343-350 
+11:20:44: MCGetSprite:344-358 
+11:20:38: GetMCHelp:328-372 
+11:20:38: MCSpriteRank:500-416 
+11:20:38: 牧场小手
+11:20:33: BirdBag:328-332 
+11:20:27: GetMCHelp:344-336 
+11:20:27: GetTreeHome:313-329 
+11:20:22: GetMyHigh:328-345 
+11:20:17: MCHBookHome:328-362 
+11:20:11: GetMyPasture:453-396 11:20:11
+11:17:59: GetMyPasture:468-424 11:18:00
 11:06:59: GetMyPasture:独:422-388 11:06:59
 11:06:58: 触发 [独] 21赶产-2022/8/18 11:06:59-2022/8/18 11:06:59-44791.4631837731
 11:06:39: 正在对时 [独] 的牧场2022/8/18 11:06:59

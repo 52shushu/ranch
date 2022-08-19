@@ -3720,7 +3720,7 @@
 <asset id="75563" src="http://appimg.qq.com/happyfarm/module/ui/farm/serials/serial_279_v_2_v_1.swf"/>
 <asset id="76001" src="http://appimg.qq.com/happyfarm/module/ui/farm/serials/serial_282_v_1_v_1_v_2.swf"/>
 <asset id="76002" src="http://appimg.qq.com/happyfarm/module/ui/farm/serials/serial_283_v_1_v_1_v_2.swf"/>
-<asset id="76772" src="http://appimg.qq.com/happyfarm/module/ui/farm/serials/serial_284_v_1_v_1_v_2_v_5.swf"/>
+<asset id="76772" src="http://appimg.qq.com/happyfarm/module/ui/farm/serials/serial_284_v_1_v_1_v_2_v_6.swf"/>
 <asset id="77030" src="http://appimg.qq.com/happyfarm/module/ui/farm/serials/seiral_286_v_1_v_1.swf"/>
 <asset id="77462" src="http://appimg.qq.com/happyfarm/module/ui/farm/serials/serial_287_v_1_v_1_v_2_v_3_v_1.swf"/>
 <asset id="77463" src="http://appimg.qq.com/happyfarm/module/ui/farm/serials/serial_288_v_1_v_1_v_2_v_3_v_1.swf"/>
@@ -3742,6 +3742,7 @@
 <asset id="80978" src="http://appimg.qq.com/happyfarm/module/ui/farm/serials/serial_304_v_2.swf"/>
 <asset id="80979" src="http://appimg.qq.com/happyfarm/module/ui/farm/serials/serial_305_v_2.swf"/>
 <asset id="81262" src="http://appimg.qq.com/happyfarm/module/ui/farm/serials/serial_306_v_3.swf"/>
+<asset id="81490" src="http://appimg.qq.com/happyfarm/module/ui/farm/serials/serial_285_v_1.swf"/>
         <asset id="42221" src="http://appimg.qq.com/happyfarm/module/ui/giftpack/giftpack_2_v_12.png"/>
 <asset id="42222" src="http://appimg.qq.com/happyfarm/module/ui/giftpack/giftpack_3_v_12.png"/>
 <asset id="42223" src="http://appimg.qq.com/happyfarm/module/ui/giftpack/giftpack_4_v_12.png"/>
@@ -4025,7 +4026,7 @@
 <!--土地排行 模块-->
 <item id="LANDRANK" src="http://appimg.qq.com/happyfarm/module/LandRankModule_v_20.swf" assets="http://appimg.qq.com/happyfarm/landRankRes_v_21.swf" />
            <!--魔法池 模块-->
-<item id="MANAPOOL_MODULE_ID" src="http://appimg.qq.com/happyfarm/module/ManaPoolModule_v_164.swf" assets="http://appimg.qq.com/happyfarm/module/manapool/manaPoolRes_v_74.swf" 
+<item id="MANAPOOL_MODULE_ID" src="http://appimg.qq.com/happyfarm/module/ManaPoolModule_v_165.swf" assets="http://appimg.qq.com/happyfarm/module/manapool/manaPoolRes_v_75.swf" 
            	     monsterTypeNum="2"   />        
 <!--家族-->
 <item id="FAMILY_MODULE_ID" src="http://appimg.qq.com/happyfarm/module/FamilyModule_v_89.swf" assets="http://appimg.qq.com/happyfarm/module/jiaZuRes_v_33.swf"/>
@@ -4083,7 +4084,7 @@
     <act_common conf="10" id="9" name="家族战每个神兽队伍上限"/>
     <act_common conf="27540_27000_28620_27000_27540_27000_27000_28620_3304800_3434400_3240000_3240000_10327_10125_10732_10125_10327_10125_10125_10732_1239300_1287900_1215000_1215000_120" id="10" name="神兽战斗参数"/>
     <act_common conf="1_3_10_20_30_50_100_200_500_999999" id="11" name="家族 奖励名次范围"/>
-    <act_common conf="12000_10000_9520_9000_8520_8000_7000_3000_4000_2000" id="12" name="家族名次对应奖励数量"/>
+    <act_common conf="12000_10000_9520_9000_8520_8000_7000_6000_4000_2000" id="12" name="家族名次对应奖励数量"/>
     <act_common conf="1_3_10_20_30_50_70_90_120_999999" id="13" name="家族战个人名次范围"/>
     <act_common conf="100_95_90_85_80_75_70_60_45_30" id="14" name="个人名次对应奖励百分比"/>
     <act_common conf="50_60_80_90_100_110_120_140_150_160_170_180_200_210_220_230_240_260_270_280_290_300_320_330_340_350_360_380_390_400_410_420_340_410_490_570_640_720_800_870_950_1030_1110_1180_1260_1340_1410_1490_1570_1640_1720_1800_1880_1950_2030_2110_2180_2260_2340_2410_2490_2570_2640_2720_1140_1280_1420_1550_1690_1830_1960_2100_2240_2370_2510_2650_2790_2920_3060_3200_3330_3470_3610_3740_3880_4020_4150_4290_4430_4570_4700_4840_4980_5110_5250_5390_2090_2290_2490_2700_2900_3100_3300_3500_3710_3910_4110_4310_4520_4720_4920_5120_5320_5530_5730_5930_6130_6340_6540_6740_6940_7140_7350_7550_7750_7950_8150_8360_99999_99999_99999_99999_99999_99999_99999_99999_99999_99999_99999_99999_99999_99999_99999_99999_99999_99999_99999_99999_99999_99999_99999_99999_99999_99999_99999_99999_99999_99999_99999_99999_99999_99999_99999_99999_99999_99999_99999_99999_99999_99999_99999_99999_99999_99999_99999_99999_99999_99999_99999_99999_99999_99999_99999_99999_99999_99999_99999_99999_99999_99999_99999_99999_99999_99999_99999_99999_99999_99999_99999_99999_99999_99999_99999_99999_99999_99999_99999_99999_99999_99999_99999_99999_99999_99999_99999_99999_99999_99999_99999_99999_99999_99999_99999_99999_99999_99999_99999_99999_99999_99999_99999_99999_99999_99999_99999_99999_99999_99999_99999_99999_99999_99999_99999_99999_99999_99999_99999_99999_99999_99999_99999_99999_99999_99999_99999_99999" id="15" name="八卦阵升级点位所需经验"/>
@@ -4106,7 +4107,7 @@
 	<mineActList type="xml">
 		<activity id="KgsdActModule" index="202202241407" start_time="2022-07-22 00:00:00" expire_time="2022-08-04 23:59:59" mouseTip="考古时代" src="http://appimg.qq.com/happyfarm/module/MineKgsdActModule_v_11.swf" res="http://appimg.qq.com/happyfarm/module/minekgsdModuleActRes_v_11.swf"/>
         <activity id="MineTaskActModule" index="202106301433" start_time="2019-3-11 00:00:00" expire_time="2025-03-27 23:59:59" mouseTip="勤劳小矿工" src="http://appimg.qq.com/happyfarm/module/MineTaskActModule_v_6.swf" res="http://appimg.qq.com/happyfarm/module/MineTaskModuleActRes_v_2.swf"/>
-        <activity id="MineLuckyCoinActModule" index="202202101447" start_time="2022-06-24 00:00:00" expire_time="2022-07-07 23:59:59" mouseTip="幸运彩币" src="http://appimg.qq.com/happyfarm/module/MineLuckyCoinActModule_v_3.swf" res="http://appimg.qq.com/happyfarm/module/MineLuckyCoinModuleActRes_v_6.swf"/>
+        <activity id="MineLuckyCoinActModule" index="202202101447" start_time="2022-08-19 00:00:00" expire_time="2022-09-01 23:59:59" mouseTip="幸运彩币" src="http://appimg.qq.com/happyfarm/module/MineLuckyCoinActModule_v_3.swf" res="http://appimg.qq.com/happyfarm/module/MineLuckyCoinModuleActRes_v_7.swf"/>
         <activity id="MineQlnfActModule" index="202106301632" start_time="2019-3-11 00:00:00" expire_time="2021-07-07 23:59:59" mouseTip="矿工评选季" src="http://appimg.qq.com/happyfarm/module/MineQlnfActModule_v_3.swf" res="http://appimg.qq.com/happyfarm/module/MineQlnfModuleActRes_v_2.swf"/>
         <activity id="MineZnActModule" index="202112161625" start_time="2019-3-11 00:00:00" expire_time="2021-12-29 23:59:59" mouseTip="礼包特卖" src="http://appimg.qq.com/happyfarm/module/MineZnActModule_v_14.swf" res="http://appimg.qq.com/happyfarm/module/MineZnModuleActRes_v_14.swf"/>
         <activity id="MineKgtgActModule" index="202110251531" start_time="2022-07-08 00:00:00" expire_time="2022-07-21 23:59:59" mouseTip="矿工的糖果" src="http://appimg.qq.com/happyfarm/module/MineKgtgActModule_v_1.swf" res="http://appimg.qq.com/happyfarm/module/minekgtgModuleActRes_v_5.swf"/>
@@ -4115,6 +4116,8 @@
         <activity id="MineBuyMinerActModule" index="202201061749" start_time="2021-10-15 00:00:00" expire_time="2022-01-19 23:59:59" mouseTip="矿工返场" src="http://appimg.qq.com/happyfarm/module/MineBuyMinerActModule_v_1.swf" res="http://appimg.qq.com/happyfarm/module/MineBuyMinerModuleActRes_v_1.swf"/>
         <activity id="MineStoneExActModule" index="202201241521" start_time="2022-05-26 00:00:00" expire_time="2022-06-08 23:59:59" mouseTip="限时兑换" src="http://appimg.qq.com/happyfarm/module/MineStoneExActModule_v_3.swf" res="http://appimg.qq.com/happyfarm/module/mineStoneExActPCRes_v_1.swf"/>
 	</mineActList>
+    
+    
     
       <!-- 家族活动 -->
     <familyActList type="xml">
@@ -6688,19 +6691,19 @@
 [{"id":1,"name":"点券x200、红色营养液x10、\n白色营养液x8、黄色营养液x4、\n挑战晶石x10"},
 {"id":2,"name":"点券x250、红色营养液x12、\n白色营养液x6、黄色营养液x4、\n挑战晶石x15"},
 {"id":3,"name":"点券x300、红色营养液x12、\n白色营养液x8、黄色营养液x4、\n挑战晶石x20"},
-{"id":4,"name":"点券x400、红色营养液x12、\n白色营养液x8、黄色营养液x4、\n挑战晶石x30、普通经验种子x1、\n神奇绿液x1、普通体力种子x1"},
-{"id":5,"name":"点券x450、普通经验种子x1、\n红色营养液x14、白色营养液x8、\n黄色营养液x4、挑战晶石x35、\n神奇绿液x1、普通体力种子x1"},
-{"id":6,"name":"点券x500、普通经验种子x1、\n红色营养液x14、白色营养液x10、\n黄色营养液x6、挑战晶石x40、\n神奇绿液x1、普通体力种子x1"},
-{"id":7,"name":"点券x700、普通经验种子x2、\n红色营养液x14、白色营养液x10、\n黄色营养液x6、挑战晶石x60、\n神奇绿液x2、普通体力种子x2"},
-{"id":8,"name":"点券x800、普通经验种子x2、\n红色营养液x16、白色营养液x12、\n黄色营养液x8、挑战晶石x65、\n神奇绿液x2、普通体力种子x2"},
-{"id":9,"name":"点券x900、普通经验种子x2、\n星星石x2、三色精华x4、\n挑战晶石x70、神奇绿液x2、\n普通体力种子x2"},
-{"id":10,"name":"点券x1100、普通经验种子x3、\n星星石x4、三色精华x8、\n挑战晶石x100、神奇绿液x3、\n普通体力种子x3"},
-{"id":11,"name":"点券x1200、普通经验种子x3、\n星星石x4、三色精华x10、\n挑战晶石x110、神奇绿液x3、\n普通体力种子x3"},
-{"id":12,"name":"点券x1300、普通经验种子x3、\n星星石x4、三色精华x12、\n挑战晶石x120、神奇绿液x3、\n普通体力种子x3"},
-{"id":13,"name":"点券x1600、中级经验种子x2、\n星星石x6、三色精华x16、\n挑战晶石x150、神奇绿液x4、\n中级体力种子x2"},
-{"id":14,"name":"点券x1700、中级经验种子x2、\n星星石x6、三色精华x18、\n挑战晶石x160、神奇绿液x4、\n中级体力种子x2"},
-{"id":15,"name":"点券x1800、中级经验种子x2、\n星星石x6、三色精华x20、\n七彩精华x1、挑战晶石x170、\n神奇绿液x4、中级体力种子x2"},
-{"id":16,"name":"点券x2500、高级经验种子x2、\n星星石x10、三色精华x30、\n七彩精华x5、挑战晶石x200、\n神奇绿液x5、高级体力种子x2"},
+{"id":4,"name":"点券x400、红色营养液x12、\n白色营养液x8、黄色营养液x4、\n挑战晶石x30、普通经验种子x1、\n神奇绿液x1、普通体力种子x1、\n封神气韵x8"},
+{"id":5,"name":"点券x450、普通经验种子x1、\n红色营养液x14、白色营养液x8、\n黄色营养液x4、挑战晶石x35、\n神奇绿液x1、普通体力种子x1、\n封神气韵x8"},
+{"id":6,"name":"点券x500、普通经验种子x1、\n红色营养液x14、白色营养液x10、\n黄色营养液x6、挑战晶石x40、\n神奇绿液x1、普通体力种子x1、\n封神气韵x8"},
+{"id":7,"name":"点券x700、普通经验种子x2、\n红色营养液x14、白色营养液x10、\n黄色营养液x6、挑战晶石x60、\n神奇绿液x2、普通体力种子x2、\n封神气韵x10"},
+{"id":8,"name":"点券x800、普通经验种子x2、\n红色营养液x16、白色营养液x12、\n黄色营养液x8、挑战晶石x65、\n神奇绿液x2、普通体力种子x2、\n封神气韵x10"},
+{"id":9,"name":"点券x900、普通经验种子x2、\n星星石x2、三色精华x4、\n挑战晶石x70、神奇绿液x2、\n普通体力种子x2、封神气韵x10"},
+{"id":10,"name":"点券x1100、普通经验种子x3、\n星星石x4、三色精华x8、\n挑战晶石x100、神奇绿液x4、\n普通体力种子x3、封神气韵x12"},
+{"id":11,"name":"点券x1200、普通经验种子x3、\n星星石x4、三色精华x10、\n挑战晶石x110、神奇绿液x4、\n普通体力种子x3、封神气韵x12"},
+{"id":12,"name":"点券x1300、普通经验种子x3、\n星星石x4、三色精华x12、\n挑战晶石x120、神奇绿液x4、\n普通体力种子x3、封神气韵x12"},
+{"id":13,"name":"点券x1600、中级经验种子x2、\n星星石x6、三色精华x16、\n挑战晶石x150、神奇绿液x8、\n中级体力种子x2、封神气韵x14"},
+{"id":14,"name":"点券x1700、中级经验种子x2、\n星星石x6、三色精华x18、\n挑战晶石x160、神奇绿液x8、\n中级体力种子x2、封神气韵x14"},
+{"id":15,"name":"点券x1800、中级经验种子x2、\n星星石x6、三色精华x20、\n七彩精华x1、挑战晶石x170、\n神奇绿液x8、中级体力种子x2、\n封神气韵x14"},
+{"id":16,"name":"点券x2500、高级经验种子x2、\n星星石x10、三色精华x30、\n七彩精华x5、挑战晶石x200、\n神奇绿液x16、高级体力种子x2、\n封神气韵x15"},
 {"id":17,"name":"点券x3000、红色营养液x50、\n白色营养液x30、黄色营养液x10、\n中级体力种子x10、挑战晶石x100、\n中级经验种子x2、中级洗练种子x2"},
 {"id":18,"name":"点券x3200、红色营养液x60、\n白色营养液x30、黄色营养液x10、\n中级体力种子x10、挑战晶石x200、\n中级经验种子x4、中级洗练种子x4"},
 {"id":19,"name":"点券x3400、红色营养液x60、\n白色营养液x40、黄色营养液x10、\n中级体力种子x10、挑战晶石x300、\n中级经验种子x6、中级洗练种子x6"},

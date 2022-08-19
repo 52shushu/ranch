@@ -4,7 +4,7 @@
   <!--活动框架-->
   <!--活动框架-->
   <actApiSwf>http://appimg.qq.com/happyfarm/module/ActSDKSwf_v_46.swf</actApiSwf>
-  <activityInfo url="http://appimg.qq.com/happyfarm/data/activity_info_v_306.xml"/>
+  <activityInfo url="http://appimg.qq.com/happyfarm/data/activity_info_v_307.xml"/>
     <HeroCount Count="116" desc="魔法池英雄总数"/>
 
   
@@ -190,7 +190,7 @@
       </url_blog>
   </activity> 
   <activity id="WeeklyShopActivity" start_time="2019-3-11 00:00:00" expire_time="2023-03-11 23:59:59" mouseTip="" src="http://appimg.qq.com/happyfarm/module/activity/WeeklyShopActivity_v_19.swf"> </activity>
-<activity id="tongxingzhengNC" start_time="2021-02-18 00:00:00" expire_time="2022-08-17 23:59:59" mouseTip="通行证" src="http://appimg.qq.com/happyfarm/module/activity/tongxingzhengNC_v_21.swf"></activity>
+<activity id="tongxingzhengNC" start_time="2021-02-18 00:00:00" expire_time="2022-11-16 23:59:59" mouseTip="通行证" src="http://appimg.qq.com/happyfarm/module/activity/tongxingzhengNC_v_22.swf"></activity>
 <activity id="DeepseaexploreAct" start_time="2019-02-07 00:00:00" expire_time="2020-12-17 23:59:59" mouseTip="深海探险" src="http://appimg.qq.com/happyfarm/activity/DeepseaexploreAct_v_8.swf"></activity>
 <activity id="VCoinBuyActivity" start_time="2019-02-07 00:00:00" expire_time="2020-12-10 23:59:59" mouseTip="V币礼包" src="http://appimg.qq.com/happyfarm/module/activity/VCoinBuyActivity_v_6.swf"></activity>
 <activity id="JingZuanYueKa" start_time="2022-02-10 00:00:00" expire_time="2022-08-18 23:59:59" mouseTip="晶钻月卡" src="http://appimg.qq.com/happyfarm/module/activity/JingZuanYueKa_v_34.swf"></activity>
@@ -199,7 +199,7 @@
 <activity id="ShenBingXianShiActivity" start_time="2020-06-24 09:00:00" expire_time="2022-08-04 23:59:59" mouseTip="神兵" src="http://appimg.qq.com/happyfarm/module/activity/ShenBingXianShiActivity_v_26.swf"></activity>
 <activity id="YuanDanLaMeiActivity" start_time="2020-01-01 09:30:00" expire_time="2022-01-06 23:59:59" mouseTip="元旦腊梅香" src="http://appimg.qq.com/happyfarm/module/activity/YuanDanLaMeiActivity_v_7.swf"></activity>
 
-<activity id="TanSuoTaoHuaYuanActivity" start_time="2020-01-01 09:30:00" expire_time="2022-06-09 23:59:59" mouseTip="探索桃花源" src="http://appimg.qq.com/happyfarm/module/activity/TanSuoTaoHuaYuanActivity_v_22.swf"></activity>
+<activity id="TanSuoTaoHuaYuanActivity" start_time="2020-01-01 09:30:00" expire_time="2022-08-25 23:59:59" mouseTip="探索桃花源" src="http://appimg.qq.com/happyfarm/module/activity/TanSuoTaoHuaYuanActivity_v_23.swf"></activity>
 <activity id="WDGiftActivity" start_time="2020-10-01 09:30:00" expire_time="2020-12-03 23:59:59" mouseTip="微端签到" src="http://appimg.qq.com/happyfarm/activity/WDGiftActivity_v_1.swf"></activity>
 	
 
@@ -223,7 +223,7 @@
 <activity id="XinChunBoZhongMangActivity" start_time="2022-05-07 00:00:00" expire_time="2022-07-21 23:59:59" mouseTip="水果沙冰乐" src="http://appimg.qq.com/happyfarm/module/activity/XinChunBoZhongMangActivity_v_27.swf"></activity>
 <activity id="NongChangDaLianHuanActivity" start_time="2019-02-07 00:00:00" expire_time="2021-05-19 23:59:59" mouseTip="农村大联盟" src="http://appimg.qq.com/happyfarm/module/activity/NongChangDaLianHuanActivity_v_4.swf"></activity>
 <activity id="ZheKouActivity" start_time="2022-02-03 00:00:00" expire_time="2022-08-11 23:59:59" mouseTip="晶钻折扣礼" src="http://appimg.qq.com/happyfarm/module/activity/ZheKouActivity_v_82.swf"></activity>
-<activity id="BuChangActivity" start_time="2021-09-21 00:00:00" expire_time="2022-08-11 23:59:59" mouseTip="矿山礼包" src="http://appimg.qq.com/happyfarm/module/activity/BuChangActivity_v_47.swf"></activity>
+<activity id="BuChangActivity" start_time="2021-09-21 00:00:00" expire_time="2022-08-25 23:59:59" mouseTip="矿山礼包" src="http://appimg.qq.com/happyfarm/module/activity/BuChangActivity_v_48.swf"></activity>
 <activity id="fushengruomeng" start_time="2021-02-11 00:00:00" expire_time="2021-07-21 23:59:59" mouseTip="浮生若梦" src="http://appimg.qq.com/happyfarm/module/activity/fushengruomeng_v_6.swf"></activity>
 <activity id="ZhangFeiActivity" start_time="2022-01-21 00:00:00" expire_time="2022-08-18 23:59:59" mouseTip="神荼助阵" src="http://appimg.qq.com/happyfarm/module/activity/ZhangFeiActivity_v_77.swf"></activity>
 <activity id="vipGiftActivity" start_time="2022-01-15 00:00:00" expire_time="2022-07-28 23:59:59" mouseTip="vip礼包" src="http://appimg.qq.com/happyfarm/module/activity/vipGiftActivity_v_47.swf"></activity>
@@ -231,7 +231,7 @@
 <activity id="MoFaChiXingYunLiActivity" start_time="2021-01-14 09:30:00" expire_time="2022-10-20 23:59:59" mouseTip="仙皇点将" src="http://appimg.qq.com/happyfarm/module/activity/MoFaChiXingYunLiActivity_v_24.swf"></activity>	
 <activity id="GanEnJie2017" start_time="2021-01-14 09:30:00" expire_time="2021-03-25 23:59:59" mouseTip="欢乐礼盒" src="http://appimg.qq.com/happyfarm/module/activity/GanEnJie2017_v_14.swf"></activity>
 <activity id="CaiSeFengYeActivity" start_time="2020-01-14 09:30:00" expire_time="2022-05-05 23:59:59" mouseTip="彩色枫叶" src="http://appimg.qq.com/happyfarm/module/activity/CaiSeFengYeActivity_v_27.swf"></activity>
-<activity id="ShengJiaActivity" start_time="2022-01-15 00:00:00" expire_time="2022-07-28 23:59:59" mouseTip="晶钻幸运商城" src="http://appimg.qq.com/happyfarm/module/activity/ShengJiaActivity_v_51.swf"></activity>
+<activity id="ShengJiaActivity" start_time="2022-01-15 00:00:00" expire_time="2022-08-25 23:59:59" mouseTip="晶钻幸运商城" src="http://appimg.qq.com/happyfarm/module/activity/ShengJiaActivity_v_52.swf"></activity>
 <activity id="ShouWeiShangChengActivity" start_time="2022-02-10 00:00:00" expire_time="2022-06-09 23:59:59" mouseTip="守卫商城" src="http://appimg.qq.com/happyfarm/module/activity/ShouWeiShangChengActivity.swf"></activity>
 <activity id="FuDaoActivity" start_time="2022-01-21 00:00:00" expire_time="2022-07-28 23:59:59" mouseTip="欢乐福袋" src="http://appimg.qq.com/happyfarm/module/activity/FuDaoActivity_v_40.swf"></activity>
 <activity id="ShenShouDaZhanActivity" start_time="2022-05-05 00:00:00" expire_time="2022-05-19 23:59:59" mouseTip="勇闯魔城" src="http://appimg.qq.com/happyfarm/module/activity/ShenShouDaZhanActivity_v_8.swf"></activity>
